@@ -17,7 +17,8 @@ Vita3K推荐要求：
 - DLC追加内容安装教程
 - 存档导入教程
 
-# Vita3K项目
+# Vita3K项目以及网站
+https://vita3k.org/
 https://github.com/Vita3K/Vita3K/
 
 # 感谢
