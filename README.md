@@ -1,6 +1,6 @@
 # Vita3K快速指南
 Vita3K需要的配置： 
-- 操作系统：MacOS、Ubuntu或者Windows的64位系统
+- 操作系统：MacOS、Ubuntu或者Windows的64位系统(Windows系统需要安装Visual C++ 2015-2019 Redistributable)
 - 处理器：支持AVX指令集
 - 显卡：支持OpenGL 4.1（最低）或者OpenGL 4.5及以上的版本
 - 运行内存：4GB或者以上的运行内存
