@@ -18,8 +18,8 @@ Vita3K推荐要求：
 - 存档导入教程
 
 # Vita3K项目以及网站
-https://vita3k.org/
-https://github.com/Vita3K/Vita3K/
+- https://vita3k.org/
+- https://github.com/Vita3K/Vita3K/
 
 # 感谢
 Vita3K项目以及Vita3K小组的开发者们
