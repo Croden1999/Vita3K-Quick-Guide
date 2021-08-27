@@ -1,5 +1,5 @@
 # Vita3K快速指南
-支持的操作系统：MacOS、Ubuntu和Windows的64位系统（Windows系统则需要安装Visual C++ 2015-2019 Redistributable）
+支持的操作系统：MacOS、Ubuntu和Windows的64位系统（Windows系统则需要安装Visual C++ 2015-2019 Redistributable运行库）
 
 Vita3K最低要求： 
 - 处理器：支持AVX指令集
