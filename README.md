@@ -15,4 +15,4 @@ Vita3K需要的配置：
 https://github.com/Vita3K/Vita3K/
 
 # 感谢
-Vita3K小组的开发者们
+Vita3K项目以及Vita3K小组的开发者们
