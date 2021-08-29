@@ -1,7 +1,6 @@
 # Vita3K使用教程
 - 使用Vita3K需要下载PUP固件，以在Vita3K中能调用核心模块，另外需要安装字体固件，能显示正常文字。
-- 可以在Vita3K的主页面中选择 【NPXS10015】 Settings 设定 应用程序，打开应用程序选择Language语言->System Language系统语言来切换语言。
-- 可以在Vita3K的主页面中选择 【NPXS10015】 Settings 设定 应用程序，打开应用程序选择Theme & Backgronud主题&背景->Theme主题来切换主题。
+- 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
 # Vita3K界面介绍
 用户管理：
