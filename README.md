@@ -13,10 +13,10 @@
 
 # 教程
 - [->Vita3K使用以及界面教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_vita3k.md)
-- [->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_games.md)
-- [->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlcs.md)
-- [->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_themes.md)
-- [->存档导入教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedatas.md)
+- [->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
+- [->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
+- [->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
+- [->存档导入教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedata.md)
 
 # 贴吧vita3k吧QQ群
 736751007
