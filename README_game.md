@@ -6,7 +6,7 @@
 
 # Mai VPK游戏的安装
 分为两种加载方式：
-1. 加载方式0
+1. 加载方式0（可直接安装，也可以选择文件夹多个安装）
 2. 加载方式5
 
 mai游戏为加载方式0的安装流程：
@@ -26,9 +26,10 @@ mai游戏为加载方式5的安装流程：
 3. 打开游戏文件夹，把在mai_moe/eboot_origin.bin原版eboot替换掉，并改名为eboot.bin；同时将dlc文件夹命名为同游戏ID文件夹，并移动ux0/addcont里，之后点击Refresh刷新显示应用程序，运行游戏即可。
 
 # ZIP游戏的安装
-相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。nonpdrm zip不能直接解压到ux0/app里。
+相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。
+- 注意：nonpdrm zip不能直接解压到ux0/app里，不能运行游戏。
 
-可以在nps下载游戏后打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。
+可以在nps下载游戏后打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
 # PKG游戏的安装
 打开Vita3K模拟器，在菜单栏点击文件—>安装pkg选项，选择pkg文件，输入zrif密钥或者导入work.bin文件，等待安装完成后运行即可。
