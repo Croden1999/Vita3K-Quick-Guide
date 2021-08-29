@@ -40,3 +40,4 @@ mai游戏为加载方式5的安装流程：
 
 # PKG游戏的安装
 打开Vita3K模拟器，在菜单栏点击文件—>安装pkg选项，选择pkg文件，输入zrif密钥或者导入work.bin文件，等待安装完成后运行即可。
+关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://www.nopaystation.com)上搜索内容获取，或者在NPS Browser搜索内容右键复制zrif都是可以的。
