@@ -24,7 +24,7 @@ mai游戏为加载方式5的安装流程：
 1. 在菜单栏点击文件—>打开存放路径选项；
 2. 在ux0/app文件夹中，将游戏vpk改为zip解压到此目录，并将游戏文件夹名字改成游戏ID（如PCSX00000）；
 3. 使用MaiDumpTool来切换加载方式，并设置为加载方式0，之后重新启动Vita3K模拟器运行游戏即可。
-4. 打开游戏文件夹，把在mai_moe/eboot_origin.bin原版eboot替换掉，并改名为eboot.bin；同时将dlc文件夹命名为同游戏ID文件夹，并移动ux0/addcont里，之后点击Refresh刷新显示应用程序，运行游戏即可。
+4. （如果使用MaiDumpTool切换加载方式可以跳过该流程运行游戏）打开游戏文件夹，把在mai_moe/eboot_origin.bin原版eboot替换掉，并改名为eboot.bin；同时将dlc文件夹命名为同游戏ID文件夹，并移动ux0/addcont里，之后点击Refresh刷新显示应用程序，运行游戏即可。
 
 # ZIP游戏的安装
 相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。
