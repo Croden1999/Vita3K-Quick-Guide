@@ -1,13 +1,13 @@
 # 游戏安装教程
 分为三种格式：
-- PKG（加密）
-- ZIP
-- VPK（解密）= ZIP格式
+1. PKG（加密）
+2. ZIP
+3. VPK（解密）= ZIP格式
 
 # Mai VPK游戏的安装
 分为两种加载方式：
-- 加载方式0
-- 加载方式5
+1. 加载方式0
+2. 加载方式5
 
 mai游戏为加载方式0的安装流程：
 
@@ -28,8 +28,7 @@ mai游戏为加载方式5的安装流程：
 # ZIP游戏的安装
 相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。nonpdrm zip不能直接解压到ux0/app里。
 
-安装流程：
-- 可以在nps下载游戏后打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。
+可以在nps下载游戏后打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。
 
 # PKG游戏的安装
 打开Vita3K模拟器，在菜单栏点击文件—>安装pkg选项，选择pkg文件，输入zrif密钥或者导入work.bin文件，等待安装完成后运行即可。
