@@ -12,6 +12,7 @@
 - Filter：筛选显示应用程序
 - Title：标题正序/倒序
 - Refresh：刷新应用程序
+- Search：搜索应用程序
 
 Filter筛选：
 - 所有
