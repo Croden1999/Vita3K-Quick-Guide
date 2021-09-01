@@ -44,7 +44,7 @@ CPU处理器:
 - CPU后端：Dynarmic或者Unicorn，仅Dynarmic的CPU后端才能启用JIT选项
 
 GPU显卡：
-- 启用Spir-V着色器，不是所有显卡都有这个选项，取决于显卡支持程度
+- 启用Spir-V着色器（不是所有显卡都有这个选项，取决于显卡的支持）
 
 System系统：
 - 切换O / X键为确认键
