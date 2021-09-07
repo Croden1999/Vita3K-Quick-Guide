@@ -29,6 +29,7 @@ Filter筛选：
 - Custom Config：自定义配置
 - Open Folder：打开文件夹
 - Delete：删除
+- Update History：更新历史记录
 - Information：信息
 
 菜单栏选项：
