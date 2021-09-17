@@ -1,5 +1,12 @@
 # Vita3K使用教程
 - 使用Vita3K需要下载[PUP固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块，另外需要安装字体固件，能显示正常文字。
+
+系统固件安装流程：
+1. 打开Vita3K；
+2. 点击菜单栏文件；
+3. 选择安装系统固件；
+4. 选择PUP；
+5. 安装完重启模拟器即可。
 - 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
