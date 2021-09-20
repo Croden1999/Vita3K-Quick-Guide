@@ -25,5 +25,5 @@
 - https://vita3k.org/
 - https://github.com/Vita3K/Vita3K/
 
-# 感谢
+# Thanks
 Vita3K项目以及Vita3K小组的开发者们
