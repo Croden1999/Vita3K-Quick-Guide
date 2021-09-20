@@ -17,8 +17,9 @@
 - [->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
 - [->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
 
-# 贴吧vita3k吧QQ群
-736751007
+# Group
+- [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
+- [百度贴吧vita3k吧QQ群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 
 # Vita3K项目以及网站
 - https://vita3k.org/
