@@ -1,5 +1,5 @@
 # Vita3K使用教程
-首次使用Vita3K前，请不要放在带有中文文件夹里（否则打开Vita3K会闪退）。打开Vita3K，创建用户（需要创建用户才能存档），使用Vita3K需要下载[PUP固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。另外需要安装字体固件，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器显示正常文字。
+首次使用Vita3K前，请不要放在带有中文文件夹里（否则打开Vita3K会闪退）。打开Vita3K，创建用户（需要创建用户才能存档），使用Vita3K需要下载PSV的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。另外需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器显示正常文字。
 
 系统固件安装流程：
 1. 打开Vita3K；
