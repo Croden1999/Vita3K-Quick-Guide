@@ -4,7 +4,8 @@
 2. ZIP
 3. VPK（解密）= ZIP格式
 
-注：目前只支持Mai的游戏patch补丁，不支持PKG/ZIP的游戏patch补丁。
+关于patch游戏更新补丁
+- 目前只支持Mai的游戏patch补丁，不支持PKG/ZIP的游戏patch补丁。
 
 # Mai VPK游戏的安装
 分为两种加载方式（可以以记事本浏览mai_moe/load_type.mai文件显示的数字）：
