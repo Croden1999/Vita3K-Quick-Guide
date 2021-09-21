@@ -36,7 +36,7 @@ mai游戏为加载方式5的安装流程：
 
 # ZIP游戏的安装
 相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。
-- 注意：nonpdrm zip不能直接解压到ux0/app里，如果直接解压nonpdrm zip的游戏则不能直接运行游戏。
+- 注意：nonpdrm zip不能直接解压到ux0/app里，如果直接解压nonpdrm zip的游戏，在Vita3K中则无法运行该游戏。
 
 可以在 NPS Browser 下载游戏后打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
