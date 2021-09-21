@@ -20,6 +20,8 @@
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
 - [百度贴吧vita3k吧QQ群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
+- [Vita3K reddit论坛](https://www.reddit.com/r/vita3k)
+- [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 # Vita3K项目以及网站
 - https://vita3k.org/
