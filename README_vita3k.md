@@ -1,6 +1,6 @@
 # Vita3K使用教程
 首次使用Vita3K前，请不要放在带有中文文件夹里（否则打开Vita3K会闪退）。打开Vita3K，创建用户（需要创建用户才能存档），使用Vita3K需要下载PSV的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器才能显示正常文字。
-- 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本受到限制
+- 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制
 
 系统固件安装流程：
 1. 打开Vita3K；
@@ -8,9 +8,9 @@
 3. 选择 安装系统固件 选项；
 4. 选择PUP文件；
 5. 安装完重启模拟器即可。
-
 此流程安装完就可以进行安装游戏、DLC和主题。
 
+在Vita3K切换语言
 - 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
