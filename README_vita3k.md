@@ -10,6 +10,12 @@
 5. 安装完重启模拟器即可。
 此流程安装完就可以进行安装游戏、DLC和主题。
 
+[->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
+
+[->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
+
+[->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
+
 在Vita3K切换语言
 - 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
