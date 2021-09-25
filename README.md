@@ -19,6 +19,9 @@
 - [->存档导入教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedata.md)
 - [->奖杯修改教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_trophy.md)
 
+Vita3K->PSVita
+- [Vita3K存档导回至PSVita教程](https://github.com/Croden1999/Vita3K-quick-guide)
+
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
 - [Vita3K reddit论坛](https://www.reddit.com/r/vita3k)
