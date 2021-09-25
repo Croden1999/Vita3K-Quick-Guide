@@ -1,4 +1,4 @@
-# 存档导入教程（PSVita->Vita3K）
+# 存档导入教程（PSVita→Vita3K）
 将PSVita的存档导入到Vita3K中，两种导入方式都不需要PSVita实机。
 
 分为两种导入方式：
@@ -21,7 +21,7 @@
 2. 将此区间的值写入到SlotParam_X.bin文件后保存。
 3. 将存档文件放入到游戏存档目录，再去运行游戏读取存档即可。
 
-# 存档导入教程（Vita3K->PSVita）
+# 存档导入教程（Vita3K→PSVita）
 将Vita3K的存档导入到PSVita中，在导入前需要在PSVita先运行游戏生成存档文件夹。
 1. 在PSVita中使用Savemgr存档管理器，选择你的游戏并备份导出存档文件，导出的存档在ux0:data/savegames文件夹里。
 2. 找到存档中的sdslot.dat文件，使用十六进制编辑器打开，也可以使用VitaShell文本编辑中的十六进制编辑器。
