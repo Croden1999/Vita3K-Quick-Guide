@@ -16,7 +16,7 @@
 - [->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
 - [->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
 - [->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
-- [->存档导入、导回教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedata.md)
+- [->存档导入/导回教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedata.md)
 - [->奖杯修改教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_trophy.md)
 
 # Group
