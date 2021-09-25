@@ -20,7 +20,7 @@
 - [->奖杯修改教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_trophy.md)
 
 Vita3K->PSVita
-- [Vita3K存档导回至PSVita教程](https://github.com/Croden1999/Vita3K-quick-guide)
+- [->Vita3K存档导回至PSVita教程](https://github.com/Croden1999/Vita3K-quick-guide)
 
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
