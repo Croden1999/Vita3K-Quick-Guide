@@ -30,4 +30,4 @@
 - https://github.com/Vita3K/Vita3K/
 
 # Thanks
-Vita3K的项目以及Team Vita3K的开发者和贡献者们
+Vita3K的项目以及Vita3K Team的开发者和贡献者们
