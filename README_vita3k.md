@@ -8,7 +8,7 @@
 3. 选择 安装系统固件 选项；
 4. 选择PUP文件；
 5. 安装完重启模拟器即可。
-此流程安装完就可以进行安装游戏、DLC和主题。
+此流程安装完就可以进行安装游戏、DLC和主题，你还可以按F11显示全屏。
 
 [->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
 
