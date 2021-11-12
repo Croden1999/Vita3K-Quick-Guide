@@ -2,7 +2,7 @@
 支持的操作系统：
 - MacOS
 - Ubuntu
-- Windows 64位系统（则需要安装[Visual C++ 2015-2019 Redistributable运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
+- Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
 
 最低要求： 
 - 处理器：支持AVX指令集
@@ -24,7 +24,7 @@
 
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
-- [Vita3K reddit论坛](https://www.reddit.com/r/vita3k)
+- [Vita3K Reddit论坛](https://www.reddit.com/r/vita3k)
 - [百度贴吧vita3k吧QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
