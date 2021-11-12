@@ -7,6 +7,7 @@
 关于patch游戏更新补丁
 - 目前只支持Mai的游戏patch补丁，不支持PKG/ZIP的游戏patch补丁。
 - 另外强调不支持运行Vitamin提取的游戏。
+- 同时在安装游戏前把文件名命名为非中文名称再安装。
 
 # Mai VPK游戏的安装
 分为两种加载方式（可以以记事本浏览mai_moe/load_type.mai文件显示的数字）：
