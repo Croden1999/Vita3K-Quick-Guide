@@ -25,7 +25,7 @@
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
 - [Vita3K Reddit论坛](https://www.reddit.com/r/vita3k)
-- [百度贴吧vita3k吧QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
+- [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 # Vita3K项目以及网站
