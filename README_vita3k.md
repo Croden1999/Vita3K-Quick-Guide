@@ -5,17 +5,17 @@
 
 系统固件安装流程：
 1. 打开Vita3K；
-2. 点击菜单栏的 Files（文件） 选项；
+2. 点击顶部选项栏的 Files（文件） 选项；
 3. 选择 Install Firmware（安装系统固件） 选项；
 4. 选择PUP文件；
 5. 安装完固件后重启模拟器即可。
 
 字体固件安装流程（与上面流程相似）：
 1. 打开Vita3K；
-2. 点击菜单栏的 Files（文件） 选项；
+2. 点击顶部选项栏的 Files（文件） 选项；
 3. 选择 Install Firmware（安装系统固件） 选项；
 4. 选择PUP文件；
-5. 安装完固件后点击顶部栏Configuration（配置）选项；
+5. 安装完固件后点击顶部选项栏Configuration（配置）选项；
 6. 点击Settings（设置）选项；
 7. 点击GUI选项；
 8. 勾选Asia Region选项后重启模拟器即可。
