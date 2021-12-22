@@ -1,5 +1,7 @@
 # Vita3K使用教程
-首次使用Vita3K前，请不要放在带有中文文件夹里（否则打开Vita3K创建用户会闪退）。打开Vita3K，创建用户（需要创建用户才能存档），使用Vita3K需要下载PSVita的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器才能显示正常文字。
+首次使用Vita3K前，请不要放在带有中文文件夹里，否则打开Vita3K创建用户会闪退。
+
+打开Vita3K，创建用户，创建完用户后点击你刚才创建的用户，再次点击Vita3K界面任何地方进入到主页面即可，使用Vita3K需要下载PSVita的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器才能显示正常文字。
 - 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制
 
 系统固件安装流程：
@@ -59,8 +61,8 @@ Filter筛选：
 
 # 配置设置选项介绍
 Core核心：
-- Modules Mode（模块模式）：启用实验性功能模块，自动选择或者手动选择模块
-- Modules List（模块列表）：需要设置模块模式为Maunal才能选择手动选择模块
+- Modules Mode（模块模式）：启用实验性功能模块，自动选择、自动手动并用或者手动选择模块
+- Modules List（模块列表）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择）
 
 CPU处理器:
 - CPU后端：Dynarmic或者Unicorn，仅Dynarmic的CPU后端才能启用JIT选项
