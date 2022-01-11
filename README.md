@@ -15,12 +15,12 @@
 - 运行内存：8GB或者以上的运行内存
 
 # 教程
-- [->Vita3K使用以及界面介绍](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_vita3k.md)
-- [->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
-- [->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
-- [->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
-- [->存档导入教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_savedata.md)
-- [->奖杯修改教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_trophy.md)
+- [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
+- [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
+- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
+- [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
+- [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
+- [->奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_trophy)
 
 # Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
