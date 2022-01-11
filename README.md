@@ -29,8 +29,8 @@
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 # Vita3K项目以及网站
-- https://vita3k.org/(https://vita3k.org/)
-- https://github.com/Vita3K/Vita3K/(https://github.com/Vita3K/Vita3K/)
+- https://vita3k.org(https://vita3k.org)
+- https://github.com/Vita3K/Vita3K(https://github.com/Vita3K/Vita3K)
 
 # Thanks
 Vita3K的项目、以及Vita3K Team的开发者和参与项目的贡献者们
