@@ -23,11 +23,11 @@
 
 此流程安装完就可以进行安装游戏、DLC和主题，你还可以按F11显示全屏。
 
-[->游戏安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_game.md)
+[->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
 
-[->DLC追加内容安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_dlc.md)
+[->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
 
-[->主题安装教程](https://github.com/Croden1999/Vita3K-quick-guide/blob/main/README_theme.md)
+[->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
 
 在Vita3K切换语言
 - 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
