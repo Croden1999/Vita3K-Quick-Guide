@@ -15,22 +15,22 @@
 - 运行内存：8GB或者以上的运行内存
 
 # 教程
-- [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
-- [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
-- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
-- [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
-- [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
-- [->奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_trophy)
+- [->Vita3K使用以及界面介绍] (http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
+- [->游戏安装教程] (http://croden1999.github.io/Vita3K-quick-guide/README_game)
+- [->DLC追加内容安装教程] (http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
+- [->主题安装教程] (http://croden1999.github.io/Vita3K-quick-guide/README_theme)
+- [->存档导入教程] (http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
+- [->奖杯修改教程] (http://croden1999.github.io/Vita3K-quick-guide/README_trophy)
 
 # Group
-- [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
-- [Vita3K Reddit论坛](https://www.reddit.com/r/vita3k)
-- [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
-- [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
+- [Vita3K Discord群聊] (https://discord.gg/MaWhJVH)
+- [Vita3K Reddit论坛] (https://www.reddit.com/r/vita3k)
+- [Vita3K模拟器QQ交流群] (https://jq.qq.com/?_wv=1027&k=cg1vogjK)
+- [百度贴吧vita3k吧] (https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 # Vita3K项目以及网站
-- https://vita3k.org/
-- https://github.com/Vita3K/Vita3K/
+- https://vita3k.org/ (https://vita3k.org/)
+- https://github.com/Vita3K/Vita3K/ (https://github.com/Vita3K/Vita3K/)
 
 # Thanks
 Vita3K的项目、以及Vita3K Team的开发者和参与项目的贡献者们
