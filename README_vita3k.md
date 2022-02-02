@@ -30,7 +30,7 @@
 [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
 
 在Vita3K切换语言
-- 可以在Vita3K的主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
+- 可以在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
 
