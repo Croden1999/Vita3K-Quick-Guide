@@ -1,14 +1,14 @@
 # Vita3K使用教程
 首次使用Vita3K前，请不要放在带有中文文件夹里，否则打开Vita3K创建用户会闪退。
 
-打开Vita3K，创建用户，创建完用户后点击你刚才创建的用户，再次点击Vita3K界面任何地方进入到主页面即可，使用Vita3K需要下载PSVita的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
+打开Vita3K，创建用户，创建完用户后点击你刚才创建的用户图标继续操作，进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，使用Vita3K需要下载PSVita的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
 
 系统固件安装流程：
 1. 打开Vita3K；
 2. 点击顶部选项栏的 Files（文件） 选项；
 3. 选择 Install Firmware（安装系统固件） 选项；
 4. 选择PUP文件；
-5. 安装完固件后重启模拟器即可。
+5. 安装完固件后可以继续选择安装字体固件，或者确认即可。
 - 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制。
 
 字体固件安装流程（与上面流程相似）：
@@ -93,7 +93,7 @@ Emulator 模拟器：
 - 日志等级
 - 归档日志
 - 不和谐丰富的存在
-- 性能叠加（左上角显示FPS帧数）
+- 性能叠加（显示FPS帧数、平均以及最高帧、帧数线性流动图、调整显示位置）
 - 纹理缓存
 - 模拟器系统存储文件夹路径（即模拟PSVita分区的路径）
 
