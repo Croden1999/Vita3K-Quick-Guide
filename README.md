@@ -36,4 +36,6 @@
 - [https://github.com/Vita3K/Vita3K](https://github.com/Vita3K/Vita3K)
 
 # Thanks
-Vita3K的项目、以及Vita3K Team的开发者和参与项目的贡献者们
+- Vita3K的项目
+- Vita3K Team 的开发者 
+- 和参与项目的贡献者们
