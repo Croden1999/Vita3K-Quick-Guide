@@ -31,7 +31,7 @@
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
-# Vita3K项目以及网站
+# Vita3K官方网站以及项目
 - [https://vita3k.org (Vita3K官网)](https://vita3k.org)
 - [https://vita3k.org/quickstart (Vita3K快速开始教程)](https://vita3k.org/quickstart)
 - [https://github.com/Vita3K/Vita3K (Vita3K项目)](https://github.com/Vita3K/Vita3K)
