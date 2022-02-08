@@ -15,7 +15,7 @@
 推荐要求： 
 - 处理器：支持AVX指令集
 - 显卡：支持着色器互锁、支持OpenGL 4.3或者以上版本
-- 运行内存：8GB或者以上的运行内存
+- 运行内存：8GB或者更高的运行内存
 
 # 教程
 - [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
