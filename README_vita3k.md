@@ -62,7 +62,7 @@ Livearea主页面选项：
 - Sort App By：选择对于类型的应用程序排序，如：按应用程序版本、类型、最近游玩的时间、应用程序名称或者应用程序ID来排序。
 - Refresh：刷新应用程序
 
-Filter筛选：
+Filter（筛选）选项：
 - 所有
 - 按地区：USA（美版）、Europe（欧版）、Japan（日版）、Asia（亚版）
 - 按类型：Commercial（商业）、Homebrew（自制）
