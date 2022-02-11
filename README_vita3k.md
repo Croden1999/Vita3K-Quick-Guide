@@ -1,7 +1,14 @@
 # Vita3K使用教程
 首次使用Vita3K前，请不要放在带有中文文件夹里，否则打开Vita3K创建用户会闪退。
 
-打开Vita3K，创建用户，创建完用户后点击你刚才创建的用户图标继续操作，进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，使用Vita3K需要下载PSVita的[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSVUPDAT.PUP)，以在Vita3K中能调用核心模块。同时需要安装[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP?dest=us)，安装完字体固件后勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
+打开Vita3K，首次为您的Vita3K初始设置。
+1. 选择语言，选择好语言后点Next继续。
+2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击Next继续。
+3. 下载一般固件和字体固件选项，并选择下面的Install Firmware安装固件，两个固件都显示 V 就可以点Next继续，不安装固件也不影响，但还是推荐安装固件。
+4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点Next继续。
+5. 初始设置完成，点击OK就开始使用Vita3K吧。
+6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作
+7. 进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，选择顶部选项栏的配置—>设置选项，点击GUI勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
 
 系统固件安装流程：
 1. 打开Vita3K；
