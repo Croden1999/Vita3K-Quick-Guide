@@ -56,7 +56,7 @@ Livearea主页面选项：
 - Filter：筛选显示应用程序
 - Title ID：应用程序ID
 - Ver：应用程序版本
-- Cat：类型（gd指游戏数据、gp指游戏补丁、gda是系统应用）
+- Cat：类型（gd：游戏数据、gp：游戏补丁、gda：系统应用）
 - Last Time：最近游玩的时间
 - Title：应用程序名称
 - Refresh：刷新应用程序
