@@ -39,13 +39,13 @@
 
 ## Vita3K切换语言
 在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
-- Chinese-Simplified —— 简体中文
-- Chinese-Traditional —— 繁体中文
+- Chinese - Simplified —— 简体中文
+- Chinese - Traditional —— 繁体中文
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
 
 
-# Vita3K界面介绍
+## Vita3K界面介绍
 ![](https://user-images.githubusercontent.com/61804715/131706598-114cd931-e30c-4da3-a1cd-17270b749aee.png)
 
 用户管理：
@@ -88,7 +88,7 @@ Filter（筛选）选项：
 - 控制：键盘按键映射、手柄控制器
 - 帮助：关于、欢迎界面
 
-# 配置设置选项介绍
+## 配置设置选项介绍
 Core 核心：
 - Modules Mode（模块模式）：启用实验性功能模块，自动选择、自动手动并用或者手动选择模块
 - Modules List（模块列表）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择）
