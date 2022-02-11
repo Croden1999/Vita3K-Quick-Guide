@@ -17,7 +17,7 @@
 - 显卡：支持着色器互锁、支持OpenGL 4.3或者以上版本
 - 运行内存：8GB或者更高的运行内存
 
-# 教程
+## 教程
 - [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
 - [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
 - [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
@@ -25,18 +25,18 @@
 - [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
 - [->奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_trophy)
 
-# Group
+## Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
 - [Vita3K Reddit论坛](https://www.reddit.com/r/vita3k)
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
-# Vita3K官方网站以及项目
+## Vita3K官方网站以及项目
 - [https://vita3k.org (Vita3K官网)](https://vita3k.org)
 - [https://vita3k.org/quickstart (Vita3K快速开始教程)](https://vita3k.org/quickstart)
 - [https://github.com/Vita3K/Vita3K (Vita3K项目)](https://github.com/Vita3K/Vita3K)
 
-# Thanks
+## Thanks
 - Vita3K 的项目
 - Vita3K Team 的开发者们
 - 和参与Vita3K项目的贡献者们
