@@ -28,8 +28,8 @@
 ## Vita3K官方网站以及项目
 - [https://vita3k.org (Vita3K官网)](https://vita3k.org)
 - [https://vita3k.org/quickstart (Vita3K快速开始教程)](https://vita3k.org/quickstart)
-- [https://vita3k.org/compatibility（Vita3K商业游戏兼容性列表）](https://vita3k.org/compatibility) 或者 [https://github.com/Vita3K/compatibility/issues（Vita3K商业游戏兼容性列表——Github）]
-- [https://vita3k.org/compatibility-homebrew（Vita3K自制程序兼容性列表）](https://vita3k.org/compatibility-homebrew) 或者 [https://github.com/Vita3K/homebrew-compatibility/issues（Vita3K自制程序兼容性列表——Github）]
+- [https://vita3k.org/compatibility（Vita3K商业游戏兼容性列表）](https://vita3k.org/compatibility)或者[https://github.com/Vita3K/compatibility/issues（Vita3K商业游戏兼容性列表——Github）](https://github.com/Vita3K/compatibility/issues)
+- [https://vita3k.org/compatibility-homebrew（Vita3K自制程序兼容性列表）](https://vita3k.org/compatibility-homebrew)或者[https://github.com/Vita3K/homebrew-compatibility/issues（Vita3K自制程序兼容性列表——Github）](https://github.com/Vita3K/homebrew-compatibility/issues)
 - [https://github.com/Vita3K/Vita3K (Vita3K项目)](https://github.com/Vita3K/Vita3K)
 
 ## Group
