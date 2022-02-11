@@ -49,11 +49,18 @@
 - 新建、编辑、删除用户、名称、头像更换的操作
 
 Livearea主页面选项：
-1. 网格：
+1. 列表模式（未勾选Grid Mode）：
 - Filter：筛选显示应用程序
-- Title：标题正序/倒序
+- Title ID：应用程序ID
+- Ver：应用程序版本
+- Cat：类型（gd指游戏数据、gp指游戏补丁、gda是系统应用）
+- Last Time：最近游玩的时间
+- Title：应用程序名称
 - Refresh：刷新应用程序
-- Search：搜索应用程序
+2. 网格模式（勾选Grid Mode）：
+- Filter：筛选显示应用程序
+- Sort App By：选择对于类型的应用程序排序，如：按应用程序版本、类型、最近游玩的时间、应用程序名称或者应用程序ID来排序。
+- Refresh：刷新应用程序
 
 Filter筛选：
 - 所有
