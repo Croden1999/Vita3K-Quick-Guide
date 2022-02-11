@@ -39,4 +39,4 @@
 # Thanks
 - Vita3K 的项目
 - Vita3K Team 的开发者们
-- 和参与项目的贡献者们
+- 和参与Vita3K项目的贡献者们
