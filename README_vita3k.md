@@ -1,7 +1,7 @@
 # Vita3K使用教程
 首次使用Vita3K前，请不要放在带有中文文件夹里，否则打开Vita3K会闪退。
 
-打开Vita3K，首次为您的Vita3K初始设置。
+## 打开Vita3K，首次为您的Vita3K初始设置。
 1. 选择语言，选择好语言后点Next继续。
 2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击Next继续。
 3. 下载一般固件和字体固件选项，并选择下面的Install Firmware安装固件，两个固件都已安装且显示 V 就可以点Next继续；不安装固件也不影响使用，但还是建议安装固件。
@@ -10,15 +10,15 @@
 6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作。
 7. 进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，选择顶部选项栏的配置->设置选项，点击GUI勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
 
-系统固件安装流程：
+## 系统固件安装流程（若已安装可忽略此步骤）：
+- 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制。
 1. 打开Vita3K；
 2. 点击顶部选项栏的 Files（文件） 选项；
 3. 选择 Install Firmware（安装系统固件） 选项；
 4. 选择PUP文件；
 5. 安装完固件后可以继续选择安装字体固件，或者确认即可。
-- 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制。
 
-字体固件安装流程（与上面流程相似）：
+## 字体固件安装流程（若已安装可忽略此步骤）：
 1. 打开Vita3K；
 2. 点击顶部选项栏的 Files（文件） 选项；
 3. 选择 Install Firmware（安装系统固件） 选项；
@@ -28,6 +28,7 @@
 7. 点击GUI选项；
 8. 勾选Asia Region选项后重启模拟器即可。
 
+## 设置完成Vita3K后的其他教程
 此流程安装完就可以进行安装游戏、DLC和主题，你还可以按F11显示全屏。
 
 [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
@@ -36,7 +37,7 @@
 
 [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
 
-在Vita3K切换语言
+## Vita3K切换语言
 - 可以在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
