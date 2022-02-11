@@ -25,16 +25,18 @@
 - [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
 - [->奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_trophy)
 
+## Vita3K官方网站以及项目
+- [https://vita3k.org (Vita3K官网)](https://vita3k.org)
+- [https://vita3k.org/quickstart (Vita3K快速开始教程)](https://vita3k.org/quickstart)
+- [https://vita3k.org/compatibility（Vita3K商业游戏兼容性列表）](https://vita3k.org/compatibility)
+- [https://vita3k.org/compatibility-homebrew（Vita3K自制程序兼容性列表）](https://vita3k.org/compatibility-homebrew)
+- [https://github.com/Vita3K/Vita3K (Vita3K项目)](https://github.com/Vita3K/Vita3K)
+
 ## Group
 - [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
 - [Vita3K Reddit论坛](https://www.reddit.com/r/vita3k)
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
-
-## Vita3K官方网站以及项目
-- [https://vita3k.org (Vita3K官网)](https://vita3k.org)
-- [https://vita3k.org/quickstart (Vita3K快速开始教程)](https://vita3k.org/quickstart)
-- [https://github.com/Vita3K/Vita3K (Vita3K项目)](https://github.com/Vita3K/Vita3K)
 
 ## Thanks
 - Vita3K 的项目
