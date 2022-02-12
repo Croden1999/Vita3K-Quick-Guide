@@ -9,7 +9,7 @@
 - 另外强调不支持Vitamin提取的游戏，请更换其他非Vitamin的资源。
 - 同时在安装游戏前把文件命名为非中文再安装。
 
-## Mai VPK游戏的安装
+## Mai VPK游戏
 分为两种加载方式（可以以记事本浏览mai_moe/load_type.mai文件显示的数字）：
 1. 加载方式0（可直接安装，也可以选择文件夹多个安装）
 2. 加载方式5
@@ -37,13 +37,13 @@
 2. 在ux0/app文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把在mai_moe/eboot_origin.bin原版eboot替换掉，并改名为eboot.bin；同时将dlc文件夹命名为同游戏ID文件夹，并移动ux0/addcont里，之后点击Refresh刷新显示应用程序，运行游戏即可。
 
-## ZIP游戏的安装
+## ZIP游戏
 相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。
 - 注意：nonpdrm zip不能直接解压到ux0/app里，如果直接解压nonpdrm zip的游戏，在Vita3K中则无法运行该游戏。
 
 可以在 NPS Browser 下载游戏后在NoPayStation\app里找到【标题ID】的文件夹并打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
-## PKG游戏的安装
+## PKG游戏
 打开Vita3K模拟器，在菜单栏点击文件—>安装pkg选项，选择pkg文件，输入zrif密钥或者导入work.bin文件，等待安装完成后运行即可。
 
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif都是可以的。
