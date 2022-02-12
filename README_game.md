@@ -28,9 +28,9 @@
 - 切换加载方式流程（推荐）：
 1. 在菜单栏点击文件—>打开存放路径选项；
 2. 在ux0/app文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
-3. 在Vita3K上安装MaiDumpTool，并运行该应用程序，选择切换加载方式，选择对应的游戏设置为加载方式0，之后重新启动Vita3K模拟器运行游戏即可。
+3. 在Vita3K上安装MaiDumpTool，并运行该应用程序，选择切换加载方式，选择对应的游戏设置为加载方式0或者4，之后重新启动Vita3K模拟器运行游戏即可。
 
-![](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
+![1](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
 
 - 切换原版eboot流程：
 1. 在菜单栏点击文件—>打开存放路径选项；
@@ -48,4 +48,4 @@
 
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif都是可以的。
 
-![](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
+![2](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
