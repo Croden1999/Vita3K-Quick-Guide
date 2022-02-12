@@ -19,4 +19,4 @@
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif都是可以的。
 
 ## 解密
-例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，点击顶部文件->打开存放路径，将你下载的解密dlc放置在ux0\addcont即可，正确路径是ux0\addcont\【标题】。
+例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，点击顶部文件->打开存放路径，将你下载的解密dlc放置在ux0\addcont即可，正确路径是ux0\addcont\【标题ID】。
