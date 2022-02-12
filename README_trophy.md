@@ -19,7 +19,7 @@
 ![5](https://user-images.githubusercontent.com/61804715/134748436-38d512ff-9d3d-48fe-afed-1d16963c48c2.png)
 
 2. 重力异想世界
-- 修改前
+- 未修改
 
 ![6](https://user-images.githubusercontent.com/61804715/134748607-ee706c7c-424a-4a8e-846e-2b5e46c98b11.png)
 ![7](https://user-images.githubusercontent.com/61804715/134748317-9c5af35b-976c-48ac-a35a-008f0831fb0d.png)
