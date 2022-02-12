@@ -4,7 +4,7 @@
 2. ZIP
 3. VPK（解密）= ZIP格式
 
-### 关于patch游戏更新补丁
+### 关于其他安装问题
 - 目前只支持Mai的游戏patch补丁，不支持PKG/ZIP的游戏patch补丁。
 - 另外强调不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
 - 同时在安装游戏前把文件命名为非中文再安装。
