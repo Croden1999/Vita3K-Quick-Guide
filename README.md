@@ -5,7 +5,7 @@
 支持的操作系统：
 - MacOS
 - Linux
-- Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
+- Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable x64运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
 
 最低要求： 
 - 处理器：支持AVX指令集
