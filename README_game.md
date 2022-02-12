@@ -5,7 +5,7 @@
 3. VPK（解密）= ZIP格式
 
 ### 关于其他安装问题
-- 目前只支持Mai的游戏patch补丁，不支持PKG/ZIP的游戏patch补丁。
+- 目前只支持Mai的游戏patch补丁，不支持pkg/NoNpDrm zip的游戏patch补丁。
 - 另外强调不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
 - 同时在安装游戏前把文件命名为非中文再安装。
 
@@ -38,8 +38,8 @@
 3. 打开游戏文件夹，把在mai_moe/eboot_origin.bin原版eboot替换掉，并改名为eboot.bin；同时将dlc文件夹命名为同游戏ID文件夹，并移动ux0/addcont里，之后点击Refresh刷新显示应用程序，运行游戏即可。
 
 ## ZIP游戏
-相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到nonpdrm zip里的sce_sys/package/work.bin文件后解压解密安装。
-- 注意：nonpdrm zip不能直接解压到ux0/app里，如果直接解压nonpdrm zip的游戏，在Vita3K中则无法运行该游戏。
+使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的sce_sys/package/work.bin文件后解压解密安装。
+- 注意：NoNpDrm zip不能直接解压到ux0/app里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏。
 
 可以在 NPS Browser 下载游戏后在NoPayStation\app里找到【标题ID】的文件夹并打包zip，nonpdrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
