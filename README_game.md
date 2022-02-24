@@ -5,9 +5,8 @@
 3. VPK（解密）= ZIP格式
 
 ### 关于其他安装问题
-- 目前只支持Mai的游戏patch补丁，不支持pkg/NoNpDrm zip的游戏patch补丁。
 - 另外强调不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
-- 同时在安装游戏前把文件命名为非中文再安装。
+- 同时在安装前把文件命名为非中文再安装。
 
 ## Mai VPK游戏
 分为两种加载方式（可以以记事本浏览mai_moe/load_type.mai文件显示的数字）：
