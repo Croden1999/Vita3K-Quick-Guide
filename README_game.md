@@ -5,7 +5,7 @@
 3. VPK（解密）= ZIP格式
 
 ### 关于其他安装问题
-- 另外强调不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
+- 不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
 - 同时在安装前把文件命名为非中文再安装。
 
 ## Mai VPK游戏
