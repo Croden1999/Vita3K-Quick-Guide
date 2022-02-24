@@ -2,7 +2,7 @@
 分为四种安装方式：
 1. PKG（加密）
 2. ZIP
-3. 解密（如readdcont的dlc、Mai游戏附带的DLC(s)文件夹等）
+3. 解密（如readdcont的DLC(s)、Mai游戏附带的DLC(s)文件夹等）
 
 你可以在Vita3K主页面的 【NPXS10026】 内容管理 应用程序，点击Application（应用程序），找到对应游戏所安装的DLC信息。
 
