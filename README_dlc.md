@@ -18,4 +18,4 @@
 例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，点击顶部文件->打开存放路径，将你下载的解密dlc放置在ux0\addcont即可，正确路径是ux0\addcont\【标题ID】。
 
 ### MAI
-为加载方式5的游戏附带有DLC(s)追加内容的dlcs文件夹，在ux0\app\(应用程序ID)文件夹里找到，将dlcs文件夹移动到ux0\addcont文件夹下，并重命名与【应用程序ID】一致，并更换游戏为加载方式0，运行就可以识别DLC。
+为加载方式5的游戏附带有DLC(s)追加内容的dlcs文件夹，在ux0\app\(应用程序ID)文件夹里找到，将dlcs文件夹移动到ux0\addcont文件夹下，并重命名与【应用程序标题ID】一致，并使用MaiDumpTool将加载方式切换为0或4，放置正确就可以识别DLC(s)。
