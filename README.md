@@ -20,7 +20,7 @@
 ## 教程
 - [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_vita3k)
 - [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_game)
-- [->语言、mod补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_patch)
+- [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_patch)
 - [->DLC(s)追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
 - [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_theme)
 - [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_savedata)
