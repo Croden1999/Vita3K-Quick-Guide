@@ -40,6 +40,6 @@
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 ## Thanks
-- Vita3K 的项目
-- Vita3K Team 的开发者们
-- 和参与Vita3K项目的贡献者们
+- Vita3K projecj
+- Devlopers of Vita3K team
+- And contribute for Vita3K project contributors 
