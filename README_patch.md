@@ -4,7 +4,7 @@
 - ZIP（如NoNpDrm补丁的zip）
 - VPK（如MaiDump补丁的VPK）
 
-你可以右键应用程序
+你可以右键应用程序，选择信息，就可以浏览应用程序的版本。
 
 ## PKG
 可以在NPS网站中下载[PSV_UPDATES.tsv](https://nopaystation.com/tsv/PSV_UPDATES.tsv)文件用微软Office Excel打开，搜索你需要找的游戏名称的【应用程序标题ID】，找到对应【应用程序标题ID】pkg的URL地址，复制到浏览器或者在其他下载软件中下载pkg，再到Vita3K上安装，安装完运行即可。
