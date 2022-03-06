@@ -40,6 +40,6 @@
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 ## Thanks
-- Vita3K project
+- Vita3K emulator project
 - Devlopers of Vita3K team
-- And contributors to the Vita3K project
+- And contributors to the Vita3K emulator project
