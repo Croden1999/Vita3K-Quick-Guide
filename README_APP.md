@@ -46,5 +46,5 @@
 ![2](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
 
 ## 与游戏安装相关的其他教程
-- [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_patch)
-- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_dlc)
+- [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
