@@ -8,6 +8,7 @@
 - Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable x64运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
 
 配置要求：
+
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
 处理器 | AVX指令集 | AVX指令集 
