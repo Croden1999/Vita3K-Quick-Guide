@@ -7,15 +7,12 @@
 - Linux
 - Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable x64运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
 
-最低要求： 
-- 处理器：支持AVX指令集
-- 显卡：支持OpenGL 4.1（某些游戏的图形可能会出现问题）
-- 运行内存：4GB（运行内存2GB也可以运行，但建议还是提升运行内存）
-
-推荐要求： 
-- 处理器：支持AVX指令集
-- 显卡：支持着色器互锁、支持OpenGL 4.3或者以上版本
-- 运行内存：8GB或者更高的运行内存
+配置要求 | 最低要求 | 推荐要求 
+--- | --- | --- 
+处理器 | AVX指令集 | 支持AVX指令集 
+显卡 | OpenGL 4.1 | OpenGL 4.3或者更高 
+显卡着色器互锁 | × | ✓ 
+运行内存 | 2GB/4GB | 8GB或者更高 
 
 ## 教程
 - [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_VITA3K)
