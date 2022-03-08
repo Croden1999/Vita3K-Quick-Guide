@@ -47,4 +47,4 @@
 
 ## 与游戏安装相关的其他教程
 - [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [->DLC(s)追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
