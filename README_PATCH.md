@@ -1,8 +1,8 @@
 # 更新补丁安装教程
 支持更新补丁的格式：
 - PKG
-- ZIP（如NoNpDrm补丁的zip）
-- VPK（如MaiDump补丁的VPK）
+- ZIP
+- VPK（如带MaiDump补丁的vpk）
 
 你可以右键应用程序，选择信息，就可以浏览应用程序的版本。
 
