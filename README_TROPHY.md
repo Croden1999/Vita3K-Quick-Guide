@@ -8,7 +8,6 @@
 ![2](https://user-images.githubusercontent.com/61804715/145160284-b0ecb5aa-5ae0-4186-a6e2-d504f51ca060.jpg)
 
 - 不过缺点是修改后的奖杯显示日期是1970/1/1，未来我会继续研究修改奖杯时间的问题。
-- 该教程只适用于Vita3K奖杯修改，不能用于PSV。
 
 ![3](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)
 
