@@ -4,7 +4,7 @@
 2. ZIP
 3. VPK（解密）= ZIP格式
 
-- zip/vpk支持文件夹内的多个安装。
+- 支持选择文件夹内的多个zip/vpk安装。
 
 ### 关于其他安装问题
 - 不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
