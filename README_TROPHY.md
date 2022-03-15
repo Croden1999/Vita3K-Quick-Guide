@@ -6,10 +6,9 @@
 （如果你没有PSV可以忽略这一步，这个步骤是浏览奖杯位置）你可以参考在你的PSV用VitaShell，到这个ur0:user/00/trophy/data文件夹里知道并找到游戏对应的奖杯ID，按△键菜单中选择解密方式打开，打开TRPTILTE.DAT文件，按△键菜单中选择16进制编辑器，在0x000006C0地址就可以找到，在Vita3K上的奖杯文件修改完保存，重新打开Vita3K模拟器在奖杯应用程序浏览效果。
 
 ![2](https://user-images.githubusercontent.com/61804715/145160284-b0ecb5aa-5ae0-4186-a6e2-d504f51ca060.jpg)
+![3](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)
 
 - 不过缺点是修改后的奖杯显示日期是1970/1/1，未来我会继续研究修改奖杯时间的问题。
-
-![3](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)
 
 ## 演示
 1. 秋之回忆8
