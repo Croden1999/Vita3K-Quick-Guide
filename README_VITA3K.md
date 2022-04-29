@@ -36,7 +36,7 @@
 - [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
 - [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
 
-## Vita3K切换语言
+## Vita3K更换语言
 在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
 - Chinese - Simplified —— 简体中文
 - Chinese - Traditional —— 繁体中文
