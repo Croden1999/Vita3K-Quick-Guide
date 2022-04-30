@@ -1,6 +1,6 @@
-# Vita3K快速指南
+模拟器# Vita3K快速指南
 
-前言：基于[Vita3K官方快速开始教程](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解Vita3K，并安装和游玩游戏。此快速指南不提供任何游戏资源，你需要自己搜索并获取。
+前言：基于[Vita3K官方快速开始教程](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解Vita3K，不需要借助PS Vita实机，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。此快速指南不提供任何游戏资源，你需要自己搜索并获取。
 
 支持的操作系统：
 - MacOS
@@ -40,5 +40,5 @@
 
 ## Thanks
 - Vita3K emulator project
-- Devlopers of Vita3K team
+- Devlopers of Vita3K Team
 - And contributors to the Vita3K emulator project
