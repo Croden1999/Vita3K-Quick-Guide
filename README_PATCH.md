@@ -13,7 +13,6 @@
 
 ## ZIP
 可以在NPS Browser下载游戏的更新补丁，下载完将patch\【应用程序标题ID】文件夹里的压缩为zip，再到Vita3K上安装，安装完运行游戏即可。
-- 如果你下载的是Mai提取的游戏补丁，解压重新压缩为zip，再到Vita3K上安装，安装完运行游戏即可。
 
 ！注意：仅pkg或者zip（nonpdrm）可更新游戏版本，mai vpk不通用。
 
