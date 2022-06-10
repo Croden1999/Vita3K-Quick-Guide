@@ -89,7 +89,7 @@ Filter（筛选）选项：
 
 ## 配置设置选项介绍
 Core 核心：
-- Modules Mode（模块模式）：启用实验性功能模块，自动选择、自动手动并用或者手动选择模块
+- Modules Mode（模块模式）：自动选择、自动手动并用或者手动选择模块
 - Modules List（模块列表）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择）
 
 CPU 处理器:
@@ -107,6 +107,7 @@ System 系统：
 - 模拟PSVTV / PSTV模式
 
 Emulator 模拟器：
+- 运行应用程序时全屏
 - 禁用ngs支持
 - 日志等级
 - 归档日志
