@@ -93,13 +93,13 @@ Core 核心：
 - Modules List（模块列表）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择）
 
 CPU 处理器:
-- CPU后端：Dynarmic或者Unicorn，仅Dynarmic的CPU后端才能启用JIT选项
+- CPU后端：Dynarmic或者Unicorn（已弃用），仅Dynarmic的CPU后端才能启用JIT选项
 
 GPU 显卡：
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
 - 关闭表面同步
 - 使用着色器缓存
-- 使用Spir-V着色器（不是所有显卡都有这个选项，取决于显卡的支持）
+- 使用Spir-V着色器（已弃用）（不是所有显卡都有这个选项，取决于显卡的支持）
 - 清除着色器缓存和着色器日志（如果是自定义配置设置单个游戏就只会清除当前游戏的着色器缓存和日志）
 
 System 系统：
