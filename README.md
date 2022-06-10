@@ -4,7 +4,7 @@
 
 支持的操作系统：
 - MacOS（于2646版本舍弃）
-- Linux
+- Linux（如Ubuntu）
 - Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable x64运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
 
 配置要求：
