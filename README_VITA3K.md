@@ -4,7 +4,7 @@
 ## 打开Vita3K，初次为Vita3K进行初始设置
 1. 选择语言，选择完成后点Next继续。
 2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击Next继续。
-3. 点击下载[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)和[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的Install Firmware，选择PUP格式来安装系统固件，两个固件都已安装且显示 V 就可以点Next继续；不安装固件也不影响使用，但还是建议安装固件。
+3. 点击下载[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)和[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的Install Firmware，选择PUP格式来安装系统固件，两个固件都已安装且显示 V 就可以点Next继续；不安装固件也不影响使用，部分应用程序需要模块才能正常运行，但还是建议安装固件。
 4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点Next继续。
 5. 初始设置完成，点击OK就开始使用Vita3K吧。
 6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作。
@@ -98,6 +98,8 @@ CPU 处理器:
 GPU 显卡：
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
 - 关闭表面同步
+- 开启FXAA抗锯齿
+- 垂直同步
 - 使用着色器缓存
 - 使用Spir-V着色器（已弃用）（不是所有显卡都有这个选项，取决于显卡的支持）
 - 清除着色器缓存和着色器日志（如果是自定义配置设置单个游戏就只会清除当前游戏的着色器缓存和日志）
