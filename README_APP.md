@@ -9,6 +9,7 @@
 ### 关于其他安装问题
 - 不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
 - 同时在安装前把文件命名为非中文再安装。
+- 不要使用MaiDumpTool安装内容，没有任何效果和用途意义。
 
 ## Mai VPK
 分为两种加载方式（可以以记事本浏览mai_moe/load_type.mai文件显示的数字）：
