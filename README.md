@@ -7,7 +7,7 @@
 - Linux（如Ubuntu）
 - ~~MacOS（从2646版本中舍弃）~~
 
-从2703版本开始可以打开Vita3K目录里的update-vita3k.sh(Linux)/update-vita3k.bat(Windows)来更新最新版本的Vita3K。
+从2703版本开始，可以通过打开Vita3K目录里的update-vita3k.sh(Linux)/update-vita3k.bat(Windows)获取并更新最新版本的Vita3K。
 
 配置要求：
 
