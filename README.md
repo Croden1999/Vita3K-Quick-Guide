@@ -40,6 +40,9 @@
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 - [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
+## Donations
+- 为Vita3K使用[Patreon]（https://www.patreon.com/Vita3K）捐赠。
+
 ## Thanks
 - Vita3K emulator project
 - Devlopers of Vita3K Team
