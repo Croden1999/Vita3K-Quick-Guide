@@ -19,7 +19,7 @@
 运行内存 | 2GB/4GB | 8GB或者更高 
 
 ## 教程
-- [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_VITA3K)
+- [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)
 - [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
 - [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
 - [->DLC(s)追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
