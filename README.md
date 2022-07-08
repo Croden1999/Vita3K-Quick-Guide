@@ -19,13 +19,13 @@
 - 如果你的配置低于最低要求，请更换硬件配置或者新电脑。
 
 ## 教程
-- [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)
-- [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
-- [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [->DLC(s)追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
-- [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
-- [->存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
-- [->奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
+- [Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)
+- [应用程序安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
+- [更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
+- [存档导入教程](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
+- [奖杯修改教程](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org)
