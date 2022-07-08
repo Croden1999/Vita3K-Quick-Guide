@@ -16,7 +16,7 @@
 显卡着色器互锁 | × | ✓ 
 运行内存 | 2GB/4GB | 8GB或者更高 
 
-- 如果你的配置低于最低要求，请更换硬件配置或者更换新电脑。
+- 如果你的配置低于最低要求，请更换硬件配置或者新电脑。
 
 ## 教程
 - [->Vita3K使用以及界面介绍](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)
