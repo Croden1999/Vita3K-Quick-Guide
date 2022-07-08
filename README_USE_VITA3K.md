@@ -14,32 +14,32 @@
 - 在Vita3K模拟器安装任意版本的系统固件都不会因为系统版本而受到限制。
 
 1. 打开Vita3K；
-2. 点击顶部选项栏的 Files（文件） 选项；
-3. 选择 Install Firmware（安装系统固件） 选项；
+2. 点击顶部选项栏的文件选项；
+3. 选择安装系统固件选项；
 4. 选择PUP文件；
 5. 安装完固件后可以继续选择安装字体固件，或者确认即可。
 
 ## 字体固件安装流程（若已安装可跳过此步骤）
 1. 打开Vita3K；
-2. 点击顶部选项栏的 Files（文件） 选项；
-3. 选择 Install Firmware（安装系统固件） 选项；
+2. 点击顶部选项栏的文件选项；
+3. 选择安装系统固件选项；
 4. 选择PUP文件；
-5. 安装完固件后点击顶部选项栏Configuration（配置）选项；
-6. 点击Settings（设置）选项；
+5. 安装完固件后点击顶部选项栏配置选项；
+6. 点击设置选项；
 7. 点击GUI选项；
 8. 勾选Asia Region选项后重启模拟器即可。
 
 ## 设置完成Vita3K其他教程
 此流程安装完就可以进行安装游戏、DLC和主题，可以按F11显示全屏。
-- [->游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
-- [->更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [->DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
-- [->主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
+- [应用程序安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
+- [更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
 
 ## Vita3K更换语言
 在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
-- Chinese - Simplified —— 简体中文
-- Chinese - Traditional —— 繁体中文
+- Chinese - Simplified 简体中文
+- Chinese - Traditional 繁体中文
 
 ![](https://user-images.githubusercontent.com/61804715/131735493-7b80ae2e-dfe0-4d83-bcc8-454fb5d0873d.png)
 
