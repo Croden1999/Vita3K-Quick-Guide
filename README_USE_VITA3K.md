@@ -45,8 +45,6 @@
 
 
 ## Vita3K界面介绍
-![](https://user-images.githubusercontent.com/61804715/131706598-114cd931-e30c-4da3-a1cd-17270b749aee.png)
-
 用户管理：
 - 新建、编辑、删除用户、名称、头像更换的操作
 
