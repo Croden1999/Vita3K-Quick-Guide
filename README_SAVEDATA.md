@@ -1,5 +1,5 @@
-# 存档导入教程（PSVita→Vita3K）
-将PSVita的存档导入到Vita3K中，两种导入方式都不需要PSVita实机。
+# 存档导入（PSVita→Vita3K）
+将PSVita的存档导入到Vita3K中，两种导入方式都不需要PSVita，但需要解密的PSVita存档文件。
 - 注意：仅支持解密的存档转换。
 
 分为两种导入方式：
