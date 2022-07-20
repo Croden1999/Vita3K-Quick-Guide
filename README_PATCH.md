@@ -1,4 +1,4 @@
-# 更新补丁安装教程
+# 更新补丁安装
 支持更新补丁的格式：
 - PKG
 - ZIP
@@ -17,7 +17,7 @@
 ※注意：仅pkg或者zip（nonpdrm）游戏可更新版本，mai游戏不通用。
 
 ## VPK
-一些人分享的MaiDump vpk的游戏里面覆盖应用程序补丁，例如文件名：0233_ASIA_PCSH00250_DEADORALIVEXTREME3VENUS_0115.vpk，后面这个0115就是应用程序的版本，即应用程序是1.15版本，安装方式请按照[游戏安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP#mai-vpk)操作。
+一些人分享的MaiDump vpk的游戏里面覆盖应用程序补丁，例如文件名：0233_ASIA_PCSH00250_DEADORALIVEXTREME3VENUS_0115.vpk，后面这个0115就是应用程序的版本，即应用程序是1.15版本，安装方式请按照[应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP#mai-vpk)操作。
 
 ## 语言补丁和MOD补丁导入
 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径大致为ux0\app\【应用程序标题ID】），放置好补丁运行游戏即可。
