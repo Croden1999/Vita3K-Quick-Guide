@@ -14,5 +14,6 @@
 可以在 NPS Browser 下载主题后在NoPayStation\bgdl\t\XXXXXXXX(X代表数字，下载内容从1依次数下)里找到【标题ID】的文件夹并打包zip，打包方式与vpk打包一致，之后打开Vita3K模拟器，在菜单栏点击文件—>安装zip、vpk选项，点击Select File（选择），选择zip文件，等待安装完成后再去Vita3K模拟器Livearea桌面的设定里切换主题即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
 ## 解密、自制主题
-1. 你可以下载他人分享的解密、自制主题压缩包或者在Vita3K的Live Area主页面的设定—>主题&背景—>主题—>在Altervista网站下载主题，打开Vita3K模拟器在菜单栏点击文件->打开存放路径，点击到ux0\theme文件夹里，将主题解压到此目录，再去Vita3K模拟器Livearea桌面的设定里切换主题即可。
-2. 你也可以直接在Vita3K上安装自定义主题zip压缩包，再去Vita3K的Live Area主页面的设定里切换主题即可。
+你可以下载他人分享的解密、自制主题压缩包或者在Vita3K的Live Area主页面的设定—>主题&背景—>主题—>在Altervista网站下载主题。
+- 打开Vita3K模拟器在菜单栏点击文件->打开存放路径，点击到ux0\theme文件夹里，将主题解压到此目录，再去Vita3K模拟器Livearea桌面的设定里切换主题即可。
+- 你也可以直接在Vita3K上安装自定义主题zip压缩包，再去Vita3K的Live Area主页面的设定里切换主题即可。
