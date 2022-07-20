@@ -1,4 +1,4 @@
-# 应用程序安装教程
+# 应用程序/游戏安装
 应用程序以及游戏安装方式都是通用的，当前分为三种格式安装的支持：
 1. pkg（加密，需要work.bin或者输入zrif密钥）
 2. zip
@@ -48,6 +48,6 @@
 
 ![2](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
 
-## 相关的其他安装教程
-- [更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [DLC追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+## 相关的安装教程
+- [更新补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
