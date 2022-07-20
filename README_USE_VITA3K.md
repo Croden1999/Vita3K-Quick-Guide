@@ -29,12 +29,12 @@
 7. 点击GUI选项；
 8. 勾选Asia Region选项后重启模拟器即可。
 
-## 设置完成Vita3K其他教程
+## 设置完成Vita3K相关教程
 此流程安装完就可以进行安装游戏、DLC和主题，可以按F11显示全屏。
-- [应用程序安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
-- [更新补丁安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [追加内容安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
-- [主题安装教程](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
+- [应用程序安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
 
 ## Vita3K更换语言
 在Vita3K的Livearea主页面中选择 【NPXS10015】 设定 应用程序，选择Language语言->System Language系统语言来切换语言。
@@ -71,13 +71,14 @@
 - 自定义配置
 - 打开文件夹（应用程序、追加内容、许可证、保存数据、着色器缓存、着色器日志）
 - 删除（应用程序、追加内容、许可证、保存数据、着色器缓存、着色器日志）
+- [此选项仅在取消勾选Live Area应用屏幕选项显示]Live Area（Live Area、搜索、说明书、更新）
 - 更新历史记录
 - 信息
 
 菜单栏选项：
 - 文件：打开存放路径、安装固件/pkg/zip/vpk/许可证
 - 模拟：最近使用的应用程序
-- Debug 调试：
+- Debug（调试）
 - 配置：设置、用户管理
 - 控制：键盘控制、控制器
 - 帮助：关于、Vita3K更新、欢迎
