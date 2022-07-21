@@ -2,7 +2,7 @@
 应用程序以及游戏安装方式都是通用的，当前分为三种格式安装的支持：
 1. pkg（加密，需要work.bin或者输入zrif密钥）
 2. zip
-3. vpk（解密，本质也是zip格式，只支持mai vpk）
+3. vpk（解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin）
 
 - 支持选择文件夹内的多个zip/vpk安装。
 
