@@ -1,5 +1,5 @@
 # Vita3K使用教程
-※注意：首次使用Vita3K前，检查配置情况以及是否安装运行库，请不要放在带有中文文件夹里，否则打开Vita3K会闪退。
+※注意：首次使用Vita3K前，检查配置情况以及是否安装运行库，请不要放在带有中文文件夹里（包括模拟器整个路径的父级文件夹），否则打开Vita3K会闪退或者显示mini字体（utf8字体和符号显示为？）。
 
 ## 打开Vita3K，初次为Vita3K进行初始设置
 1. 选择语言，选择完成后点Next继续。
@@ -85,8 +85,8 @@
 
 ## 配置设置选项介绍
 Core 核心：
-- Modules Mode（模块模式）：自动选择、自动手动并用或者手动选择模块
-- Modules List（模块列表）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择）
+- Modules Mode（模块模式）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择），强烈推荐使用自动或者自动&手动并用模块模式。
+- Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍，
 
 CPU 处理器:
 - CPU后端：Dynarmic或者Unicorn（已弃用），仅Dynarmic的CPU后端才能启用JIT选项
