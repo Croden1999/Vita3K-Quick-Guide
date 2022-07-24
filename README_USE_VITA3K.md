@@ -86,7 +86,7 @@
 ## 配置设置选项介绍
 Core 核心：
 - Modules Mode（模块模式）：Automatic（自动选择）、Auto&Manual（自动&手动并用，也可以手动选择模块）和Manual（手动选择），强烈推荐使用自动或者自动&手动并用模块模式。
-- Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍，
+- Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍。
 
 CPU 处理器:
 - CPU后端：Dynarmic或者Unicorn（已弃用），仅Dynarmic的CPU后端才能启用JIT选项
