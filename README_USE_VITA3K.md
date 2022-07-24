@@ -6,7 +6,7 @@
 2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击Next继续。
 3. 点击下载[系统固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)和[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的Install Firmware，选择PUP格式来安装系统固件，两个固件都已安装且显示 V 就可以点Next继续；不安装固件也不影响使用，部分应用程序需要模块才能正常运行，但建议还是安装系统固件。
 4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点Next继续。
-5. 初始设置完成，点击OK就开始使用Vita3K吧。
+5. 初始设置已完成，点击OK就开始使用Vita3K吧。
 6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作。
 7. 进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，选择顶部选项栏的配置->设置选项，点击GUI勾选Asia Region选项，重启Vita3K模拟器以显示正常文字。
 
