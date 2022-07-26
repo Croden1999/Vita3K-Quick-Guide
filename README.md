@@ -46,5 +46,5 @@
 
 ## Thanks
 - Vita3K emulator project
-- Devlopers of Vita3K Team
+- Developers of Vita3K Team
 - And contributors to the Vita3K emulator project
