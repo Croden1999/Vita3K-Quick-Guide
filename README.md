@@ -44,7 +44,7 @@
 ## Donations
 - 为Vita3K项目使用[Patreon](https://www.patreon.com/Vita3K)捐赠。
 
-## Thanks
+## Special Thanks
 - Vita3K emulator project
-- Developers of Vita3K Team
+- Developers of Vita3K team
 - And contributors to the Vita3K emulator project
