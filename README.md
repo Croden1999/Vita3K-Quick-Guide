@@ -3,7 +3,7 @@
 前言：基于[Vita3K官方快速入门](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。此快速指南不提供任何游戏资源，你需要自己搜索并获取。
 
 支持的操作系统：
-- Windows 64位系统（需要安装[Visual C++ 2015-2019 Redistributable x64运行库](https://aka.ms/vs/16/release/vc_redist.x64.exe)）
+- Windows 64位系统（需要安装[Microsoft Visual C++ 2015-2022 Redistributable x64运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)）
 - Linux（如Ubuntu）
 - ~~MacOS（从2646版本中舍弃）~~
 
