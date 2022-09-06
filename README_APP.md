@@ -17,7 +17,7 @@
 
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 搜索内容右键复制zrif都是可以的。
 
-![2](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
+![1](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
 
 ## zip
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
@@ -25,7 +25,7 @@
 
 在 NPS Browser 下载的内容可在NoPayStation文件夹里找到，NoNpDrm zip打包方式如下图所示：
 
-![20220906102540](https://user-images.githubusercontent.com/61804715/188533955-393d4953-5da9-4956-a49a-35a42eec4bbd.png)
+![2](https://user-images.githubusercontent.com/61804715/188533955-393d4953-5da9-4956-a49a-35a42eec4bbd.png)
 
 打开Vita3K模拟器，在菜单栏点击`文件`->`安装zip、vpk`，点击`选择文件`，`选择zip`文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
@@ -48,7 +48,7 @@
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 在Vita3K上安装MaiDumpTool，并运行该应用程序，选择切换加载方式，选择对应的游戏设置为加载方式4（使用原版eboot.bin），之后重启Vita3K运行游戏即可。
 
-![1](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
+![3](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
 
 - 替换原版eboot.bin流程：
 1. 在菜单栏点击`文件`->`打开存放路径`；
