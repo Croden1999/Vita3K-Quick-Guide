@@ -3,7 +3,7 @@
 
 ![1](https://user-images.githubusercontent.com/61804715/145160207-230fcf68-45cd-49c8-b6c4-2f3089d1b2d6.jpg)
 
-（如果你没有PSV可以忽略这一步，这个步骤是浏览奖杯位置）你可以参考在你的PSV用VitaShell，到这个ur0:user/00/trophy/data文件夹里知道并找到游戏对应的奖杯ID，按△键菜单中选择解密方式打开，打开TRPTILTE.DAT文件，按△键菜单中选择16进制编辑器，在0x000006C0地址就可以找到，在Vita3K上的奖杯文件修改完保存，重新打开Vita3K模拟器在奖杯应用程序浏览效果。
+可以在`ux0/app/【标题ID】/sce_sys/thophy`以及`ux0/user/00/trophy/data`中找到游戏对应的奖杯ID。
 
 ![2](https://user-images.githubusercontent.com/61804715/145160284-b0ecb5aa-5ae0-4186-a6e2-d504f51ca060.jpg)
 ![3](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)
