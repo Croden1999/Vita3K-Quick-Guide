@@ -110,7 +110,7 @@ System 系统：
 
 Emulator 模拟器：
 - 运行应用程序时全屏
-- 禁用ngs支持
+- 启用ngs支持
 - 日志级别
 - 档案日志
 - Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态）
