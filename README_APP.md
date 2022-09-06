@@ -23,7 +23,11 @@
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
 - 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏，所以必须要在Vita3K中安装。
 
-可以在 NPS Browser 下载游戏后在`NoPayStation\app`里找到【标题ID】的文件夹并打包zip，NoNpDrm zip打包方式与vpk打包方式一致，之后拖入到Vita3K图标安装，或者打开Vita3K模拟器，在菜单栏点击`文件`->`安装zip、vpk`，点击`选择文件`，`选择zip`文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
+在 NPS Browser 下载的内容可在NoPayStation文件夹里找到，NoNpDrm zip打包方式如下图所示：
+
+![20220906102540](https://user-images.githubusercontent.com/61804715/188533955-393d4953-5da9-4956-a49a-35a42eec4bbd.png)
+
+打开Vita3K模拟器，在菜单栏点击`文件`->`安装zip、vpk`，点击`选择文件`，`选择zip`文件，等待安装完成后运行即可。如果是安装多个内容建议在安装zip/vpk选择文件夹可以进行多个安装。
 
 ## vpk
 以mai vpk示例，分为两种加载方式（可以以记事本浏览`mai_moe/load_type.mai`文件显示的数字）：
