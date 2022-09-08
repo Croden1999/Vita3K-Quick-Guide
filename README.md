@@ -6,13 +6,12 @@
 ### 免责声明：
 Vita3K不容忍盗版，此快速指南不提供任何游戏资源，你需要自己搜索并获取。
 
-## 支持的操作系统：
+## 支持的操作系统
 - Windows 64位系统（需要安装[Microsoft Visual C++ 2015-2022 Redistributable x64运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)）
 - Linux（如Ubuntu）
 - ~~MacOS（从2646版本中舍弃）~~
 
-## 配置要求：
-
+## 配置要求
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
 处理器 | 支持AVX指令集 | 支持AVX指令集 
