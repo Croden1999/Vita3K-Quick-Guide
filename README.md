@@ -39,7 +39,7 @@ Vita3K不纵容盗版，此快速指南不提供任何游戏资源，你需要�
 - [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性列表——GitHub](https://github.com/Vita3K/homebrew-compatibility/issues)
 
 ## Group
-- [Vita3K Discord群聊](https://discord.gg/MaWhJVH)
+- [Vita3K Discord服务器](https://discord.gg/MaWhJVH)
 - [Vita3K Freenode IRC群聊](https://webchat.freenode.net/?channels=%23vita3k)
 - [Vita3K Reddit社区](https://www.reddit.com/r/vita3k)
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
