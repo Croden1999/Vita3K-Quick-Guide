@@ -1,5 +1,5 @@
-# 更新补丁安装
-支持更新补丁的格式：
+# 补丁安装
+支持补丁的格式：
 - PKG
 - ZIP
 - VPK（如带MaiDump补丁的vpk）
@@ -7,7 +7,7 @@
 你可以右键应用程序，选择信息，就可以浏览应用程序的版本。
 
 ## PKG
-可以在NPS网站中下载[PSV_UPDATES.tsv](https://nopaystation.com/tsv/PSV_UPDATES.tsv)文件用Excel打开，搜索你需要找的游戏名称的【标题ID】，找到对应【标题ID】pkg的URL地址，复制到浏览器或者在其他下载软件中下载pkg，再到Vita3K上安装pkg，选择与同【标题ID】work.bin/zrif密钥，显示更新版本安装完成运行即可。
+可以在NPS网站中下载[PSV_UPDATES.tsv](https://nopaystation.com/tsv/PSV_UPDATES.tsv)文件用Excel打开，搜索你需要找的游戏名称的【标题ID】，找到对应【标题ID】pkg的URL地址，复制到浏览器或者在其他下载软件中下载pkg，再到Vita3K上安装pkg，选择与同【标题ID】work.bin文件或者输入zrif密钥，显示更新版本安装完成运行即可。
 
 ※注意：仅pkg或者zip（nonpdrm）游戏可更新版本，mai游戏不通用。
 
