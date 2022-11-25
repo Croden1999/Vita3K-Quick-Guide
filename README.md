@@ -47,7 +47,6 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 ## Donations
 - 为Vita3K项目使用[Patreon](https://www.patreon.com/Vita3K)捐赠。
 
-## Special Thanks
-- Vita3K emulator project
-- Developers of Vita3K team
-- And contributors to the Vita3K emulator project
+## Special Thank
+- [Developers of Vita3K team](https://github.com/Vita3K)
+- [And contributors to the Vita3K emulator project](https://github.com/Vita3K/Vita3K/graphs/contributors)
