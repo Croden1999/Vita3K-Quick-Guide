@@ -41,9 +41,9 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 ## Social
 - [Vita3K Discord服务器（推荐）](https://discord.gg/MaWhJVH)
 - [Vita3K Freenode IRC群聊](https://webchat.freenode.net/?channels=%23vita3k)
-- [Vita3K reddit社区](https://www.reddit.com/r/vita3k)
+- [Vita3K Reddit社区](https://www.reddit.com/r/vita3k)
 - [Vita3K模拟器QQ交流群](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
-- [百度贴吧vita3k吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
+- [百度贴吧Vita3K吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 ## Donations
 - 为Vita3K项目使用[Patreon](https://www.patreon.com/Vita3K)捐赠。
