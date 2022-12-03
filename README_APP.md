@@ -43,17 +43,18 @@
 
 ### mai游戏（加载方式5）安装流程：
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，使用MaiDumpTool修改后的eboot只适用于实机，不能直接在Vita3K中安装，直接安装会失败，需要解压到模拟器存储路径。切换加载方式或者替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
-- 切换加载方式流程（推荐）：
-1. 在菜单栏点击`文件`->`打开存放路径`；
-2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
-3. 在Vita3K上安装MaiDumpTool，并运行该应用程序，选择切换加载方式，选择对应的游戏设置为加载方式4（使用原版eboot.bin），之后重启Vita3K运行游戏即可。
 
-![3](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
-
-- 替换原版eboot.bin流程：
+- 替换原版eboot.bin（推荐）：
 1. 在菜单栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把在`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除之前的eboot.bin，将`eboot_origin.bin`更名为`eboot.bin`；同时将dlc文件夹命名为同游戏ID文件夹，并移动`ux0/addcont`里，如果没有dlc文件夹不用此操作。之后在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+
+- 切换加载方式流程：
+1. 在菜单栏点击`文件`->`打开存放路径`；
+2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
+3. 在Vita3K上安装MaiDumpTool，并运行该应用程序，选择切换加载方式，选择对应的游戏设置为加载方式4（使用原版eboot.bin）；同时将游戏文件夹内的dlc文件夹移动`ux0/addcont`里，dlc文件夹重命名为同游戏标题ID，如果没有dlc文件夹不用此操作，之后重启Vita3K运行游戏即可。
+
+![3](https://user-images.githubusercontent.com/61804715/131707916-51a83901-f72e-4f99-a17f-fc4f8a090802.png)
 
 ## 相关的安装教程
 - [更新补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
