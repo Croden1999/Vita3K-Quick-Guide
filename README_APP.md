@@ -4,11 +4,11 @@
 2. [zip](http://croden1999.github.io/Vita3K-quick-guide/README_APP#zip)*（nonpdrm，这是目前比较推荐的方式）
 3. [vpk](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)（解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin）
 
-- 支持选择文件夹内的多个zip/vpk安装。*指当前推荐的格式
+- 支持选择文件夹内的多个zip/vpk安装。
+- *指当前推荐的格式。
 
 ### 关于其他安装问题
 - 不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
-- 同时在安装前把文件命名为非中文再安装。
 - 不要使用MaiDumpTool安装内容，安装没有任何效果和用途意义，只能作为Mai游戏切换加载方式使用。
 
 ## pkg
