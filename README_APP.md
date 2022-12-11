@@ -1,10 +1,10 @@
 # 应用程序/游戏安装
 应用程序以及游戏安装方式都是通用的，当前分为三种格式安装的支持：
-1. [pkg](http://croden1999.github.io/Vita3K-quick-guide/README_APP#pkg)（加密，需要work.bin文件或者输入zrif密钥）
-2. [zip](http://croden1999.github.io/Vita3K-quick-guide/README_APP#zip)（nonpdrm，这是目前比较推荐的方式）
+1. [pkg](http://croden1999.github.io/Vita3K-quick-guide/README_APP#pkg)*（加密，需要work.bin文件或者输入zrif密钥）
+2. [zip](http://croden1999.github.io/Vita3K-quick-guide/README_APP#zip)*（nonpdrm，这是目前比较推荐的方式）
 3. [vpk](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)（解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin）
 
-- 支持选择文件夹内的多个zip/vpk安装。
+- 支持选择文件夹内的多个zip/vpk安装。*指当前推荐的格式
 
 ### 关于其他安装问题
 - 不支持Vitamin提取的游戏（例如名称带有FULLGAME），请更换其他非Vitamin的资源。
