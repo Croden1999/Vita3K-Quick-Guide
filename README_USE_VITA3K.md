@@ -29,7 +29,7 @@
 6. 打开设置对话框后点GUI选项卡，勾选Asia Region（亚洲区域）选项重启模拟器即可。
 
 ## 设置完成Vita3K相关教程
-此流程安装完就可以进行安装游戏、DLC和主题，可以按F11显示全屏。
+此流程安装完就可以进行安装游戏、补丁更新、DLC和主题。
 - [应用程序安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
 - [更新补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
 - [追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
