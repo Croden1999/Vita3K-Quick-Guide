@@ -24,10 +24,13 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - 如果你的配置低于最低要求，请更换硬件配置或者新电脑。
 
 ## 教程
+主要
 - [Vita3K使用以及介绍](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)
 - [应用安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
 - [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
 - [追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+
+其他
 - [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
 - [存档导入](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
