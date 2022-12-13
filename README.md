@@ -50,7 +50,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [百度贴吧Vita3K吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 ## Donations
-- 为Vita3K项目使用[Patreon](https://www.patreon.com/Vita3K)捐赠。
+为Vita3K项目使用[Patreon](https://www.patreon.com/Vita3K)捐赠。
 
 ## Special Thanks
 - [Developers of Vita3K team](https://github.com/Vita3K)
