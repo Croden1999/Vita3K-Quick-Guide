@@ -31,8 +31,8 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
 
 其他
+- [存档导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
-- [存档导入](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
 
 ## Vita3K官方网站以及项目
