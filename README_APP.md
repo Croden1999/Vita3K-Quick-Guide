@@ -37,7 +37,7 @@
 
 - Vita3K不支持Vitamin提取的游戏安装。
 
-### mai游戏（加载方式0）
+### Mai（加载方式0）
 分为两种方式安装：
 - 安装
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器
@@ -49,7 +49,7 @@
 2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
 3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
 
-### mai游戏（加载方式5）
+### Mai（加载方式5）
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，不能直接在Vita3K中安装，直接安装会导致失败，需要解压到模拟器存储路径。替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
 1. 在菜单栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
@@ -58,5 +58,5 @@
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
-- [更新补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-- [追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
