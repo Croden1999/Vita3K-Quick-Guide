@@ -1,5 +1,5 @@
 # 使用Vita3K
-※注意：首次使用Vita3K前，检查配置情况以及是否安装运行库，请不要放在带有中文以及空格文件夹里（包括模拟器整个路径的父级文件夹），否则打开Vita3K会闪退或者显示monospaced字体（使用utf-8文字、符号都显示为"?"）。
+⚠️注意：首次使用Vita3K前，检查配置情况以及是否安装运行库，请不要放在带有中文以及空格文件夹里（包括模拟器整个路径的父级文件夹），否则打开Vita3K会闪退或者显示monospaced字体（使用utf-8文字、符号都显示为"?"）。
 
 ## 打开Vita3K，初次为Vita3K进行初始设置
 1. 选择语言，选择完成后点Next继续。
@@ -90,11 +90,11 @@ Core 核心：
 - Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍。
 
 CPU 处理器:
-- CPU后端：Dynarmic或者Unicorn（已弃用），仅Dynarmic的CPU后端才能启用JIT选项
+- CPU后端：可切换Dynarmic/Unicorn（已弃用），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项
 
 GPU 显卡：
-- 后端渲染器，可切换OpenGL/Vulkan的后端渲染器，更改后需要重启Vita3K才能生效（macOS只有Vulkan渲染器）
-- [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则会报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
+- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则会报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
+- [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
 - [此选项仅在OpenGL时显示] 关闭表面同步
 - 开启FXAA抗锯齿
@@ -110,6 +110,7 @@ System 系统：
 
 Emulator 模拟器：
 - 运行应用程序时全屏
+- 音频后端：可切换SDK/Cubeb，默认选择SDK
 - 启用ngs支持
 - 日志级别
 - 档案日志
