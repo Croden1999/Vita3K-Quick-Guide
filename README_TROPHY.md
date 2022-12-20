@@ -1,5 +1,4 @@
 # 奖杯修改
-## 说明
 每个游戏奖杯（除同游戏不同区域）不同，在修改之前你需要知道游戏对应的奖杯ID（例如：PCSH00250死或生沙滩排球3对应奖杯ID是NPWR10022_00），可以在`ux0\app\【标题ID】\sce_sys\thophy`以及`ux0\user\00\trophy\data`中找到游戏对应的奖杯ID，在TROPUSR.DAT文件中使用十六进制编辑器浏览编辑，奖杯开头在区间第一行04项的第一个字符，修改奖杯基本是3、F这两个字符。
 
 ![1](https://user-images.githubusercontent.com/61804715/145160207-230fcf68-45cd-49c8-b6c4-2f3089d1b2d6.jpg)
