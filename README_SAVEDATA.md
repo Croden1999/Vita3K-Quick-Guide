@@ -25,4 +25,9 @@
 5. 将存档文件放入到此目录，再去运行游戏读取存档即可。
 
 ## 导出（Vita3K→PSVita）
-（需完善）
+方法会比较偏简单暴力，导出至PSVita更加方便。
+0. 需要在游戏建立一个新的存档，使用VitaShell准备将Vita3K的存档（除了SlotParam_X.bin，其他文件可以导入）导入至PSVita；
+1. 将存档文件放到`ux0:data/标题ID`（没有文件夹就建一个），使用sd2vita、VitaShell USB传输或者FTP传输都可以；
+2. 打开VitaShell，将存档文件全部复制；
+3. 打开到`ux0:user/00/savedata/`路径，选标到指定的`标题ID`文件夹，按下△弹出右侧菜单，选择以解密方式打开；
+4. 将存档文件粘贴到该位置即可，关闭VitaShell，运行游戏读取存档即可。
