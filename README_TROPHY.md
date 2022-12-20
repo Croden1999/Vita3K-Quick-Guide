@@ -3,21 +3,17 @@
 
 ![1](https://user-images.githubusercontent.com/61804715/145160207-230fcf68-45cd-49c8-b6c4-2f3089d1b2d6.jpg)
 ![2](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)
-
 - 不过缺点是修改后的奖杯显示日期是1970/1/1，我还需要花一些时间找到修改奖杯时间的区间。
 
 ## 演示
 1. 秋之回忆8
-
 ![3](https://user-images.githubusercontent.com/61804715/134748321-568ba06a-d757-477b-8595-24148ed9d112.png)
 ![4](https://user-images.githubusercontent.com/61804715/134748436-38d512ff-9d3d-48fe-afed-1d16963c48c2.png)
 
 2. 重力异想世界
-
 - Before（未修改前）
 ![5](https://user-images.githubusercontent.com/61804715/134748607-ee706c7c-424a-4a8e-846e-2b5e46c98b11.png)
 ![6](https://user-images.githubusercontent.com/61804715/134748317-9c5af35b-976c-48ac-a35a-008f0831fb0d.png)
-
 - After（修改后）
 ![7](https://user-images.githubusercontent.com/61804715/134748631-b9d876a7-3346-44c3-b1a3-76da23f9193e.png)
 ![8](https://user-images.githubusercontent.com/61804715/134748613-b7017b81-b783-4935-969d-25ace6a893fc.png)
