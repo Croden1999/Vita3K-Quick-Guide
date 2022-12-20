@@ -1,7 +1,7 @@
 # Vita3K快速指南
 
 ### 前言
-此快速指南基于[Vita3K官方快速入门](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。
+此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。
 
 ### 免责声明
 Vita3K不纵容盗版，此快速指南不提供任何游戏资源，你需要自己搜索并获取。
@@ -38,7 +38,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org)
 - [Vita3K模拟器项目](https://github.com/Vita3K/Vita3K)
-- [Vita3K官方快速入门](https://vita3k.org/quickstart)
+- [Vita3K快速入门](https://vita3k.org/quickstart)
 - [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性列表——GitHub](https://github.com/Vita3K/compatibility/issues)
 - [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性列表——GitHub](https://github.com/Vita3K/homebrew-compatibility/issues)
 
