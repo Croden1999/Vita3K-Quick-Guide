@@ -4,7 +4,7 @@
 此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的改进，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。
 
 ### 免责声明
-Vita3K不纵容盗版，此快速指南不提供任何游戏资源，你需要自己搜索并获取。
+Vita3K不纵容盗版，此快速指南不提供任何游戏资源，您需要自己搜索并获取。
 
 ## 支持的操作系统
 - Windows x64（需要安装[Microsoft Visual C++ 2015-2022 Redistributable x64运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)）
@@ -21,7 +21,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 显卡着色器互锁 | × | ✓ 
 运行内存 | 4GB | 8GB或者更高 
 
-- 如果你的配置低于最低要求，请更换硬件配置或者新电脑。
+- 如果您的配置低于最低要求，请更换硬件配置或者新电脑。
 
 ## 教程
 主要
