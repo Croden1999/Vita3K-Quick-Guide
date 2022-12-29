@@ -22,3 +22,7 @@
 ## 语言补丁/mod补丁导入
 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径大致为`ux0\app\【标题ID】`），覆盖补丁文件后打开Vita3K运行游戏即可。
 - 如果是readdcont，请按照[追加内容安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
+
+## 相关的安装教程
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
