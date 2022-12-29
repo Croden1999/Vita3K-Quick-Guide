@@ -25,7 +25,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ## 教程
 <details>
-  <summary>Main 主要</summary>
+  <summary>Main 主要(点击箭头显示)</summary>
   <p>
     
 - [使用Vita3K](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)  
@@ -36,7 +36,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 </details>
 
 <details>
-  <summary>Other 其他</summary>
+  <summary>Other 其他(点击箭头显示)</summary>
   <p>
 
 - [保存数据导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
