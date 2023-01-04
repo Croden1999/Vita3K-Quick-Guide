@@ -1,8 +1,8 @@
 # 补丁安装
 支持补丁的格式：
-- [pkg](https://github.com/Croden1999/Vita3K-quick-guide/edit/master/README_PATCH.md#pkg)
-- [zip](https://github.com/Croden1999/Vita3K-quick-guide/edit/master/README_PATCH.md#zip)
-- [vpk](https://github.com/Croden1999/Vita3K-quick-guide/edit/master/README_PATCH.md#vpk)（如带MaiDump补丁的vpk）
+- [pkg](https://croden1999.github.io/Vita3K-quick-guide/README_PATCH#pkg)
+- [zip](https://croden1999.github.io/Vita3K-quick-guide/README_PATCH#zip)
+- [vpk](https://croden1999.github.io/Vita3K-quick-guide/README_PATCH#vpk)（如带MaiDump补丁的vpk）
 
 你可以右键应用程序，选择信息，就可以浏览应用程序的版本。
 
