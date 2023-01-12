@@ -39,8 +39,8 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [Vita3K官网](https://vita3k.org)
 - [Vita3K模拟器项目](https://github.com/Vita3K/Vita3K)
 - [Vita3K快速入门](https://vita3k.org/quickstart)
-- [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性列表——GitHub](https://github.com/Vita3K/compatibility/issues)
-- [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性列表——GitHub](https://github.com/Vita3K/homebrew-compatibility/issues)
+- [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性数据库——GitHub](https://github.com/Vita3K/compatibility/issues)
+- [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性数据库——GitHub](https://github.com/Vita3K/homebrew-compatibility/issues)
 
 ## Social
 - [Vita3K Discord服务器（推荐）](https://discord.gg/MaWhJVH)
