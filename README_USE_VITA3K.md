@@ -108,7 +108,7 @@ System 系统：
 
 Emulator 模拟器：
 - 运行应用程序时全屏
-- 音频后端：可切换SDK/Cubeb，默认选择SDK
+- 音频后端：可切换SDL/Cubeb，默认选择SDL
 - 启用ngs支持
 - 日志级别
 - 档案日志
