@@ -51,8 +51,8 @@
 - 模拟：最近使用的应用程序
 - Debug（调试）
 - 配置：设置、用户管理
-- 控制：键盘控制、虚拟按键、控制器
-- 帮助：关于、Vita3K更新、欢迎
+- 控制：键盘控制、虚拟按键(仅Android版本显示，键盘控制选项不存在）、控制器
+- 帮助：关于、Vita3K更新（Android版本不存在，可能未来会回归）、欢迎
 
 筛选，通过筛选显示的应用程序：
 - 所有
@@ -73,7 +73,7 @@
 
 应用程序右键选项：
 - 运行
-- 查看应用程序兼容性
+- 兼容性（兼容性状态、查看应用程序兼容性、新建/打开问题、更新数据库）
 - 复制应用程序信息（名称和标题ID、名称、标题ID、应用程序摘要）
 - 自定义配置（单独应用程序的配置设置，不影响整体配置设置）
 - 打开文件夹（应用程序、追加内容、许可证、保存数据、着色器缓存、着色器日志）
@@ -88,7 +88,7 @@ Core 核心：
 - Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍。
 
 CPU 处理器:
-- CPU后端：可切换Dynarmic/Unicorn（已弃用），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项
+- CPU后端：可切换Dynarmic/Unicorn（已弃用）（Android版本不存在Unicorn），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项。
 
 GPU 显卡：
 - 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS和Android只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
@@ -108,13 +108,14 @@ System 系统：
 
 Emulator 模拟器：
 - 运行应用程序时全屏
-- 音频后端：可切换SDL/Cubeb，默认选择SDL
+- 音频后端：可切换SDL/Cubeb，默认选择SDL（Android默认使用Cubeb）
 - 启用ngs支持
 - 日志级别
 - 档案日志
-- Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态）
+- Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态，Android版本不存在）
 - 性能监测（显示FPS帧数、平均以及最高帧、帧数线性流动图、调整显示位置）
-- 纹理缓存
+- 
+- 纹理缓存（Android版本不存在）
 - 模拟器系统存储文件夹路径（即模拟PSVita分区的路径）
 
 GUI 界面：
