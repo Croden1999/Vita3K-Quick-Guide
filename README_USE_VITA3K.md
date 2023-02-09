@@ -91,7 +91,7 @@ CPU 处理器:
 - CPU后端：可切换Dynarmic/Unicorn（已弃用），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项
 
 GPU 显卡：
-- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则会报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
+- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS和Android只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
 - [此选项仅在OpenGL时显示] 关闭表面同步
