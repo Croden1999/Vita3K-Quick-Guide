@@ -12,12 +12,6 @@ Vita3K不纵容盗版，此快速指南不提供任何游戏资源，您需要�
 - macOS
 - Android（等待周日2月12日发布）
 
-## 默认存放路径
-- Windows: C:/Users/[user_name]/Appdata/Roaming/Vita3K/Vita3K
-- Linux: ~/.local/share/Vita3K/Vita3K
-- macOS: ~/Library/Application Support/Vita3K
-- Android: /storage/emulated/0/Android/data/...
-
 ## 配置要求
 ### PC
 
@@ -42,6 +36,12 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 3. 安卓版本支持Adreno设备的自定义GPU驱动（特指高通处理器）。如果你的设备有Adreno 6xx系列GPU，建议使用Turnip驱动程序以获得较大的速度提升。Vita3K与adpkg驱动兼容。
 
 - 如果您的配置低于最低要求，请更换新设备。
+
+## 默认存放路径
+- Windows: C:/Users/[user_name]/Appdata/Roaming/Vita3K/Vita3K
+- Linux: ~/.local/share/Vita3K/Vita3K
+- macOS: ~/Library/Application Support/Vita3K
+- Android: /storage/emulated/0/Android/data/...
 
 ## 教程
 ### 主要
