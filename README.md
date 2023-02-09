@@ -12,8 +12,14 @@ Vita3K不纵容盗版，此快速指南不提供任何游戏资源，您需要�
 - macOS
 - Android（等待周日2月12日发布）
 
-## 配置要求
+## 默认存放路径
+- Windows: C:/Users/[user_name]/Appdata/Roaming/Vita3K/Vita3K
+- Linux: ~/.local/share/Vita3K/Vita3K
+- macOS: ~/Library/Application Support/Vita3K
+- Android: /storage/emulated/0/Android/data/...
 
+## 配置要求
+### PC
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
 CPU | 支持AVX指令集 | 支持AVX指令集 
@@ -21,7 +27,18 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 显卡着色器互锁 | × | ✓ 
 运行内存 | 4GB | 8GB或者更高 
 
-- 如果您的配置低于最低要求，请更换硬件配置或者新电脑。
+### Android
+最低要求：
+1. ARM64位设备
+2. Vulkan 1.0版本
+3. 安卓7及以上的版本（如果设备支持Vulkan 1.0，至少能在安卓7运行）
+
+推荐要求：
+1. 待更新（如果你的设备是最低要求，除了自制程序和2D游戏，其他不要指望能运行）
+2. 安卓版本至少几个月内不会开源，意味没有其他人能构建以及修改它。
+3. 安卓版本支持Adreno设备的自定义GPU驱动（特指高通处理器）。如果你的设备有Adreno 6xx系列GPU，建议使用Turnip驱动程序以获得较大的速度提升。Vita3K与adpkg驱动兼容。
+
+- 如果您的配置低于最低要求，请更换PC硬件配置或者新设备。
 
 ## 教程
 ### 主要
