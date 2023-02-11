@@ -41,12 +41,17 @@
 
 ### Mai（加载方式0）
 分为两种方式安装：
-- 安装
+- 安装(仅适用PC)
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器
 2. 在菜单栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
 3. 等待安装完成后点确定，运行游戏即可。
 
-- 解压
+- 解压（PC）
+1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`打开存放路径`；
+2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
+3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
+
+- 解压（PC）
 1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`打开存放路径`；
 2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
 3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
@@ -62,11 +67,12 @@
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 - Android
-1. ，vpk后缀更改为zip，解压文件传输至设备的`Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
-2. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
-3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. 将dlc文件夹命名为同标题ID文件夹，并移动至`ux0/addcont`文件夹内，若游戏文件夹中没有dlc文件夹可以跳过此操作。
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+1. 安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输（除非使用mt管理器等软件对data文件夹授权）；
+2. vpk后缀更改为zip，并解压至`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
+3. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名称更改为标题ID（如PCSX00000）；
+4. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
+5. 将dlc文件夹命名为同标题ID文件夹，并移动至`ux0/addcont`文件夹内，若游戏文件夹中没有dlc文件夹可以跳过此操作。
+6. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
