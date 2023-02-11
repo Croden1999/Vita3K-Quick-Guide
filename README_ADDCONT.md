@@ -10,21 +10,19 @@
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif，然后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装pkg`，`选择pkg文件`，`输入zrif密钥`或者`导入work.bin`文件，等待安装完成后即可，可在Vita3K内容管理查看已安装的DLC。
 
 ## zip
-- PC
-
+### PC
 可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，之后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
-- Android
-
+### Android
 可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，点击`选择文件`，`选择zip文件`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
 注：Android没有`选择目录`选项。
 
 ## decrypt
 ### PC
-- 第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，在顶部选项栏`文件`→`打开存放路径`，将你下载的解密dlc放置在`ux0\addcont`即可，正确路径是`ux0\addcont\【标题ID】`，可在Vita3K内容管理检查DLC是否放置正确。
+第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，在顶部选项栏`文件`→`打开存放路径`，将你下载的解密dlc放置在`ux0\addcont`即可，正确路径是`ux0\addcont\【标题ID】`，可在Vita3K内容管理检查DLC是否放置正确。
 
-- 第二种，也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装。打开Vita3K模拟器，在顶部选项栏`文件`→`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
+第二种，也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装。打开Vita3K模拟器，在顶部选项栏`文件`→`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
 ### Android
 也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装。打开Vita3K模拟器，在顶部选项栏`文件`→`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
