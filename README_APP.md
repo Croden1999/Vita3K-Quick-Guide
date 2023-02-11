@@ -56,14 +56,14 @@
 1. 在菜单栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. 将dlc文件夹命名为同游戏ID文件夹，并移动`ux0/addcont`里，若游戏文件夹内没有dlc文件夹可以跳过此操作。
+4. 将dlc文件夹命名为同游戏ID文件夹，并移动至`ux0/addcont`文件夹内，若游戏文件夹内没有dlc文件夹可以跳过此操作。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 - Android（需要PC）
-1. 将你的设备连接至PC，vpk更改为zip后缀，解压文件传输至设备的`Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
+1. 将你的设备连接至PC，vpk后缀更改为zip，解压文件传输至设备的`Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
 2. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. 将dlc文件夹命名为同标题ID文件夹，并移动`ux0/addcont`里，若游戏文件夹内没有dlc文件夹可以跳过此操作。
+4. 将dlc文件夹命名为同标题ID文件夹，并移动至`ux0/addcont`文件夹内，若游戏文件夹中没有dlc文件夹可以跳过此操作。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
