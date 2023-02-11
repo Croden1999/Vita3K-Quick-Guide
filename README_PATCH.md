@@ -28,6 +28,7 @@
 由于安卓11+版本存储策略限制无法直接导入文件至Android/data文件夹，仅能使用他人打包好的补丁安装或者使用PC传输。
 
 - repatch语言补丁打包样式
+
 ![image](https://user-images.githubusercontent.com/61804715/218272953-c2200d7d-8fa5-4940-a520-17df60084e9a.png)
 ![image](https://user-images.githubusercontent.com/61804715/218273012-ecaf6cef-1cdb-4bb9-91fe-f98808be8a8e.png)
 
