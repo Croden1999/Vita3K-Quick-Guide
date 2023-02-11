@@ -9,6 +9,7 @@
 打开Vita3K模拟器，在菜单栏点击`文件`→`安装pkg`→`选择pkg文件`→`输入zrif密钥`或者`导入work.bin`文件，安装完成后在Vita3K Livearea主页中的【NPXS10015】设定里更换主题即可。
 
 ## zip
+### PC
 可以在 NPS Browser 下载主题后在NoPayStation\bgdl\t\XXXXXXXX(X代表数字，下载内容从00000001依次往下数)里找到【标题ID】的文件夹并打包zip，打包方式与vpk打包一致，打开Vita3K，在菜单栏点击`文件`→`安装zip、vpk`→`选择文件/目录`→`选择zip文件/文件夹目录`，安装完成后在Vita3K Livearea主页中的【NPXS10015】设定里更换主题即可。
 
 ### 解密、自制主题
