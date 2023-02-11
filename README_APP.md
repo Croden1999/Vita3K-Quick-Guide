@@ -40,7 +40,7 @@
 - Vita3K不支持Vitamin提取的游戏安装。
 
 ### Mai（加载方式0）
-分为两种方式安装：
+PC分为两种方式安装，Android为一种：
 - 安装(仅适用PC)
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器
 2. 在菜单栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
