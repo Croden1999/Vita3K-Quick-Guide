@@ -93,8 +93,8 @@ CPU 处理器:
 GPU 显卡：
 - 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS和Android只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。
-- [仅Android]添加自定义驱动
-- [仅Android]移除自定义驱动
+- [仅Android版本]添加自定义驱动
+- [仅Android版本]移除自定义驱动
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
 - [此选项仅在OpenGL时显示] 关闭表面同步
 - 开启FXAA抗锯齿
@@ -118,7 +118,7 @@ Emulator 模拟器：
 - 性能监测（显示FPS帧数、平均以及最高帧、帧数线性流动图、调整显示位置）
 - 检查在区分大小写的文件系统上启用不区分大小写的路径查找。 重启时重置（允许模拟器尝试在非windows平台上搜索文件，无论大小写）
 - 纹理缓存（Android版本不存在）
-- 模拟器系统存储文件夹路径（即模拟PSVita分区的路径）
+- 模拟器系统存储文件夹路径（即模拟PSVita分区的路径，Android版本不允许更改）
 
 GUI 界面：
 - 界面可见：运行应用程序中显示菜单栏
