@@ -1,7 +1,7 @@
 # 追加内容安装
 分为三种类型：
 1. [pkg](http:///croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#pkg)（加密）
-2. [zip](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#zip)
+2. [zip](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#zip)（如nonpdrm）
 3. [decrypt](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)（解密，例如readdcont的DLC(s)、mai游戏附带的DLC(s)文件夹等解密的追加内容dlc文件）
 
 你可以在Vita3K主页面的 【NPXS10026】 内容管理 应用程序，点击应用程序，找到对应游戏所安装的DLC信息。
