@@ -14,7 +14,7 @@
 可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，之后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
 ### Android（需要PC）
-可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，选择zip文件，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
+可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，将您的设备连接至PC，传输至根目录或者download文件夹即可，打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，选择zip文件，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
 注：Android没有`选择目录`选项。
 
