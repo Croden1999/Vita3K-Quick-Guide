@@ -26,10 +26,14 @@
 ## 语言补丁/mod补丁导入
 ### PC
 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径大致为`ux0\app\【标题ID】`），覆盖补丁文件后打开Vita3K运行游戏即可。
+
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ### Android
-安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁(repatch)覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内，再打开Vita3K运行游戏检查效果。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件对data文件夹授权，才能将语言/mod补丁（repatch）覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内。
+安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁(repatch)覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内，再打开Vita3K运行游戏检查效果。
+
+安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件对data文件夹授权，才能将语言/mod补丁（repatch）覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内。
+
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ## 相关的安装教程
