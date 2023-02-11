@@ -16,7 +16,7 @@
 在NPS Browser下载游戏的更新补丁，下载完将`patch\【标题ID】`文件夹里的压缩为zip，再到Vita3K上安装zip，显示更新版本安装完成运行游戏即可。
 
 ### Android（需要PC）
-在NPS Browser下载游戏的更新补丁，下载完将`patch\【标题ID】`文件夹里的压缩为zip，将您的设备连接至PC，传输更新补丁zip到您的设备，再到Vita3K上安装zip，显示更新版本安装完成运行游戏即可。
+在NPS Browser下载游戏的更新补丁，下载完将`patch\【标题ID】`文件夹里的压缩为zip，将您的设备连接至PC，传输zip文件至根目录或者download文件夹即可，再到Vita3K上安装zip，显示更新版本安装完成运行游戏即可。
 
 ※注意：仅pkg或者zip（nonpdrm）可更新版本，mai不通用。
 
@@ -29,7 +29,7 @@
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ### Android
-安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁覆盖到路径。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件授权data文件夹才能将语言/mod补丁覆盖到存放路径。
+安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁(repatch)覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内，再打开Vita3K运行游戏检查效果。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件对data文件夹授权，才能将语言/mod补丁（repatch）覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内。
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ## 相关的安装教程
