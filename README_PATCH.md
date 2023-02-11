@@ -17,11 +17,20 @@
 ※注意：仅pkg或者zip（nonpdrm）可更新版本，mai不通用。
 
 ## vpk
-一些人分享的MaiDump vpk的游戏里面覆盖应用程序补丁，例如文件名：0233_ASIA_PCSH00250_DEADORALIVEXTREME3VENUS_0115.vpk，后面这个0115就是应用程序的版本，即应用程序是1.15版本，安装方式请按照[应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)操作。
+一些人分享的MaiDump vpk的游戏里面覆盖应用程序补丁，例如文件名：0233_ASIA_PCSH00250_DEADORALIVEXTREME3VENUS_0115.vpk，后面这个0115就是应用程序的版本，即应用程序是1.15版本，安装方式请按照[应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)中vpk步骤操作。
 
 ## 语言补丁/mod补丁导入
+### PC
 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径大致为`ux0\app\【标题ID】`），覆盖补丁文件后打开Vita3K运行游戏即可。
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
+
+### Android
+由于安卓11+版本存储策略限制无法直接导入文件至Android/data文件夹，仅能使用他人打包好的补丁安装或者使用PC传输。
+
+- repatch语言补丁打包样式
+![image](https://user-images.githubusercontent.com/61804715/218272953-c2200d7d-8fa5-4940-a520-17df60084e9a.png)
+![image](https://user-images.githubusercontent.com/61804715/218273012-ecaf6cef-1cdb-4bb9-91fe-f98808be8a8e.png)
+
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
