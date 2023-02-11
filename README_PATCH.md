@@ -29,14 +29,7 @@
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ### Android
-安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁覆盖到路径。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用他人打包好的补丁安装或者使用PC传输。
-
-- repatch语言补丁打包样式，需要有sce_sys和eboot.bin才能识别，且类别是gp（游戏补丁）才会识别为补丁
-
-![image](https://user-images.githubusercontent.com/61804715/218272953-c2200d7d-8fa5-4940-a520-17df60084e9a.png)
-![image](https://user-images.githubusercontent.com/61804715/218273548-73f65100-3353-4d65-bca1-8ed9df426288.png)
-![image](https://user-images.githubusercontent.com/61804715/218273012-ecaf6cef-1cdb-4bb9-91fe-f98808be8a8e.png)
-
+安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁覆盖到路径。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件授权data文件夹才能将语言/mod补丁覆盖到存放路径。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
