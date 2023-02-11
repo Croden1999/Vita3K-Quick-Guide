@@ -41,25 +41,25 @@
 
 ### Mai（加载方式0）
 分为两种机型安装：
-- 安装（PC）
+- PC
 1. 打开Vita3K模拟器在顶部选项栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
 2. 等待安装完成后点确定，运行游戏即可。
 
-- 安装（Android）
+- Android
 1. 打开Vita3K模拟器在顶部选项栏点击`文件`—>`安装zip、vpk`，选择vpk文件后就会开始安装
 2. 等待安装完成后点确定，运行游戏即可。
 
 ### Mai（加载方式5）
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，不能直接在Vita3K中安装，直接安装会导致失败，需要解压到模拟器存储路径。替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
 
-PC
+- PC
 1. 在菜单栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
 4. 将dlc文件夹命名为同游戏ID文件夹，并移动`ux0/addcont`里，若游戏文件夹内没有dlc文件夹可以跳过此操作。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
-Android（需要PC）
+- Android（需要PC）
 1. 将你的设备连接至PC，vpk更改为zip后缀，解压文件传输至设备的`Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
 2. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
