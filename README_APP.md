@@ -51,10 +51,11 @@
 2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
 3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
 
-- 解压（PC）
-1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`打开存放路径`；
-2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
-3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
+- 解压（Android）
+1. 安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输（除非使用mt管理器等软件对data文件夹授权）；
+2. vpk后缀更改为zip，并解压至`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
+3. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名称更改为标题ID（如PCSX00000）；
+4. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ### Mai（加载方式5）
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，不能直接在Vita3K中安装，直接安装会导致失败，需要解压到模拟器存储路径。替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
