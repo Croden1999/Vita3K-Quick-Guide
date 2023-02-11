@@ -30,6 +30,7 @@
 
 ### Android
 安卓7至安卓10的Android/data文件夹不受任何权限限制，可以直接将语言/mod补丁覆盖到路径。安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件授权data文件夹才能将语言/mod补丁覆盖到存放路径。
+- 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
