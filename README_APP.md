@@ -24,9 +24,14 @@
 
 ![2](https://user-images.githubusercontent.com/61804715/188533955-393d4953-5da9-4956-a49a-35a42eec4bbd.png)
 
-1. 打开Vita3K模拟器，在菜单栏点击`文件`->`安装zip、vpk`；
+### PC
+1. 打开Vita3K模拟器，在顶部选项栏点击`文件`->`安装zip、vpk`；
 2. 点击`选择文件`，`选择zip`文件；
 3. 等待安装完成后点确定运行即可。
+
+### Android
+1. 打开Vita3K模拟器，在顶部选项栏点击`文件`->`安装zip、vpk`；
+2. 选择zip文件，等待安装完成后点确定运行即可。
 
 - 如果是安装更多zip/vpk可以`选择目录`来进行多个安装。(仅适用于PC版本，安卓版本没有此选项)
 
@@ -42,13 +47,13 @@
 ### Mai（加载方式0）
 PC分为两种方式安装，Android为一种：
 - 安装(仅适用PC)
-1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器
-2. 在菜单栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
+1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器；
+2. 在顶部选项栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定；
 3. 等待安装完成后点确定，运行游戏即可。
 
 - 解压（PC）
 1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`打开存放路径`；
-2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
+2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）；
 3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
 
 - 解压（Android）
