@@ -29,6 +29,8 @@
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ### Android
+安卓7至安卓10可以直接将语言/mod补丁覆盖到路径。（data不受任何权限限制）
+
 由于安卓11+版本存储策略限制无法直接导入文件至Android/data文件夹，仅能使用他人打包好的补丁安装或者使用PC传输。
 
 - repatch语言补丁打包样式，需要有sce_sys和eboot.bin才能识别，且类别是gp（游戏补丁）才会识别为补丁
