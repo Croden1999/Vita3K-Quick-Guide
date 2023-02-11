@@ -12,7 +12,7 @@
 
 打开Vita3K模拟器，在菜单栏点击`文件`—>`安装pkg`，`选择pkg`文件，`输入zrif密钥`或者`导入work.bin`文件，等待安装完成后运行即可。
 
-关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 搜索内容右键复制zrif都是可以的。
+关于获取pkg、zrif或者work.bin文件，pkg、zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 搜索内容右键复制pkg/zrif都是可以的。
 
 ![1](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
 
@@ -28,7 +28,7 @@
 2. 点击`选择文件`，`选择zip`文件；
 3. 等待安装完成后点确定运行即可。
 
-- 如果是安装更多zip/vpk可以`选择目录`来进行多个安装。
+- 如果是安装更多zip/vpk可以`选择目录`来进行多个安装。(仅适用于PC)
 
 ## vpk
 通常Homebrew自制程序vpk都可以安装，但不保证所有都能运行，因为某些自制程序（如调用了PSV系统的库的自制程序或者使用Lua语言的程序）可能导致无法运行或者闪退。
@@ -40,23 +40,30 @@
 - Vita3K不支持Vitamin提取的游戏安装。
 
 ### Mai（加载方式0）
-分为两种方式安装：
-- 安装
-1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器
-2. 在菜单栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
-3. 等待安装完成后点确定，运行游戏即可。
+分为两种机型安装：
+- 安装（PC）
+1. 打开Vita3K模拟器在顶部选项栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定
+2. 等待安装完成后点确定，运行游戏即可。
 
-- 解压
-1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`打开存放路径`；
-2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）
-3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
+- 安装（Android）
+1. 打开Vita3K模拟器在顶部选项栏点击`文件`—>`安装zip、vpk`，选择vpk文件后就会开始安装
+2. 等待安装完成后点确定，运行游戏即可。
 
 ### Mai（加载方式5）
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，不能直接在Vita3K中安装，直接安装会导致失败，需要解压到模拟器存储路径。替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
+
+PC
 1. 在菜单栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
 4. 将dlc文件夹命名为同游戏ID文件夹，并移动`ux0/addcont`里，若游戏文件夹内没有dlc文件夹可以跳过此操作。
+5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+
+Android（需要PC）
+1. 将你的设备连接至PC，vpk更改为zip后缀，解压文件传输至设备的`Android/data/org.vita3k.emulator/files/vita/ux0/app`文件夹中；
+2. 在`app`文件夹中，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
+3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
+4. 将dlc文件夹命名为同标题ID文件夹，并移动`ux0/addcont`里，若游戏文件夹内没有dlc文件夹可以跳过此操作。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
