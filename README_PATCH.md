@@ -31,9 +31,10 @@
 ### Android
 由于安卓11+版本存储策略限制无法直接导入文件至Android/data文件夹，仅能使用他人打包好的补丁安装或者使用PC传输。
 
-- repatch语言补丁打包样式
+- repatch语言补丁打包样式，需要有sce_sys和eboot.bin才能识别，且类别是gp（游戏补丁）才会识别为补丁
 
 ![image](https://user-images.githubusercontent.com/61804715/218272953-c2200d7d-8fa5-4940-a520-17df60084e9a.png)
+![image](https://user-images.githubusercontent.com/61804715/218273548-73f65100-3353-4d65-bca1-8ed9df426288.png)
 ![image](https://user-images.githubusercontent.com/61804715/218273012-ecaf6cef-1cdb-4bb9-91fe-f98808be8a8e.png)
 
 
