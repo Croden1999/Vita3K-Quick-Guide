@@ -80,8 +80,8 @@ PC/Android分为两种方式安装：
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 - Android（若可以安装vpk情况下）
-1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成；
-2. 使用mt管理器打开`/storage/emulated/0/Android/data/org.vita3k.emulator/data/vita/ux0/app`文件夹中，并按照param.sfo文件信息将游戏文件夹名称更改为标题ID（如PCSX00000）；
+1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成，记住[标题ID]后面步骤需要到；
+2. 使用mt管理器打开路径`/storage/emulated/0/Android/data/org.vita3k.emulator/data/vita/ux0/app/[标题ID]`；
 3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
 4. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同标题ID文件夹，并移动至`ux0/addcont`文件夹内。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
