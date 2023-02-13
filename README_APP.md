@@ -6,7 +6,7 @@
 
 - *指当前推荐的格式。
 - 支持选择文件夹内的多个zip/vpk安装。(仅PC)
-- 不支持Vitamin提取的游戏（例如名称带有FULLGAME或者sce_module文件夹存在steroid.suprx），请更换其他非Vitamin的资源。
+- 不支持Vitamin提取的游戏（例如sce_module文件夹存在steroid.suprx），请更换其他非Vitamin的资源。
 
 ## pkg
 
