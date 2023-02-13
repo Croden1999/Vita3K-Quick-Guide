@@ -46,7 +46,7 @@
 
 ### Mai（加载方式0）
 PC/Android分为两种方式安装：
-- 安装(PC)
+- 安装（PC）
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器；
 2. 在顶部选项栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定；
 3. 等待安装完成后点确定，运行游戏即可。
