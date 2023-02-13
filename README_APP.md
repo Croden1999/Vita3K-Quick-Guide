@@ -5,7 +5,7 @@
 3. [vpk](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin
 
 - *指当前推荐的格式。
-- 支持选择文件夹内的多个zip/vpk安装。（仅PC）
+- 支持选择目录文件夹内的多个zip/vpk安装。（仅PC）
 - 不支持Vitamin提取的游戏（例如sce_module文件夹存在steroid.suprx），请更换其他非Vitamin的资源。
 
 ## pkg
