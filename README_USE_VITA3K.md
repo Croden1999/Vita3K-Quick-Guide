@@ -108,13 +108,13 @@ System 系统：
 
 Emulator 模拟器：
 - 运行应用程序时全屏（Android版本不存在）
-- 音频后端：可切换SDL/Cubeb，默认选择SDL（Android默认使用Cubeb）
+- 音频后端：可切换SDL/Cubeb，默认选择SDL（Android版本默认使用Cubeb）
 - 启用ngs支持
 - 日志级别
 - 档案日志
 - Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态，Android版本不存在此选项）
 - 性能监测（显示FPS帧数、平均以及最高帧、帧数线性流动图、调整显示位置）
-- 检查在区分大小写的文件系统上启用不区分大小写的路径查找。 重启时重置（允许模拟器尝试在非windows平台上搜索文件，无论大小写）
+- [Windows版本不显示]检查在区分大小写的文件系统上启用不区分大小写的路径查找。 重启时重置（允许模拟器尝试在非windows平台上搜索文件，无论大小写）
 - 纹理缓存（Android版本不存在）
 - 模拟器系统存储文件夹路径（即模拟PSVita分区的路径，Android版本不存在）
 
