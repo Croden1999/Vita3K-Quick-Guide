@@ -1,6 +1,6 @@
 # 保存数据
 ## 导入（PSVita→Vita3K）
-将PSVita的存档导入到Vita3K中，两种导入方式都不需要PSVita，但需要解密的PSVita存档文件。
+将PSVita的存档导入到Vita3K中，两种导入方式都不需要PSVita，但需要解密的PSVita存档文件，Vita3K只读取解密的文件。
 - 注意：仅支持解密的存档转换，无法在Vita3K中直接安装加密/解密存档。
 
 分为两种导入方式：
