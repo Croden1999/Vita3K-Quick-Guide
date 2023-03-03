@@ -33,7 +33,8 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 - 如果您的配置低于最低要求，请更换新设备。
 
-## 默认存放路径
+## Default Perf Path
+各平台默认存放路径如下：
 - Windows: `C:/Users/[user_name]/Appdata/Roaming/Vita3K/Vita3K`
 - Linux: `~/.local/share/Vita3K/Vita3K`
 - macOS: `~/Library/Application Support/Vita3K`
