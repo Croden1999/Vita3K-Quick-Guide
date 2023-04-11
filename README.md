@@ -46,10 +46,11 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
 - [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
-
-### 其他
-- [保存数据导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
+
+### 进阶
+- [Language Patch Package & Install 语言补丁包并安装](http://croden1999.github.io/Vita3K-quick-guide/README_LANGUAGE_PATCH)
+- [保存数据导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
 
 ## Vita3K官方网站以及项目
