@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/61804715/232274681-1fc62599-9754-4189-afea-35d99aac9191.png)
 
-### 那么则需要补充原游戏的eboot.bin以及sce_sys\param.sfo文件，将pararm.sfo内的类别更改为gp（若原来是gp就无需更改）；另外如果语言补丁有附带eboot.bin文件则优先使用语言补丁内的，之后补充原游戏的sce_sys\param.sfo文件，同时将pararm.sfo内的类别更改为gp（若原来是gp就无需更改），之后重新打包压缩zip，如图所示
+### 那么则需要补充原游戏的eboot.bin以及sce_sys\param.sfo文件，将pararm.sfo内的类别更改为gp（若原来是gp就无需更改）；另外如果语言补丁有附带eboot.bin文件则优先使用语言补丁内的，只需补充原游戏的sce_sys\param.sfo文件，更改类别，之后重新打包压缩zip，如图所示
 
 ![image](https://user-images.githubusercontent.com/61804715/232275180-05309ae9-0023-41a3-b99c-7f957159f6e9.png)
 
