@@ -22,7 +22,7 @@
 
 ![image](https://user-images.githubusercontent.com/61804715/232277589-ac783f26-9c2d-4d00-b9f3-9a372b89c3b7.png)
 
-### [如果不存在param.sfo的情况下]若检查不存在sce_sys\param.sfo情况下，首先需要提取原追加内存DLC的sce_sys\pararm.sfo，放到Mod补丁DLC中，并重新将所有Mod DLC打包压缩zip，如图所示
+### [如果不存在param.sfo]若检查不存在sce_sys\param.sfo情况下，首先需要提取原追加内存DLC的sce_sys\pararm.sfo，放到Mod补丁DLC中，并重新将所有Mod DLC打包压缩zip，如图所示
 
 ![image](https://user-images.githubusercontent.com/61804715/232277205-386cd730-a783-46c1-b6f9-36a617e8bb72.png)
 ![image](https://user-images.githubusercontent.com/61804715/232277543-6f638200-ff7a-41a8-8612-b75adea94604.png)
