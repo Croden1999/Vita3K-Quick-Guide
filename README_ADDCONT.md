@@ -25,9 +25,9 @@
 第二种，readdcont的dlc也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装。打开Vita3K模拟器，在顶部选项栏`文件`→`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
 ### Android
-安卓7至安卓10的data文件夹不受任何权限限制，将readdcont的dlc压缩包解压覆盖至`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/addcont/[标题ID]`文件夹内，可在Vita3K内容管理检查DLC是否放置正确。
-
-安卓11+由于存储策略限制无法直接导入文件至data文件夹，仅能使用PC传输（除非使用mt管理器等软件对data文件夹授权）。将readdcont的dlc压缩包解压覆盖至`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/addcont/[标题ID]`文件夹内，可在Vita3K内容管理检查DLC是否放置正确。
+1. 打开谷歌原生文件管理器，解压Mod DLC补丁压缩包；
+2. 选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0\addcont\[标题ID]`中；
+3. 之后打开Vita3K运行游戏浏览效果，可在Vita3K内容管理查看已安装的DLC。
 
 ## 相关的安装教程
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
