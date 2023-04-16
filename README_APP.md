@@ -68,33 +68,19 @@ PC/Android分为两种方式安装：
 ### Mai（加载方式5）
 不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，在Vita3K中直接安装可能会导致失败，这也成了mai vpk在Vita3K不稳定因素之一，需要解压到模拟器存储路径。替换为原版eboot，重新启动Vita3K模拟器再运行游戏即可。
 
-- PC（若可以安装vpk情况下）
-1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定；
-2. 等待安装完成后点确定，然后右键这个应用程序，打开文件夹；
-3. 打开游戏文件夹后，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. 将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内，若游戏文件夹内没有dlc文件夹可以跳过此操作。
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
-
-- PC（若无法安装vpk情况下）
+- PC
 1. 在顶部选项栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
 3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
 4. 将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内，若游戏文件夹内没有dlc文件夹可以跳过此操作。
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
-- Android（若可以安装vpk情况下）
-1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成，记住[标题ID]后面步骤需要到；
-2. 使用mt管理器打开路径`/storage/emulated/0/Android/data/org.vita3k.emulator/data/vita/ux0/app/[标题ID]`；
-3. 把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内。
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
-
-- Android（若无法安装vpk情况下）
+- Android
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
-2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，将已修改`eboot.bin`文件替换使用回原版eboot；
-4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的ux0\app\[标题ID]中；
-5. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并移动至`ux0\addcont`文件夹内。
-7. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
+3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
+4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
+6. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
