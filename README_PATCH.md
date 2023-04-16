@@ -29,14 +29,12 @@
 2. 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径为`ux0/app/[标题ID]`）;
 3. 覆盖补丁文件后运行游戏浏览效果。
 
-- 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt#pc-1)操作。
-
 ### Android
 1. 打开谷歌原生文件管理器，解压补丁压缩包；
 2. 选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0\app\[标题ID]`中；
 3. 之后打开Vita3K运行游戏浏览效果。
 
-- 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt#android-1)操作。
+- 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
