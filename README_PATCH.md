@@ -23,16 +23,18 @@
 ## vpk
 一些人分享的MaiDump vpk的游戏里面覆盖应用程序补丁，例如文件名：0233_ASIA_PCSH00250_DEADORALIVEXTREME3VENUS_0115.vpk，后面这个0115就是应用程序的版本，即应用程序是1.15版本，安装方式请按照[应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)中vpk步骤操作。
 
-## 语言补丁/mod补丁导入
+## 语言/Mod补丁导入
 ### PC
-打开Vita3K，右击应用程序图标选择打开文件夹，解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径为`ux0/app/[标题ID]`），覆盖补丁文件后运行游戏即可。
+1. 打开Vita3K，右击应用程序图标选择打开文件夹;
+2. 解压你所下载的补丁（如repatch或者语言补丁文件内容），将其放置覆盖到游戏文件夹里（路径为`ux0/app/[标题ID]`）;
+3. 覆盖补丁文件后运行游戏浏览效果。
 
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
 ### Android
-安卓7至安卓10的data文件夹不受任何权限限制，可以直接将语言/mod补丁(repatch)覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内，再打开Vita3K运行游戏检查效果。
-
-安卓11+由于存储策略限制无法直接导入文件至Android/data文件夹，仅能使用PC传输；除非使用mt管理器等软件对data文件夹授权，才能将语言/mod补丁（repatch）覆盖到`/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita/ux0/app/[标题ID]`文件夹内。
+1. 打开谷歌原生文件管理器，解压补丁；
+2. 检查无误后，选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0\app\[标题ID]`中；
+3. 之后打开Vita3K运行游戏浏览效果。
 
 - 如果是readdcont，请按照[追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT#decrypt)操作。
 
