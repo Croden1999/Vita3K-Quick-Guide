@@ -16,6 +16,6 @@
 可以在 NPS Browser 下载主题后在NoPayStation\bgdl\t\XXXXXXXX(X代表数字，下载内容从00000001依次往下数)里找到【标题ID】的文件夹并打包zip，将您的设备连接至PC，传输zip文件至根目录或者download文件夹即可，打开Vita3K，在顶部选项栏点击`文件`——>`安装zip、vpk`，选择zip文件等待安装完成，安装完成后在Vita3K Livearea主页中的【NPXS10015】设定里更换主题即可。
 
 ### 解密、自制主题
-你可以下载他人分享的解密、自制主题压缩包或者在Vita3K的Live Area主页面的【NPXS10015】设定中选择`主题&背景`——>`主题`——>`在Altervista寻找`进入网站下载主题。
+你可以下载他人分享的解密、自制主题压缩包或者在Vita3K的Live Area主页面的【NPXS10015】设定中选择`主题&背景`——>`主题`——>`寻找PSVita主题`进入网站下载主题。
 - 在Vita3K顶部选项栏点击`文件`——>`打开存放路径`，打开`ux0/theme`文件夹，将主题解压到此目录，在Vita3K Livearea主页中的【NPXS10015】设定里更换主题即可。
 - 你也可以直接在Vita3K上安装自定义主题zip压缩包，在Vita3K Livearea主页中的【NPXS10015】设定里更换主题即可。
