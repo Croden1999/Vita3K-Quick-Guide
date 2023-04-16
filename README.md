@@ -50,9 +50,10 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ### 进阶
 - [Language/Mods Patch Package & Install - 语言/Mod补丁包与安装](http://croden1999.github.io/Vita3K-quick-guide/README_REPATCH)
-
 - [保存数据导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
 - [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
+
+
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
