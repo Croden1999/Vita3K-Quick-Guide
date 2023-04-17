@@ -27,6 +27,6 @@
 ![image](https://user-images.githubusercontent.com/61804715/232277205-386cd730-a783-46c1-b6f9-36a617e8bb72.png)
 ![image](https://user-images.githubusercontent.com/61804715/232277543-6f638200-ff7a-41a8-8612-b75adea94604.png)
 
-### 在Vita3K安装重新打包好的Mod DLC补丁zip压缩包，再进游戏检查效果
+### 在Vita3K安装重新打包好的Mod DLC补丁zip压缩包，再进游戏检查效果，也可以在Vita3K内容管理查看应用程序已安装追加内容DLC
 
 ![image](https://user-images.githubusercontent.com/61804715/232277620-f5524452-368d-4d4e-8ef1-b367d9fc453b.png)
