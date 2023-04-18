@@ -35,7 +35,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ## Default Perf Path
 各平台默认存放路径如下：
-- Windows: `C:/Users/[user_name]/Appdata/Roaming/Vita3K/Vita3K`
+- Windows: `C:/Users/[username]/Appdata/Roaming/Vita3K/Vita3K`
 - Linux: `~/.local/share/Vita3K/Vita3K`
 - macOS: `~/Library/Application Support/Vita3K`
 - Android: `/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita`
