@@ -72,15 +72,17 @@ PC/Android分为两种方式安装：
 - PC
 1. 在顶部选项栏点击`文件`->`打开存放路径`；
 2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名字改成标题ID（如PCSX00000）；
-3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. 将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内，若游戏文件夹内没有dlc文件夹可以跳过此操作。
+4. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内。
+4. 下载[MaiDumpTool](https://github.com/Croden1999/Vita3K-quick-guide/files/11263208/For.Vita3K.MaiDumpTool_V233.2zEx.zip)并在Vita3K中安装；
+5. 打开MaiDumpTool，选择`切换游戏加载方式`，选择游戏，选择`切换加载方式4`使用原版eboot，完成后返回Vita3K LiveArea主页；
 5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 - Android
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
-2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
-3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
-4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
+3. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
+2. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
+4. 下载[MaiDumpTool](https://github.com/Croden1999/Vita3K-quick-guide/files/11263208/For.Vita3K.MaiDumpTool_V233.2zEx.zip)并在Vita3K中安装；
+5. 打开MaiDumpTool，选择`切换游戏加载方式`，选择游戏，选择`切换加载方式4`使用原版eboot，完成后返回Vita3K LiveArea主页；
 6. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
