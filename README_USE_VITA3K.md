@@ -89,18 +89,19 @@ CPU 处理器:
 - CPU后端：可切换Dynarmic/Unicorn（已弃用）（Android版本不存在Unicorn），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项。
 
 GPU 显卡：
-- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS和Android只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
+- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。
 - [仅Android版本且高通骁龙处理器支持显示]添加自定义驱动
 - [仅Android版本且高通骁龙处理器支持显示]移除自定义驱动
 - 提升分辨率（1x - 8x），选择Reset(重设)会回调到1x（即960x544）分辨率
-- 禁用表面同步
+- 禁用表面同步(Android仅在Vulkan显示）
 - 开启FXAA抗锯齿
 - [此选项仅在OpenGL时显示] 垂直同步
 - 各向异性过滤（1x - 16x），选择重设会回调到1x
 - 使用着色器缓存
 - [此选项仅在OpenGL时显示] 使用Spir-V着色器（已弃用）
 - 清除着色器缓存和着色器日志
+- [仅Android版本显示]内存映射方案：可切换禁用/双缓冲区/页表/本地缓冲区，切换后需要重启才能生效
 
 System 系统：
 - 切换O / X键为确认键
@@ -136,7 +137,7 @@ Network 网络：
 - HTTP读取终止尝试：当没有更多数据可读取时，尝试多次可以提升性能，但如果您的网络很糟糕，则会导致游戏不稳定。
 - HTTP读取终止休眠：尝试在没有更多数据可读取时进入休眠时间，这可以提高性能，但如果您的网络很糟糕，则会导致游戏不稳定。
 
-Debug 调试（非开发人员建议忽略此项，Android版本不存在）：
+Debug 调试（非开发人员建议忽略此项）：
 - 日志导入
 - 日志导出
 - 着色器日志
