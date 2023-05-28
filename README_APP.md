@@ -38,39 +38,46 @@
 ## VPK
 通常Homebrew自制程序vpk都可以安装，但不保证所有都能运行，因为某些自制程序（如调用了PSV系统的库的自制程序或者使用Lua语言的程序）可能导致无法运行或者闪退。
 
-游戏vpk以mai vpk示例，分为两种加载方式（可以以文本文档浏览`mai_moe/load_type.mai`文件显示的数字）：
-1. 0（加载方式0）
-2. 5（加载方式5）
-
 - Vita3K不支持Vitamin提取的游戏安装。
 
 ### Mai
 PC/Android分为两种方式安装：
-- 安装（PC）
+- PC
+```
+安装
+
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器；
 2. 在顶部选项栏点击`文件`—>`安装zip、vpk`，点击`选择文件`，点右下角选择项选择`PlayStation Vita homebrew software package (*.vpk)`，选择vpk文件后点确定；
 3. 等待安装完成后点确定，运行游戏即可。
 
-- 解压（PC）
+解压
+
 1. 打开Vita3K模拟器，在顶部选项栏点击`文件`—>`打开存放路径`；
 2. 将vpk改zip解压放到`ux0/app`文件夹里，并按照param.sfo文件信息将文件夹名字更改为标题ID（如PCSX00000）；
 3. 在Vita3K中点击`刷新`选项显示应用程序图标，运行游戏即可。
+```
 
-- 安装（Android）
+- Android
+```
+安装
+
 1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成；
 2. 安装完成后运行游戏即可。
 
-- 解压（Android、mai加载方式0）
+解压（mai加载方式0）
+
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
 2. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
-- 解压（Android、mai加载方式5）
-5. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
-6. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
-7. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
-8. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
-9. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+解压（mai加载方式5）
+
+1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
+2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
+3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
+4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
+5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+```
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
