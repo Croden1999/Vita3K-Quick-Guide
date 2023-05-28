@@ -2,7 +2,7 @@
 应用程序以及游戏安装方式都是通用的，目前支持4种格式的安装：
 1. [PKG](http://croden1999.github.io/Vita3K-quick-guide/README_APP#PKG)*：加密，需要work.bin文件或者输入zrif密钥。
 2. [ZIP](http://croden1999.github.io/Vita3K-quick-guide/README_APP#ZIP)*：如PSN游戏/NoNpDrm，这是目前比较推荐的方式。
-3. [VPK](http://croden1999.github.io/Vita3K-quick-guide/README_APP#VPK)：解密，本质也是zip格式，游戏的vpk只支持[Mai](http://croden1999.github.io/Vita3K-quick-guide/README_APP#VPK##Mai)，不支持Vitamin。
+3. [VPK](http://croden1999.github.io/Vita3K-quick-guide/README_APP#VPK)：解密，本质也是zip格式，游戏的vpk只支持[Mai](http://croden1999.github.io/Vita3K-quick-guide/README_APP#Mai)，不支持Vitamin。
 
 - *指当前推荐的格式。
 - 支持选择目录文件夹内的多个zip/vpk安装。（仅PC）
