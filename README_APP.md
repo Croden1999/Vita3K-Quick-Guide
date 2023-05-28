@@ -18,7 +18,7 @@
 
 ## zip
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
-- 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏（nonpdrm文件是加密未解密），因为Vita3K只读取解密的文件，所以必须要在Vita3K中安装。
+- 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏（PSN/NoNpDrm文件是加密未解密），因为Vita3K只读取解密的文件，所以必须要在Vita3K中安装。
 
 在 NPS Browser 下载的内容可在NoPayStation文件夹里找到，NoNpDrm zip打包方式如下图所示：
 
@@ -60,12 +60,12 @@ PC/Android分为两种方式安装：
 1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成；
 2. 安装完成后运行游戏即可。
 
-- 解压（Android / mai加载方式0）
+- 解压（Android、mai加载方式0）
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
 2. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
-- 解压（Android / mai加载方式5）
+- 解压（Android、mai加载方式5）
 5. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
 6. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
 7. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
