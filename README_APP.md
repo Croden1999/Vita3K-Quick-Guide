@@ -44,7 +44,7 @@
 
 - Vita3K不支持Vitamin提取的游戏安装。
 
-### Mai（加载方式0）
+### Mai
 PC/Android分为两种方式安装：
 - 安装（PC）
 1. 直接拖到Vita3K模拟器图标安装，或者打开Vita3K模拟器；
@@ -60,35 +60,17 @@ PC/Android分为两种方式安装：
 1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成；
 2. 安装完成后运行游戏即可。
 
-- 解压（Android）
+- 解压（Android / mai加载方式0）
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
 2. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
-### Mai（加载方式5）
-不能在Vita3K上直接安装的缺点是因为eboot是修改过的，且带有dlc文件，mai修改后的eboot只适用于实机，在Vita3K中直接安装可能会导致失败，这也成了mai vpk在Vita3K不稳定因素之一。需要解压到模拟器存储路径，在MaiDumpTool给mai游戏切换加载方式使用原版eboot，重新启动Vita3K模拟器再运行游戏即可。
-
-- PC（使用MaiDumpTool工具切换原版eboot）
-1. 在顶部选项栏点击`文件`->`打开存放路径`；
-2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名称更改为标题ID（如PCSX00000）；
-3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内。
-4. 下载[MaiDumpTool.vpk](https://github.com/Croden1999/Vita3K-quick-guide/files/11263208/For.Vita3K.MaiDumpTool_V233.2zEx.zip)解压并在Vita3K中安装，在顶部选项栏`配置`->`设置`->`GPU`切换后端渲染器为OpenGL（目前MaiDumpTool在Vulkan下会卡死）；
-5. 打开MaiDumpTool，选择`切换游戏加载方式`，选择游戏，选择`4.使用原版eboot`，完成后返回Vita3K LiveArea主页；
-6. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
-
-- PC（手动替换原版eboot）
-1. 在顶部选项栏点击`文件`->`打开存放路径`；
-2. 在`ux0/app`文件夹中，将游戏vpk改为zip解压到此目录，并按照param.sfo文件信息将游戏文件夹名称更改为标题ID（如PCSX00000）；
-3. 打开游戏文件夹，把`mai_moe/eboot_origin.bin`(原版eboot文件)移动到`ux0/app/[标题ID]`文件夹，删除该文件夹的`eboot.bin`，将`eboot_origin.bin`更名为`eboot.bin`；
-4. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同标题ID，并移动至`ux0/addcont`文件夹内。
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
-
-- Android
-1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
-2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
-3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
-4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
+- 解压（Android / mai加载方式5）
+5. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
+6. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
+7. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
+8. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
+9. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
