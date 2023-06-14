@@ -58,17 +58,10 @@ PC/Android分为两种方式安装：
 1. 在顶部选项栏点击`文件`->`选择zip/vpk`，`安装zip、vpk`，点击`选择文件`，选择vpk文件后等待安装完成；
 2. 安装完成后运行游戏即可。
 
-解压（mai加载方式0）
+解压
 1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
 2. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
-
-解压（mai加载方式5）
-1. 打开谷歌原生文件管理器，将vpk文件后缀更改为zip，解压并检查标题ID（如PCSX00000）；
-2. 将`mai_moe/eboot_origin.bin`(原版eboot文件)更名为`eboot.bin`，并覆盖移动到游戏文件夹，把已修改`eboot.bin`文件替换使用回原版eboot；
-3. [若游戏文件夹中没有dlc文件夹可以跳过此操作]将dlc文件夹命名为同[标题ID]，并复制到Vita3K存放路径`ux0\addcont`文件夹中；
-4. 检查无误后，选择复制，打开侧边栏复制到Vita3K存放路径的`ux0\app`中；
-5. 在Vita3K中点击`刷新`选项显示应用程序，运行游戏即可。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
