@@ -38,7 +38,7 @@
 ## VPK
 通常Homebrew自制程序vpk都可以安装，但不保证所有都能运行，因为某些自制程序（如调用了PSV系统的库的自制程序或者使用Lua语言的程序）可能导致无法运行或者闪退。
 
-- Vita3K不支持Vitamin提取的游戏安装。
+- Vita3K不支持Vitamin提取的游戏安装，请更换其他非Vitamin的资源。
 
 ### Mai
 PC/Android分为两种方式安装：
