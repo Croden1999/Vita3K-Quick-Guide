@@ -1,4 +1,4 @@
-# 驱动安装（Only for Adreno GPU on Android）
+# 驱动安装（Only For Adreno GPU On Android）
 仅适用高通Adreno GPU 6XX以及7XX系列的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
