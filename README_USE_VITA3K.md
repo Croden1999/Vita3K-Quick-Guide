@@ -2,10 +2,10 @@
 ⚠️注意：首次使用Vita3K前，检查配置情况以及是否安装运行库，请不要放在带有中文以及空格文件夹里（包括模拟器整个路径的父级文件夹），否则打开Vita3K会闪退或者显示monospaced字体（使用utf-8文字、符号都显示为"?"）。
 
 ## 打开Vita3K，初次为Vita3K进行初始设置
-1. 选择语言，选择完成后点Next继续。
-2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击Next继续。（Android不存在）
-3. 点击下载[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件，选择PUP文件安装系统固件，两个固件都已安装且显示V（代表√，已安装）就可以点Next继续；不安装固件也不影响使用，部分应用程序需要module模块才能正常运行，但建议还是安装固件。
-4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点Next继续。
+1. 选择语言，选择完成后点击右下角继续。
+2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击右下角继续。（Android不存在）
+3. 点击下载[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件，选择PUP文件安装系统固件，两个固件都已安装且显示V（代表√，已安装）就可以点击右下角继续；不安装固件也不影响使用，部分应用程序需要固件模块才能正常运行，但强烈建议还是安装固件。
+4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点击右下角继续。
 5. 初始设置已完成，点击OK就开始使用Vita3K吧。
 6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作。
 7. 进入到锁屏界面再次点击任何地方进入到Vita3K的Livearea主页面，选择顶部选项栏的配置->设置选项，点击GUI勾选Asia Region（亚洲区域）选项，点击保存并重启Vita3K模拟器以显示正常文字。
@@ -23,8 +23,8 @@
 1. 点顶部主菜单栏的`文件`；
 2. 选择`安装固件`；
 3. 选择PUP文件；
-4. 安装完固件后点顶部菜单栏配置设置选项；
-5. 打开`配置``设置`对话框后点`GUI`选项，点击勾选`Asia Region（亚洲区域）`选项，点击保存并重启模拟器以显示正常文字。
+4. 安装完固件后点顶部菜单栏`配置`->`设置`选项；
+5. 打开`设置`对话框后点`GUI`选项，点击勾选`Asia Region（亚洲区域）`选项，点击保存并重启模拟器以显示正常文字。
 
 ## 设置完成Vita3K相关教程
 此流程安装完就可以进行安装应用程序/游戏、补丁更新、追加内容DLC和主题。
@@ -39,15 +39,17 @@
 
 ### 系统应用程序
 - 互联网浏览器 [NPXS10003]：访问Vita3K官网
+- Welcome Park [NPXS10007]：PS Vita的预装应用程序游戏
 - Trophy（奖杯）收藏 [NPXS10008]：管理获得的游戏奖杯信息
 - 设定 [NPXS10015]：管理主题&背景、日期&时间、语言以及语言键盘的设置
 - 内容管理 [NPXS10026]：管理应用程序、存档、主题的大小内容
+- PS Vita OS [NPXS19999]：启动PS Vita操作系统
 
 ### Livearea页面
 菜单栏选项：
 - 文件：打开存放路径、安装固件/pkg/zip/vpk/许可证
 - 模拟：最近使用的应用程序
-- Debug（调试）
+- Debug 调试（非开发人员建议忽略此项）
 - 配置：设置、用户管理
 - 控制：键盘控制（仅PC，Android不存在）、虚拟按键（仅Android）、控制器
 - 帮助：关于、Vita3K更新（Android不存在，可能未来会回归）、欢迎
@@ -88,10 +90,11 @@ Core 核心：
 - Modules List（模块列表）：仅Auto&Manual以及Manual能手动选择模块加载，可以在Search module（搜索模块）查找你需要的模块点击显示为黄色加载模块。若想清除所有手动加载的模块可以点Clear List（清除列表）恢复。安装固件后若没有显示模块可以尝试点Refresh List（刷新列表）刷新一遍。
 
 CPU 处理器:
-- CPU后端：可切换Dynarmic/Unicorn（已弃用）（Android版本不存在Unicorn），默认选择Dynarmic，仅Dynarmic的CPU后端才能启用JIT选项。
+- CPU后端：可切换Dynarmic/Unicorn（已弃用）（Android不存在Unicorn），默认为Dynarmic，
+- [仅Dynarmic显示]启用优化：启用额外CPU的JIT优化。
 
 GPU 显卡：
-- 后端渲染器：可切换OpenGL/Vulkan，默认选择OpenGL，更改后需要重启Vita3K才能生效（macOS只有Vulkan渲染器）。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K
+- 后端渲染器：可切换OpenGL/Vulkan，Windows & Linux默认为OpenGL，macOS & Android默认为Vulkan，更改后需要重启Vita3K才能生效。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K（macOS则忽略此设置，因为OpenGL不存在）
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效。
 - [仅Android版本且高通骁龙处理器支持显示]添加自定义驱动
 - [仅Android版本且高通骁龙处理器支持显示]移除自定义驱动
@@ -108,18 +111,21 @@ GPU 显卡：
 
 System 系统：
 - 切换O/X键为确认键
-- 模拟PSTV模式
+- 模拟PS TV模式
+- 模拟Show（展示）模式
+- 模拟Demo（演示）模式
 
 Emulator 模拟器：
 - 运行应用程序时全屏（Android不存在，毕竟在运行Vita3K时就是全屏）
-- 音频后端：可切换SDL/Cubeb，默认选择SDL（Android版本默认使用Cubeb）
+- 音频后端：可切换SDL/Cubeb，默认为SDL
 - 启用ngs支持
 - 日志级别
 - 档案日志
 - Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态，Android版本不存在此选项）
+- 纹理缓存
+- 显示编译着色器：显示编译着色器弹窗，取消勾选则不显示
 - 性能监测（显示FPS帧数、平均以及最高帧、帧数线性流动图、调整显示位置）
 - [Windows不显示]检查在区分大小写的文件系统上启用不区分大小写的路径查找。 重启时重置（允许模拟器尝试在非windows平台上搜索文件，无论大小写）
-- 纹理缓存
 - 模拟器系统存储文件夹路径（即模拟PSVita分区的路径，Android不存在）
 - 自定义配置设置（清除所有自定义配置设置）
 
