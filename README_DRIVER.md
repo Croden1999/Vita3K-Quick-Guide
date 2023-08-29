@@ -11,7 +11,7 @@
 1. 下载对应您设备的GPU型号的驱动，打开Vita3K模拟器；
 2. 在顶部选项栏点击`配置`—>`设置`，点击`GPU`选项卡；
 3. 点击`Add custom driver（添加自定义驱动）`，然后选择驱动zip文件；
-4. 在GPU中将`default`更换为新驱动，再运行游戏即可。
+4. 在`设置`对话框的`GPU`选项卡中，在GPU的`Default`更换为已安装的新驱动，再运行游戏即可。
 
 ## 解压（进阶）
 在此之前您需要将您的设备解锁Bootloader锁并刷入[Magisk](https://github.com/topjohnwu/Magisk/releases)进行root，才能进行下列步骤。
