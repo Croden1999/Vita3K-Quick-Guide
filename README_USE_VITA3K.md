@@ -4,7 +4,7 @@
 ## 打开Vita3K，初次为Vita3K进行初始设置
 1. 选择语言，选择完成后点击右下角继续。
 2. 选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击右下角继续。（Android不存在）
-3. 点击下载[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件，选择PUP文件安装系统固件，两个固件都已安装且显示V（代表√，已安装）就可以点击右下角继续；不安装固件也不影响使用，部分应用程序需要固件模块才能正常运行，但强烈建议还是安装固件。
+3. 点击下载[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2022_0209/sd_59dcf059d3328fb67be7e51f8aa33418/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件，选择PUP文件安装系统固件，两个固件都已安装且显示V（代表√，已安装）就可以点击右下角继续；不安装固件也不影响使用，部分应用程序需要固件模块才能正常运行，但强烈建议还是安装固件。
 4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置后可以点击右下角继续。
 5. 初始设置已完成，点击OK就开始使用Vita3K吧。
 6. 创建用户，创建完用户后点击你刚才创建的用户图标继续操作。
