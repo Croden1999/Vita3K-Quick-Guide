@@ -13,7 +13,7 @@
 
 打开Vita3K模拟器，在菜单栏点击`文件`—>`安装pkg`，`选择pkg`文件，`输入zrif密钥`或者`导入work.bin`文件，等待安装完成后运行即可。
 
-关于获取pkg、zrif或者work.bin文件，pkg、zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 搜索内容右键复制pkg/zrif都是可以的。
+关于获取pkg、zrif或者work.bin文件，pkg、zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在NPS Browser搜索内容右键复制pkg/zrif都是可以的。
 
 ![1](https://user-images.githubusercontent.com/61804715/131707016-03ff7df3-4891-4bec-8398-3311c88398f7.png)
 
@@ -21,7 +21,7 @@
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
 - 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏（PSN游戏/NoNpDrm文件是加密未解密），因为Vita3K只读取解密的文件，所以必须要在Vita3K中安装。
 
-在 NPS Browser 下载的内容可在NoPayStation文件夹里找到，NoNpDrm zip打包方式如下图所示：
+在NPS Browser下载的内容可在NoPayStation文件夹里找到，NoNpDrm zip打包方式如下图所示：
 
 ![2](https://user-images.githubusercontent.com/61804715/188533955-393d4953-5da9-4956-a49a-35a42eec4bbd.png)
 
