@@ -12,8 +12,10 @@
 ## PKG
 PC以及Android步骤通用：
 1. 打开Vita3K模拟器，在菜单栏点击`文件`—>`安装pkg`；
-2. 选择`pkg`文件，`输入zrif密钥`或者`导入work.bin`文件；
-3. 等待安装完成后点确定运行即可。
+2. 选择`pkg`文件，选择`导入work.bin/rif`或`输入zrif密钥`。
+3. 若选择`导入work.bin/rif`你需要选择对应正确的标题ID的授权文件才能安装成功；
+4. 若选择`输入zrif密钥`你需要输入正确的zrif密钥才能安装成功；
+5. 等待安装完成后点确定运行即可。
 
 ## ZIP
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
