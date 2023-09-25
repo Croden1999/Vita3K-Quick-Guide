@@ -15,7 +15,7 @@ PC以及Android步骤通用：
 
 ## ZIP
 使用zip安装NoNpDrm游戏相比pkg安装方式省略了需要输入密钥或者导入work.bin这一步，Vita3K会检测到NoNpDrm zip里的`sce_sys/package/work.bin`文件后解压解密安装。
-- 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏（PSN游戏/NoNpDrm文件是加密未解密），因为Vita3K只读取解密的文件，所以必须要在Vita3K中安装。
+- 注意：NoNpDrm zip不能直接解压到`ux0/app`里，如果直接解压NoNpDrm zip的游戏，在Vita3K中则无法运行该游戏（PSN游戏/NoNpDrm文件是加密未解密），Vita3K只读取解密的文件，因此必须要在Vita3K中安装。
 
 NoNpDrm zip如下图所示：
 
