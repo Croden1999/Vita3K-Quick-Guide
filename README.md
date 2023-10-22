@@ -12,6 +12,11 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 - macOS
 - Android
 
+## 下载链接
+[Windows x64](https://gh-proxy.com/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) / 
+[Linux](https://gh-proxy.com/https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) / 
+[MaoOS](https://gh-proxy.com/https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg)
+
 ## 配置要求
 ### PC
 
