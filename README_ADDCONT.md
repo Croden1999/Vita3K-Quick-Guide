@@ -10,6 +10,9 @@
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif，然后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装pkg`，`选择pkg文件`，`输入zrif密钥`或者`导入work.bin`文件，等待安装完成后即可，可在Vita3K内容管理查看已安装的DLC。
 
 ## zip
+分两种情况：
+- PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用maidumptool提取解密的DLC）
+- NPS
 ### PC
 可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，之后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
 
