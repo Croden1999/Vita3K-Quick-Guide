@@ -9,32 +9,45 @@
 ## pkg
 关于获取zrif或者work.bin文件，zrif和work.bin可以在[NoPayStation](https://nopaystation.com)上搜索内容获取，或者在 NPS Browser 软件搜索内容右键复制zrif。
 
-1. 打开Vita3K模拟器，在顶部菜单栏选择`文件`——>`安装pkg`；
-2. 选择`*.pkg`文件，选择`输入zrif密钥`或`导入work.bin`文件；
-3. 等待安装完成后即可，可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
+1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装pkg`；
+2. 选择`*.pkg`文件，选择`输入zrif密钥`或`导入work.bin`文件，等待安装完成后即可；
+3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
 
 ## zip
 分两种情况：
 - PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用maidumptool提取解密的DLC）
 - NPS
+  
 ### PC
-可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，之后打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
+可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip。
+
+1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装zip、vpk`；
+2. `选择文件`或`选择目录`，选择`*.zip文件`或`目录`，等待安装完成即可
+3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
 
 ### Android
-[需要使用PC版本的NPS Browser]可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并打包zip，将您的设备连接至PC，传输至根目录或者download文件夹即可，打开Vita3K模拟器，在顶部选项栏`文件`——>`安装zip、vpk`，选择zip文件，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
+[需要使用PC版本的NPS Browser]可以在 NPS Browser 下载DLC后在NoPayStation\addcont里找到【标题ID】的文件夹并压缩为zip，将您的设备连接至PC，传输至根目录或者download文件夹。
 
-⚠注：Android没有`选择目录`选项。
+1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装zip、vpk`，
+2. `选择文件`，选择`*.zip`文件，等待安装完成即可。
+3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
+
+⚠注意：Android没有`选择目录`选项。
 
 ## decrypt
 ### PC
-第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用，打开Vita3K模拟器，在顶部选项栏`文件`→`打开存放路径`，将下载的dlc压缩包覆盖至`ux0/addcont/[标题ID]`文件夹内，可在Vita3K内容管理检查DLC是否放置正确。
+第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用。
 
-第二种，readdcont的dlc也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装。打开Vita3K模拟器，在顶部选项栏`文件`→`安装zip、vpk`，点击`选择文件/选择目录`，`选择zip文件/目录`，等待安装完成即可，可在Vita3K内容管理查看已安装的DLC。
+1. 打开Vita3K，在顶部菜单栏选择`文件`->`打开存放路径`；
+2. 将下载的dlc压缩包解压覆盖至`ux0/addcont/[标题ID]`文件夹内；
+3. 可在Vita3K内容管理检查DLC是否放置正确，或在游戏中浏览已安装的DLC内容。
+
+第二种，readdcont/其他的解密DLC(s)也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装，安装方式与zip一致。
 
 ### Android
-1. 打开谷歌原生文件管理器，解压Mod DLC补丁压缩包；
+1. 打开谷歌原生文件管理器，解压readdcont/其他的解密DLC(s)补丁压缩包；
 2. 选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0\addcont\[标题ID]`中；
-3. 之后打开Vita3K运行游戏浏览效果，可在Vita3K内容管理查看已安装的DLC。
+3. 可在Vita3K内容管理检查DLC是否放置正确，或在游戏中浏览已安装的DLC内容。
 
 ## 相关的安装教程
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
