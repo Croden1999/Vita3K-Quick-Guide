@@ -12,13 +12,13 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 - macOS
 - Android
 
-## Vita3K下载（使用gh-proxy代理）
-[Windows x64](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) / 
-[Linux (zip)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) / 
-[Linux (AppImage)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) / 
-[Linux (AppImage.zsync)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage.zsync) / 
-[macOS](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) /
-[Android V8](https://gh-proxy.com/github.com/Vita3K/Vita3K-Android/releases/download/v8/vita3k-android-release-8.apk)
+## Vita3K下载（使用kkgithub代理）
+[Windows x64](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) / 
+[Linux (zip)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) / 
+[Linux (AppImage)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) / 
+[Linux (AppImage.zsync)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage.zsync) / 
+[macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) /
+[Android V8](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v8/vita3k-android-release-8.apk)
 
 ## 配置要求
 ### PC
