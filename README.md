@@ -53,7 +53,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/addcont)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/app)
 - [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/patch)
-- [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
+- [主题安装](http://croden1999.github.io/Vita3K-quick-guide/theme)
 
 ### 进阶
 - [驱动安装（Only For Adreno GPU On Android）](http://croden1999.github.io/Vita3K-quick-guide/driver)
