@@ -6,7 +6,7 @@
 [Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)
 
 ## 安装
-基于K11MCH1的[Vita3K驱动安装](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/vita3k.md)步骤。
+这是通常的安装步骤，基于K11MCH1的[Vita3K驱动安装](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/vita3k.md)步骤。
 
 1. 下载对应您设备的GPU型号的驱动，打开Vita3K模拟器；
 2. 在顶部选项栏点击`配置`—>`设置`，点击`GPU`选项卡；
