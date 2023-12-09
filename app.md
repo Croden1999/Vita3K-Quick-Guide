@@ -1,8 +1,8 @@
 # 应用程序/游戏安装
 应用程序以及游戏安装方式都是通用的，目前支持4种格式的安装：
-1. [PKG](http://croden1999.github.io/Vita3K-quick-guide/README_APP#pkg)：加密，需要work.bin文件或者输入zrif密钥。
-2. [ZIP](http://croden1999.github.io/Vita3K-quick-guide/README_APP#zip)：如PSN游戏/NoNpDrm，这是目前比较推荐的方式。
-3. [VPK](http://croden1999.github.io/Vita3K-quick-guide/README_APP#vpk)：解密，本质也是zip格式，游戏的vpk只支持[Mai](http://croden1999.github.io/Vita3K-quick-guide/README_APP#mai)，不支持Vitamin。
+1. [PKG](http://croden1999.github.io/Vita3K-quick-guide/app#pkg)：加密，需要work.bin文件或者输入zrif密钥。
+2. [ZIP](http://croden1999.github.io/Vita3K-quick-guide/app#zip)：如PSN游戏/NoNpDrm，这是目前比较推荐的方式。
+3. [VPK](http://croden1999.github.io/Vita3K-quick-guide/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin。
 4. 文件夹安装（仅PC）：将游戏文件夹拖动到Vita3K图形用户界面窗口进行安装，对于安装格式要求较高（仅NoNpDrm），且没有安装对话框显示，一般情况下不推荐该方式。
 
 ## PKG
@@ -61,5 +61,5 @@ PC/Android分为两种方式安装：
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行应用程序即可。
 
 ## 相关的安装教程
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
-- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/addcont)
+- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/patch)
