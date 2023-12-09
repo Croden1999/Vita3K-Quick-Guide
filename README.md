@@ -18,7 +18,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 [Linux (AppImage)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) / 
 [Linux (AppImage.zsync)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage.zsync) / 
 [macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) /
-[Android V8](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v8/vita3k-android-release-8.apk)
+[Android V9](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v9/vita3k-android-release-9.apk)
 
 ## 配置要求
 ### PC
@@ -49,18 +49,18 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ## 教程
 ### 主要
-- [使用Vita3K](http://croden1999.github.io/Vita3K-quick-guide/README_USE_VITA3K)  
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/README_ADDCONT)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/README_APP)
-- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/README_PATCH)
+- [使用Vita3K](http://croden1999.github.io/Vita3K-quick-guide/use-vita3k)  
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/addcont)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/app)
+- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/patch)
 - [主题安装](http://croden1999.github.io/Vita3K-quick-guide/README_THEME)
 
 ### 进阶
-- [驱动安装（Only For Adreno GPU On Android）](http://croden1999.github.io/Vita3K-quick-guide/README_DRIVER)
-- [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-quick-guide/README_REPATCH)
-- [存档导入/导出](http://croden1999.github.io/Vita3K-quick-guide/README_SAVEDATA)
-- [纹理替换](http://croden1999.github.io/Vita3K-quick-guide/README_TEXTURE_REPLACEMENT)
-- [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/README_TROPHY)
+- [驱动安装（Only For Adreno GPU On Android）](http://croden1999.github.io/Vita3K-quick-guide/driver)
+- [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-quick-guide/repatch)
+- [存档导入/导出](http://croden1999.github.io/Vita3K-quick-guide/savedata)
+- [纹理替换](http://croden1999.github.io/Vita3K-quick-guide/texture-replacement)
+- [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/trophy)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
@@ -76,7 +76,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [中文社区百度贴吧Vita3K吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 
 ## Donations
-为Vita3K使用[Ko-fi](https://ko-fi.com/vita3k)捐赠。
+可以使用[Ko-fi](https://ko-fi.com/vita3k)为Vita3K项目组捐赠。
 
 ## Special Thanks
 特别感谢开发团队和所有做出贡献的人员。
