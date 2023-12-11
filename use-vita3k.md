@@ -94,7 +94,7 @@ Core 核心：
 - 刷新列表
 
 CPU 处理器:
-- CPU后端：可切换Dynarmic/Unicorn（已弃用）（Android不存在Unicorn），默认为Dynarmic，
+- CPU后端：可切换Dynarmic/Unicorn（已弃用），默认为Dynarmic，但Android不存在Unicorn
 - [仅Dynarmic显示]启用优化：启用额外CPU的JIT优化。
 
 GPU 显卡：
