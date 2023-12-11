@@ -1,5 +1,4 @@
 # Vita3K快速指南
-
 ### 前言
 此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。
 
