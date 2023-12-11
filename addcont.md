@@ -4,7 +4,7 @@
 2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/addcont#zip)（如nonpdrm）
 3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/addcont#decrypt)（解密，例如readdcont的DLC(s)、mai游戏附带的DLC(s)文件夹等解密的追加内容dlc文件）
 
-你可以在Vita3K主页面的 【NPXS10026】 内容管理 应用程序，点击应用程序，找到对应游戏所安装的DLC信息。
+可以在Vita3K主页面的[NPXS10026]内容管理，找到对应游戏已安装的DLC信息。
 
 ## pkg
 1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装pkg`；
@@ -48,4 +48,4 @@
 
 ## 相关的安装教程
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
-- [补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
