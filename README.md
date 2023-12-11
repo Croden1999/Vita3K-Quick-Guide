@@ -51,7 +51,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/use-vita3k)  
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/addcont)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
-- [补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
 - [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/theme)
 
 ### 进阶
