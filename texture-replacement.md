@@ -28,4 +28,4 @@
 3. 使用原生文件管理器，将高清纹理包解压至`Android/data/org.vita3k.emulator/files/textures/import/[标题ID]`文件夹中；
 4. 运行游戏浏览效果。
 
-- 如果出现卡死问题请禁用导入纹理，并报告至[Vita3K](https://github.com/Vita3K/Vita3K/issues/new)。
+- 如果出现卡死问题请禁用导入纹理，并报告至[Vita3K](https://github.com/Vita3K/Vita3K-Android/issues/new)。
