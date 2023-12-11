@@ -48,18 +48,18 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ## 教程
 ### 主要
-- [使用Vita3K](http://croden1999.github.io/Vita3K-quick-guide/use-vita3k)  
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/addcont)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/app)
-- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/patch)
-- [主题安装](http://croden1999.github.io/Vita3K-quick-guide/theme)
+- [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/use-vita3k)  
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/addcont)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
+- [补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
+- [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/theme)
 
 ### 进阶
-- [驱动安装](http://croden1999.github.io/Vita3K-quick-guide/driver)
-- [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-quick-guide/repatch)
-- [存档导入/导出](http://croden1999.github.io/Vita3K-quick-guide/savedata)
-- [纹理替换](http://croden1999.github.io/Vita3K-quick-guide/texture-replacement)
-- [奖杯修改](http://croden1999.github.io/Vita3K-quick-guide/trophy)
+- [驱动安装](http://croden1999.github.io/Vita3K-Quick-Guide/driver)
+- [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-Quick-Guide/repatch)
+- [存档导入/导出](http://croden1999.github.io/Vita3K-Quick-Guide/savedata)
+- [纹理替换](http://croden1999.github.io/Vita3K-Quick-Guide/texture-replacement)
+- [奖杯修改](http://croden1999.github.io/Vita3K-Quick-Guide/trophy)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
