@@ -29,10 +29,10 @@
 
 ## 设置完成Vita3K相关教程
 此流程安装完就可以进行安装应用程序/游戏、补丁更新、追加内容DLC和主题。
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-quick-guide/addcont)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-quick-guide/app)
-- [补丁安装](http://croden1999.github.io/Vita3K-quick-guide/patch)
-- [主题安装](http://croden1999.github.io/Vita3K-quick-guide/theme)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/addcont)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
+- [补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
+- [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/theme)
 
 ## Vita3K界面介绍
 ### 用户管理
