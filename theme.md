@@ -1,7 +1,7 @@
 # 主题安装
 可以支持加密和解密的主题安装方式。分为两种安装方式：
-1. [pkg](http://croden1999.github.io/Vita3K-quick-guide/theme#pkg)
-2. [zip](http://croden1999.github.io/Vita3K-quick-guide/theme#zip)（加密/解密）
+1. pkg
+2. zip（加密/解密）
 
 ## pkg
 在Vita3K顶部菜单栏选择`文件`->`安装pkg`->`选择pkg文件`→`输入zrif密钥`或者`导入work.bin`文件，安装完成后在Vita3K Livearea主页中的系统应用程序[NPXS10015]设定里更换主题。
