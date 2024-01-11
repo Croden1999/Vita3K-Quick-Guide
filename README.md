@@ -16,7 +16,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 [Linux (zip)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) /
 [Linux (AppImage)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) /
 [macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) /
-[Android Release 9](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v9/vita3k-android-release-9.apk)
+[Android Release 10](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v10/vita3k-android-release-10.apk)
 
 ## 配置要求
 ### PC
