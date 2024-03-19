@@ -102,7 +102,7 @@ GPU 显卡：
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效
 - [仅Android版本且高通骁龙处理器支持显示]添加自定义驱动
 - [仅Android版本且高通骁龙处理器支持显示]移除自定义驱动
-- 渲染器精度：可切换标准/高，默认为高
+- 渲染器精度：可切换标准/高，PC默认为高，Android默认标准
 - [仅OpenGL时显示] 垂直同步
 - 禁用表面同步：禁用表面同步可以提升速度，某些游戏需要表面同步才能正确显示图形，默认启用
 - 异步管线编译：允许管线多个线程同时编译，并减少编译过程中的卡顿情况，代价则是有短暂图形错误的故障，默认启用
@@ -116,8 +116,8 @@ GPU 显卡：
 - [此选项仅在OpenGL时且显卡支持下显示，Android不存在] 使用Spir-V着色器（已弃用）
 - 清除着色器缓存和着色器日志
 - FPS修改：可以使30FPS的应用程序/游戏提升至60FPS，但并非所有应用程序/游戏都有效果，有的正常，有的两倍速，还有的开启没有效果，默认禁用
-- [仅Android显示，PC则默认开启]内存映射方案：可切换禁用/双缓冲区/页表/本机缓冲区的设置，切换后需要重启才能生效
-- [仅Android且Adreno GPU显示]启用Turbo超频模式：提供了一种方法来强制GPU运行在最大合理的频率（温控仍然适用）
+- [仅Android显示，PC则默认开启]内存映射方式：可切换禁用/双缓冲/页表/本机缓冲的设置，切换后需要重启才能生效默认双缓冲
+- [仅Android且Adreno GPU显示]启用睿频模式：提供了一种方法来强制GPU运行在最大合理的频率（温控仍然适用）
 
 System 系统：
 - 可切换O/X键为确认按键，默认X键
@@ -178,11 +178,11 @@ Debug（仅开发人员适用）：
 - 监视/取消监视导入调用
 - Tracy（追踪）分析器（不会在release版本中显示，仅在debug版本显示）
 
-### 虚拟手柄图层选项
+### Overlay 虚拟手柄图层选项
 - Show gamepad overlay ingame：在游戏中显示手柄虚拟按键
-- Modify Gamepad Layout：修改手柄布局
-- Hide Gamepad Overlay：隐藏手柄图层
-- Overlay scale：手柄图层比例
+- Modify Gamepad Overlay：修改手柄虚拟按键
+- Hide Gamepad Overlay：隐藏手柄虚拟按键
+- Overlay scale：虚拟按键缩放
 - Reset Gamepad：重置手柄布局
 - Show front/back touchscreen switch button：显示前/后触屏切换按键
 - L2/R2 triggers will be displayed only if PSTV mode is enabled：仅当启用PSTV模式时，才会显示L2/R2键
