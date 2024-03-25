@@ -100,8 +100,8 @@ CPU 处理器:
 GPU 显卡：
 - 后端渲染器：可切换OpenGL/Vulkan，Windows & Linux默认为OpenGL，macOS & Android默认为Vulkan，更改后需要重启Vita3K才能生效。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K（macOS则忽略此设置，因为OpenGL不存在）
 - [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效
-- [仅Android版本且高通骁龙处理器支持显示]添加自定义驱动
-- [仅Android版本且高通骁龙处理器支持显示]移除自定义驱动
+- [仅Android版本且高通骁龙soc时显示]添加自定义驱动
+- [仅Android版本且高通骁龙soc时显示]移除自定义驱动
 - 渲染器精度：可切换标准/高，PC默认为高，Android默认为标准
 - [仅OpenGL时显示] 垂直同步
 - 禁用表面同步：禁用表面同步可以提升速度，某些游戏需要表面同步才能正确显示图形，默认启用
