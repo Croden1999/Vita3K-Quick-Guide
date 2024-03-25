@@ -34,7 +34,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 最低要求：
 1. ARM64设备
 2. OpenGL ES 3.2（实验性）或Vulkan 1.0
-3. Android 7+（注意：如果您的设备支持OpenGL ES 3.2或Vulkan，则为Android 7.0或更高版本），但我的个人建议使用安卓11及以上安卓系统版本，以获取更好的游玩体验
+3. Android 7+（注意：如果您的设备支持OpenGL ES 3.2或Vulkan，则为Android 7.0或更高版本），但我的个人建议最低Android 11或更高版本，以获取更好的游玩体验
 
 - 如果您的配置低于最低要求，请更换新设备。
 
