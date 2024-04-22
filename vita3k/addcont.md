@@ -1,8 +1,8 @@
 # 追加内容安装
 分为三种类型：
-1. [pkg](http:///croden1999.github.io/Vita3K-Quick-Guide/addcont#pkg)（加密）
-2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/addcont#zip)（如nonpdrm）
-3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/addcont#decrypt)（解密，例如readdcont的DLC(s)、mai游戏附带的DLC(s)文件夹等解密的追加内容dlc文件）
+1. [pkg](http:///croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#pkg)（加密）
+2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#zip)（如nonpdrm）
+3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#decrypt)（解密，例如readdcont的DLC(s)、mai游戏附带的DLC(s)文件夹等解密的追加内容dlc文件）
 
 可以在Vita3K主页面的[NPXS10026]内容管理，找到对应游戏已安装的DLC信息。
 
@@ -33,7 +33,7 @@
 第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用。
 
 1. 打开Vita3K，在顶部菜单栏选择`文件`->`打开存放路径`；
-2. 将下载的dlc压缩包解压覆盖至`ux0/addcont/[标题ID]`文件夹内；
+2. 将下载的dlc压缩包解压覆盖至`ux0/addcont/[TITLE_ID]`文件夹内；
 3. 可在Vita3K内容管理检查DLC是否放置正确，或在游戏中浏览已安装的DLC内容。
 
 第二种，readdcont/其他的解密DLC(s)也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装，安装方式与zip一致。
@@ -41,11 +41,11 @@
 第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用。
 
 1. 打开谷歌原生文件管理器，解压readdcont/其他的解密DLC(s)补丁压缩包；
-2. 选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0\addcont\[标题ID]`中；
+2. 选择复制，打开侧边栏复制覆盖到Vita3K存放路径的`ux0/addcont/[TITLE_ID]`中；
 3. 可在Vita3K内容管理检查DLC是否放置正确，或在游戏中浏览已安装的DLC内容。
 
 第二种，readdcont/其他的解密DLC(s)也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装，安装方式与zip一致。
 
 ## 相关的安装教程
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
-- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch)

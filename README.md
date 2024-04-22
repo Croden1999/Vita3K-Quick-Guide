@@ -1,6 +1,6 @@
 # Vita3K快速指南
 ### 前言
-此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，此快速指南会帮助刚接触Vita3K的新人们了解使用，不需要借助PS Vita，直接使用Vita3K模拟器就可以操作，并安装和游玩游戏。
+此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，此快速指南会帮助刚接触Vita3K的新人们了解使用，使用PS Vita搭配Vita3K模拟器来提取并安装，游玩应用及游戏。
 
 ### 免责声明
 Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要使用[NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm)或[FAGDec](https://github.com/CelesteBlue-dev/PSVita-RE-tools/tree/master/FAGDec/build)在您的PS Vita提取游戏。当然，您可以在[VitaDB](https://vitadb.rinnegatamante.it)中获取自制程序。
@@ -46,19 +46,8 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 - Android: `/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita`
 
 ## 教程
-### 主要
-- [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/use-vita3k)  
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/addcont)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/app)
-- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/patch)
-- [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/theme)
-
-### 进阶
-- [驱动安装](http://croden1999.github.io/Vita3K-Quick-Guide/driver)
-- [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-Quick-Guide/repatch)
-- [存档导入/导出](http://croden1999.github.io/Vita3K-Quick-Guide/savedata)
-- [纹理替换](http://croden1999.github.io/Vita3K-Quick-Guide/texture-replacement)
-- [奖杯修改](http://croden1999.github.io/Vita3K-Quick-Guide/trophy)
+- [PSVita to Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k)
+- [单独使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)

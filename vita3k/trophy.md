@@ -1,5 +1,5 @@
 # 奖杯修改
-每个游戏奖杯（除同游戏不同区域）不同，在修改之前你需要知道游戏对应的奖杯ID（例如：PCSH00250死或生沙滩排球3对应奖杯ID是NPWR10022_00），可以在`ux0\app\[标题ID]\sce_sys\thophy`以及`ux0\user\00\trophy\data`中找到游戏对应的奖杯ID，在TROPUSR.DAT文件中使用十六进制编辑器浏览编辑，奖杯开头在0x04的第一个字符，修改奖杯基本是3或者F这两个字符。奖杯时间修改以0x70开始（这是白金奖杯的位置），每隔0x08为一个奖杯区间，可以修改任意一个时间点，但需要转换hex。
+每个游戏奖杯（除同游戏不同区域）不同，在修改之前你需要知道游戏对应的奖杯ID（例如：PCSH00250死或生沙滩排球3对应奖杯ID是NPWR10022_00），可以在`ux0\app\[TITLE_ID]\sce_sys\thophy`以及`ux0\user\[user_num]\trophy\data`中找到游戏对应的奖杯ID，在TROPUSR.DAT文件中使用十六进制编辑器浏览编辑，奖杯开头以0x04为起始，修改奖杯基本以F这个字符，来获取100%奖杯进度。奖杯时间修改以0x70为起始（这是白金奖杯的位置），每隔0x08为一个奖杯区间，可以修改任意一个时间点，但需要转换hex。
 
 ![1](https://user-images.githubusercontent.com/61804715/145160207-230fcf68-45cd-49c8-b6c4-2f3089d1b2d6.jpg)
 ![2](https://user-images.githubusercontent.com/61804715/145160375-37c8d3b7-92d1-437e-a578-90445a2ddb88.jpg)

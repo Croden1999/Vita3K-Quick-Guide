@@ -2,14 +2,14 @@
 ## 前言
 关于语言、Mod补丁您需要从各大网站、论坛社区获取由作者、汉化组团队等其他人员分享的内容，我在这里只按照区分是repatch补丁或者是readdcont追加内容DLC打包安装的简单步骤。
 
-需要准备原游戏的sce_sys\param.sfo文件，打包安装步骤需要这些文件才能在Vita3K中识别并安装。另外，重新打包的文件也可以分享给其他玩家用户在Vita3K中安装。
+需要准备原游戏的sce_sys/param.sfo文件，打包安装步骤需要这些文件才能在Vita3K中识别并安装。另外，重新打包的文件也可以分享给其他玩家用户在Vita3K中安装。
 
 ## Language/Mods Patch(repatch)
 ### 如果是以repatch补丁的形式，如图所示
 
 ![image](https://user-images.githubusercontent.com/61804715/232274681-1fc62599-9754-4189-afea-35d99aac9191.png)
 
-### 那么则需要补充原游戏的sce_sys\param.sfo文件，将param.sfo内的类别更改为gp（若原来是gp就无需更改），如图所示
+### 那么则需要补充原游戏的sce_sys/param.sfo文件，将param.sfo内的类别更改为gp（若原来是gp就无需更改），如图所示
 
 ![image](https://user-images.githubusercontent.com/61804715/232275180-05309ae9-0023-41a3-b99c-7f957159f6e9.png)
 
@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/61804715/232277589-ac783f26-9c2d-4d00-b9f3-9a372b89c3b7.png)
 
-### [如果不存在param.sfo]若检查不存在sce_sys\param.sfo情况下，首先需要提取原追加内存DLC的sce_sys\param.sfo，放到Mod补丁DLC中，并重新将所有Mod DLC打包压缩zip，如图所示
+### [如果不存在param.sfo]若检查不存在sce_sys\param.sfo情况下，首先需要提取原追加内存DLC的sce_sys/param.sfo，放到Mod补丁DLC中，并重新将所有Mod DLC打包压缩zip，如图所示
 
 ![image](https://user-images.githubusercontent.com/61804715/232277205-386cd730-a783-46c1-b6f9-36a617e8bb72.png)
 ![image](https://user-images.githubusercontent.com/61804715/232277543-6f638200-ff7a-41a8-8612-b75adea94604.png)
