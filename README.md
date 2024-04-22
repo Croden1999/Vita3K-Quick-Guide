@@ -16,7 +16,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 --- | --- | --- 
 Windows x64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) 
 Linux (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip)  | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip)
-Linux (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
+Linux (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
 macOS | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg)
 Android Release 11 | [下载](https://github.com/Vita3K/Vita3K-Android/releases/download/v11/vita3k-android-release-11.apk) | [下载](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v11/vita3k-android-release-11.apk)
 
