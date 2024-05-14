@@ -13,7 +13,7 @@
 
 ## zip
 分两种情况：
-- PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用maidumptool提取解密的DLC）
+- PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用maidumptool提取解密的DLC，请浏览[转储提取](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump)转储提取DLC为解密）
 - NPS
   
 ### PC

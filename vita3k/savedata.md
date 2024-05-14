@@ -17,8 +17,8 @@ PC
 2. 将存档文件覆盖此目录，运行游戏读取存档。
 
 Android
-1. 使用原生文件管理器，打开`Android/data/org.vita3k.emulator/files/vita/ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹；
-2. 将存档文件覆盖此目录，运行游戏读取存档。
+1. 使用原生文件管理器，将存档文件里的文件选择移动或复制；
+2. 点击左上的图标开启菜单，选择Vita3K，打开`ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹，将存档文件粘贴到此目录，运行游戏读取存档。
 
 - 注意：并非所有游戏都适用此方式来导入存档，部分游戏需要先生成存档才能使用此方式操作。
 
@@ -27,17 +27,17 @@ Android
 
 PC
 1. 使用[nishinji的split_sdslot](https://github.com/nishinji/split_sdslot)，将PSVita存档中的sdslot.dat与脚本文件处于同一个文件夹；
-2. 打开命令提示符，输入`python split_file.py sdslot`；
+2. 打开命令提示符，输入`python split_file.py`；
 3. 提取的存档槽文件会在output文件夹中；
 4. 打开Vita3K，右键应用图标选择`打开文件夹`->`保存数据`；
 5. 将提取的存档槽文件以及原存档数据文件（不再需要sce_sys文件夹）放入到此目录，运行游戏读取存档。
 
 Android
 1. 使用[nishinji的split_sdslot](https://github.com/nishinji/split_sdslot)，将PSVita存档中的sdslot.dat与脚本文件处于同一个文件夹；
-2. 打开命令提示符，输入`python split_file.py sdslot`；
+2. 打开命令提示符，输入`python split_file.py`；
 3. 提取的存档槽文件会在output文件夹中；
-4. 使用原生文件管理器，打开`Android/data/org.vita3k.emulator/files/vita/ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹；
-5. 将提取的存档槽文件以及原存档数据文件（不再需要sce_sys文件夹）放入到此目录，运行游戏读取存档。
+4. 使用原生文件管理器，将提取的存档槽文件以及原存档数据文件（不再需要sce_sys文件夹），选择复制；
+5. 点击左上的图标开启文件管理器菜单，选择Vita3K，打开`ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹，将存档文件粘贴到此目录，运行游戏读取存档。
 
 ### 手动修改导入（适合高级用户）
 无需保存任何数据都可以导入，导入方式会比较麻烦，同时这个方法适用于所有游戏导入，可以使用自己提取的存档或者他人分享的存档，且必须是解密的。需要使用十六进制编辑器（如UltraEdit、WinHex等）。
@@ -51,5 +51,5 @@ PC
 Android
 1. 打开解密的sdslot.dat存档文件找到区间，如0x400-0x740区间是槽位0位置；
 2. 选中此区间的值，粘贴到对应SlotParam_X.bin（X为槽位数，按照槽位生成的存档位置命名和槽位数来命名）值后保存，并按照对应槽位重命名（根据vita3k.log日志文件来查看读取存档槽，如0x400-0x740是槽位0 `SlotParam_0.bin`）；
-4. 使用原生文件管理器，打开`Android/data/org.vita3k.emulator/files/vita/ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹；
-4. 将存档文件放入到此目录，运行游戏读取存档。
+3. 使用原生文件管理器，将存档文件里的文件复制；
+4. 点击左上的图标开启菜单，选择Vita3K，打开`ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹，将存档文件粘贴到此目录，运行游戏读取存档。
