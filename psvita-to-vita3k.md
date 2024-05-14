@@ -5,7 +5,7 @@
 ### 主要
 - [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/use-vita3k)  
 - [转储提取](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump)  
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
 - [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)
 - [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/theme)
