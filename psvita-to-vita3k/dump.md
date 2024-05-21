@@ -45,7 +45,7 @@
 
 ## 追加内容DLC
 ### 使用maidumptool提取
-1. 确保在PSVita已安装了VitaShell、maidumptool以及nonpdrm插件；
+1. 确保在PSVita已安装了VitaShell以及maidumptool；
 2. 在PS Store下载您已购买拥有的追加内容DLC；
 3. 运行maidumptool；
 4. 提取所有追加内容DLC；
