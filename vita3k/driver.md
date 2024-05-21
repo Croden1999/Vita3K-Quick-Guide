@@ -3,7 +3,7 @@
 - 安装
 - 解压
 
-[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，对于Qualcomm Adreno 6XX GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动，但我的个人建议是安装/更新至更高的Android版本（至少为Andoid 11）,以获取更好的游玩体验。
+[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，对于Qualcomm Adreno 6XX GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动，但我的个人建议是安装/更新至更高的Android版本（至少为Andoid 11），以获取更好的游玩体验。
 
 ## 安装
 这是通常的安装步骤，基于K11MCH1的[Vita3K驱动安装](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/vita3k.md)步骤。
