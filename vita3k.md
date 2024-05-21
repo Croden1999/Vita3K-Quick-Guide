@@ -1,5 +1,5 @@
 # Vita3K快速指南
-不需要PSVita也可以实现安装等设置的操作，如果您拥有PSVita，可以浏览[PSVita to Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k) 这个指南。 
+不需要PSVita也可以实现安装等设置的操作，如果您拥有PSVita，可以浏览[PSVita to Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k)这个指南。 
 
 ## 主要
 - [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/use-vita3k)  
