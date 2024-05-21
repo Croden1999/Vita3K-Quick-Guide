@@ -1,5 +1,5 @@
 # Vita3K快速指南
-此教程依赖PSVita，如果您没有PSVita，请浏览[单独使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k) 这个指南。 
+此教程依赖PSVita，如果您没有PSVita，请浏览[单独使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k)这个指南。 
 
 ## 主要
 - [使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/use-vita3k)  
