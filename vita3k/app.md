@@ -2,7 +2,7 @@
 应用程序以及游戏安装方式都是通用的，目前支持4种格式的安装：
 1. [pkg](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)：加密，需要work.bin/rif文件或者输入zrif密钥。
 2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#zip)：如PSN游戏/NoNpDrm，这是目前比较推荐的方式。
-3. [vpk](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，不支持Vitamin。
+3. [vpk](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，自制程序vpk也支持（并非所有）；不支持Vitamin，不要企图安装或运行。
 4. 文件夹安装（仅PC）：将游戏文件夹拖动到Vita3K图形用户界面窗口进行安装，对于安装格式要求较高（仅NoNpDrm），且没有安装对话框显示，一般情况下不推荐该方式。
 
 ## pkg
@@ -31,7 +31,7 @@ PC以及Android步骤通用：
 
 ## vpk
 通常Homebrew自制程序vpk都可以安装，但不保证所有都能运行，因为某些自制程序（如调用了PSV系统的库的自制程序或者使用Lua语言的程序）可能导致无法运行或者闪退。
-- Vita3K不支持Vitamin提取的游戏安装，请更换其他非Vitamin的资源。
+- 不要企图安装Vitamin，Vita3K不支持Vitamin提取的游戏安装以及运行，请更换其他非Vitamin的资源。
 
 PC/Android分为两种方式安装：
 ### PC
