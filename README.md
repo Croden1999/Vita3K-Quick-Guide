@@ -17,21 +17,21 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 [Linux (zip)](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | 
 [macOS](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) |
-[Android Release 11](https://github.com/Vita3K/Vita3K-Android/releases/download/v11/vita3k-android-release-11.apk)
+[Android Release 11](https://github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### gh-proxy代理
 [Windows x64](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)  | 
 [Linux (zip)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)  | 
 [macOS](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | 
-[Android Release 11](https://gh-proxy.com/github.com/Vita3K/Vita3K-Android/releases/download/v11/vita3k-android-release-11.apk)
+[Android Release 11](https://gh-proxy.com/github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### kkgithub代理
 [Windows x64](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)  | 
 [Linux (zip)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)  | 
 [macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | 
-[Android Release 11](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v11/vita3k-android-release-11.apk)
+[Android Release 11](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ## 配置要求
 ### PC
