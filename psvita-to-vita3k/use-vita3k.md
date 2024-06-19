@@ -1,7 +1,7 @@
 # 使用Vita3K
 ## 打开Vita3K，初次为Vita3K进行初始设置
 1. 选择语言，选择完成后点击右下角继续。
-2. [Android不存在]选择存放路径（即模拟PSVita的文件路径），修改或不修改路径都可以点击右下角继续。
+2. 选择存放路径（即模拟PSVita的文件路径），更改或保持默认路径都可以点击右下角继续。（Android版本注意的是更改路径需要先授权存储权限才能使用）
 3. 点击下载[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2022_0209/sd_59dcf059d3328fb67be7e51f8aa33418/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件，选择PUP文件安装系统固件，两个固件都已安装且显示V（代表√，已安装）就可以点击右下角继续；不安装固件也不影响使用，部分应用程序需要固件模块才能正常运行，但强烈建议还是安装固件。
 4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置完可以点击右下角继续。
 5. 初始设置已完成，点击OK就开始使用Vita3K吧。
@@ -77,7 +77,7 @@
 - 兼容性（兼容性状态、兼容性状态日期、复制Vita3K摘要、打开状态报告、更新数据库）
 - 复制应用程序信息（名称和标题ID、名称、标题ID、应用程序摘要）
 - 自定义配置（单独应用程序的配置设置，不影响整体配置设置；GPU的后端渲染器、内存映射方案以及PSTV模式有影响）
-- 创建快捷方式（仅Android显示，但目前并不起作用）
+- [仅Android显示，但目前并不起作用]创建快捷方式
 - [Android不存在]打开文件夹（应用程序、追加内容、授权、保存数据、着色器缓存、着色器日志、导入纹理、导出纹理）
 - 删除（应用程序、追加内容、授权、保存数据、着色器缓存、着色器日志、导入纹理、导出纹理）
 - [仅在禁用Live Area应用屏幕显示] Live Area（Live Area、搜索、说明书、升级）
@@ -100,9 +100,9 @@ CPU：
 
 GPU：
 - 后端渲染器：可切换OpenGL/Vulkan，Windows & Linux默认为OpenGL，macOS & Android默认为Vulkan，更改后需要重启Vita3K才能生效。另外需要检查显卡是否支持Vulkan，若显卡不支持Vulkan打开Vita3K则可能会闪退/报错，在config.yml将Vulkan更改为OpenGL保存就能正常运行Vita3K（macOS则忽略此设置，因为OpenGL不存在）
-- [此选项仅在Vulkan时显示] GPU显卡，更改为Vulkan后可以自动或者手动选择GPU显卡渲染，更改其他显卡后需要重启Vita3K才能生效
-- [仅Android版本且高通骁龙soc时显示]添加自定义驱动
-- [仅Android版本且高通骁龙soc时显示]移除自定义驱动
+- [此选项仅在Vulkan时显示] GPU显卡/驱动程序，更改为Vulkan后可以自动或者手动选择GPU显卡/驱动程序，更改后需要重启Vita3K才能生效
+- [仅Android版本且Qualcomm Snapdragon soc时显示]添加自定义驱动
+- [仅Android版本且Qualcomm Snapdragon soc时显示]移除自定义驱动
 - 渲染器精度：可切换标准/高，PC默认为高，Android默认为标准
 - [仅OpenGL时显示] 垂直同步
 - 禁用表面同步：禁用表面同步可以提升速度，某些游戏需要表面同步才能正确显示图形，默认启用
@@ -117,8 +117,13 @@ GPU：
 - [此选项仅在OpenGL时且显卡支持下显示，Android不存在] 使用Spir-V着色器（已弃用）
 - 清除着色器缓存和着色器日志
 - FPS修改：可以使30FPS的应用程序/游戏提升至60FPS，但并非所有应用程序/游戏都有效果，有的正常，有的两倍速，还有的开启没有效果，默认禁用
-- [仅Android显示，PC则默认开启]内存映射方式：可切换禁用/双缓冲/页表/本机缓冲的设置，切换后需要重启才能生效默认双缓冲
-- [仅Android且Adreno GPU显示]启用睿频模式：提供了一种方法来强制GPU运行在最大合理的频率（温控仍然适用）
+- [仅Android版本显示]内存映射方式：可切换禁用/双缓冲/页表/本机缓冲的设置，切换后需要重启才能生效默认双缓冲
+- [仅Android版本且Qualcomm Adreno GPU显示]启用睿频模式：提供了一种方法来强制GPU运行在最大合理的频率（温控仍然适用）
+
+音频：
+- 音频后端：可切换SDL/Cubeb，默认SDL
+- 全局百分比音量：可设置在Vita3K中的百分比音量，它会影响所有应用程序/游戏，默认100%
+- 启用NGS支持，默认启用，取消勾选则禁用应用程序/游戏的音频
 
 系统：
 - 可切换O/X键为确认按键，默认X键
@@ -127,10 +132,7 @@ GPU：
 - 模拟Demo（演示）模式
 
 模拟器：
-- [Android不存在]运行应用程序时全屏
-- 音频后端：可切换SDL/Cubeb，默认SDL
-- 全局百分比音量：可设置在Vita3K中的百分比音量，它会影响所有应用程序/游戏，默认100%
-- 启用ngs支持
+- [Android版本不存在该项，本身就是全屏]运行应用程序时全屏
 - 日志级别：可切换追踪/Debug/信息/警告/错误/关键/关闭，PC默认追踪，Android默认关闭
 - 档案日志
 - Discord Rich Presence（可以在Discord显示你正在游玩Vita3K的状态，Android版本不存在此选项）
@@ -143,7 +145,7 @@ GPU：
 - [开启性能图层时显示]细节：可切换最低/低/中/最高的细节显示
 - [开启性能图层时显示]位置：可切换左上/中上/右上/左下/中下/右下的位置显示
 - [Windows不显示]检查在区分大小写的文件系统上启用不区分大小写的路径查找。 重启时重置（允许模拟器尝试在非windows平台上搜索文件，无论大小写）
-- [Android不存在]模拟器系统存储文件夹路径（即模拟PSVita分区的路径）
+- 模拟器系统存储文件夹路径（即模拟PSVita分区的路径）（Android版本注意的是更改路径需要先授权存储权限才能使用） 
 - 自定义配置设置（清除所有自定义配置设置）
 
 图形用户界面：
@@ -177,13 +179,14 @@ Debug（仅开发人员适用）：
 - 监视/取消监视代码
 - 监视/取消监视内存
 - 监视/取消监视导入调用
-- Tracy（追踪）分析器（不会在release版本中显示，仅在debug版本显示）
+- [仅debug版本显示]Tracy（追踪）分析器
 
 ### [仅Android显示] Overlay 虚拟按键
 - Show gamepad overlay ingame：在游戏中显示手柄虚拟按键
 - Modify Gamepad Overlay：修改手柄虚拟按键
 - Hide Gamepad Overlay：隐藏手柄虚拟按键
 - Overlay scale：虚拟按键缩放
+- Overlay opacity：虚拟按键不透明度
 - Reset Gamepad：重置手柄布局
 - Show front/back touchscreen switch button：显示前/后触屏切换按键
 - L2/R2 triggers will be displayed only if PSTV mode is enabled：仅当启用PSTV模式时，才会显示L2/R2键
