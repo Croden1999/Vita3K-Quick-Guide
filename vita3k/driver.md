@@ -3,7 +3,7 @@
 - 安装
 - 解压
 
-[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，对于Qualcomm Adreno 6XX GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动，但我的个人建议是安装/更新至更高的Android版本（至少为Andoid 11），以获取更好的游玩体验。
+[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，对于Qualcomm Adreno 6XX GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动，但我的个人建议是安装/更新至更高的Android版本（至少为Android 11），以获取更好的游玩体验。
 
 ## 安装
 这是通常的安装步骤，基于K11MCH1的[Vita3K驱动安装](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/vita3k.md)步骤。
@@ -15,6 +15,8 @@
 
 ## 解压（进阶）
 在此之前您需要将您的设备解锁Bootloader锁，并安装[apatch](https://github.com/bmax121/APatch/releases)/[KernelSU](https://github.com/tiann/KernelSU/releases)/[Magisk](https://github.com/topjohnwu/Magisk/releases)进行root，另外安装[MT管理器](https://mt2.cn/download)，才能进行下列步骤。
+
+强烈提醒：未了解相关知识不建议使用该步骤，它可能会永久损坏你的手机数据。
 
 1. 下载对应您设备的GPU型号的驱动，打开MT管理器，并授权root权限；
 2. 转到设备根目录（即/），找到/data/data/org.vita3k.emulator/files/driver路径；
