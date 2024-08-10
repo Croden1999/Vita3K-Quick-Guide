@@ -14,7 +14,7 @@
 4. 在`设置`对话框的`GPU`选项卡中，在GPU的`Default`更换为已安装的新驱动。
 
 ## 解压（进阶）
-在此之前您需要将您的设备解锁Bootloader锁，并使用[apatch](https://github.com/bmax121/APatch/releases)/[KernelSU](https://github.com/tiann/KernelSU/releases)/[Magisk](https://github.com/topjohnwu/Magisk/releases)为您的设备获取Root权限，另外安装[MT管理器](https://mt2.cn/download)，才能进行下列步骤。
+在此之前您需要将您的设备解锁Bootloader，并使用[apatch](https://github.com/bmax121/APatch/releases)/[KernelSU](https://github.com/tiann/KernelSU/releases)/[Magisk](https://github.com/topjohnwu/Magisk/releases)为您的设备获取Root权限，另外安装[MT管理器](https://mt2.cn/download)，才能进行下列步骤。
 
 - 强烈提醒：未了解相关知识不建议使用该步骤，它可能会永久破坏您的设备数据。
 
