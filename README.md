@@ -81,5 +81,5 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 
 ## Special Thanks
 特别感谢开发团队和所有做出贡献的人员。
-- [Developers of Vita3K team](https://github.com/Vita3K)，开发人员包括petmac、frangarcj、VelocityRa、1whatleytay、EXtremeExploit、HolyMcDiver、HorrorTroll、IllusionMan1212、KorewaWatchful、scribam、sunho、wfscans、Macdu、bookmist、pent0和Zangetsu38。
-- [And contributors to the Vita3K emulator project](https://github.com/Vita3K/Vita3K/graphs/contributors)
+- [Developers of Vita3K team / Vita3K小组开发人员](https://github.com/Vita3K)，开发人员包括petmac、frangarcj、VelocityRa、1whatleytay、EXtremeExploit、HolyMcDiver、HorrorTroll、IllusionMan1212、KorewaWatchful、scribam、sunho、wfscans、Macdu、bookmist、pent0和Zangetsu38。
+- [And all contributors to the Vita3K emulator project / 以及所有Vita3K模拟器项目贡献者们](https://github.com/Vita3K/Vita3K/graphs/contributors)
