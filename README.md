@@ -14,22 +14,22 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 ## 下载Vita3K
 ### Vita3K官方
 [Windows x64](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | 
-[Linux (zip)](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | 
+[Linux (zip)](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [macOS](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) |
 [Android](https://github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### gh-proxy代理
 [Windows x64](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)  | 
-[Linux (zip)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)  | 
+[Linux (zip)](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [macOS](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | 
 [Android](https://gh-proxy.com/github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### kkgithub代理
 [Windows x64](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)  | 
-[Linux (zip)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [Linux (AppImage)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)  | 
+[Linux (zip)](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | 
 [macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | 
 [Android](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
@@ -39,7 +39,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
 CPU | 支持AVX指令集 | 支持AVX指令集 
-GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 
+GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
 显卡着色器互锁 | × | ✓ 
 运行内存 | 4GB | 8GB或者更高 
 
@@ -49,7 +49,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本
 最低要求：
 1. ARM64设备
 2. OpenGL ES 3.2（实验性）或Vulkan 1.0
-3. Android 7+（注意：如果您的设备支持OpenGL ES 3.2或Vulkan，则为Android 7.0或更高版本），但建议最低Android 11或更高版本，以获取更好的游玩体验
+3. Android 8及以上（注意：如果您的设备支持OpenGL ES 3.2或Vulkan，则为Android 8或更高版本），但建议最低Android 11或更高版本，以获取更好的游玩体验
 
 - 如果您的配置低于最低要求，请更换新设备。
 
