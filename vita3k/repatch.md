@@ -6,7 +6,7 @@
 
 repatch/readdcont安装的两种方式：
 - 打包安装
-- 解压路径（通常使用频率多）
+- 解压（通常使用频率多）
 
 ## Language/Mods Patch(repatch)
 ### 打包安装
@@ -24,7 +24,7 @@ repatch/readdcont安装的两种方式：
 ![image](https://user-images.githubusercontent.com/61804715/232276277-3d38169d-2215-427f-90f1-56f69f0b8b0b.png)
 ![image](https://user-images.githubusercontent.com/61804715/232276346-ff1ab7e8-27c1-4cd7-80cc-55f350bd3367.png)
 
-### 解压路径
+### 解压
 1. 打开Vita3K，选择游戏右键打开菜单，选择打开应用程序文件夹；
 2. 将你获取的repatch补丁解压至当前游戏的文件夹内，并检查文件名称一致覆盖文件；
 3. 运行游戏检查，直到生效即可。
@@ -44,7 +44,7 @@ repatch/readdcont安装的两种方式：
 
 ![image](https://user-images.githubusercontent.com/61804715/232277620-f5524452-368d-4d4e-8ef1-b367d9fc453b.png)
 
-### 解压路径
+### 解压
 1. 打开Vita3K，选择游戏右键打开菜单，选择打开DLC文件夹；
 2. 将你获取的readdcont补丁解压至当前游戏的DLC文件夹内，如果有重复的DLC可覆盖；
 3. 运行游戏检查，直到生效即可。
