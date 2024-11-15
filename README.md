@@ -33,6 +33,9 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要�
 [macOS](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | 
 [Android](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
+### Vita3K历史版本
+[Vita3K构建存储库](https://github.com/Vita3K/Vita3K-builds/releases)
+
 ## 配置要求
 ### PC
 
@@ -66,7 +69,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
-- [Vita3K项目](https://github.com/Vita3K) & [Vita3K repo](https://github.com/Vita3K/Vita3K) & [Vita3K构建存储库](https://github.com/Vita3K/Vita3K-builds/releases) & [Vita3K-Android repo](https://github.com/Vita3K/Vita3K-Android)
+- [Vita3K项目](https://github.com/Vita3K) & [Vita3K repo](https://github.com/Vita3K/Vita3K) & [Vita3K-Android repo](https://github.com/Vita3K/Vita3K-Android)
 - [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性数据库](https://github.com/Vita3K/compatibility/issues)
 - [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性数据库](https://github.com/Vita3K/homebrew-compatibility/issues)
 
