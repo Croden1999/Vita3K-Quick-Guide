@@ -23,8 +23,14 @@ repatch/readdcont安装的两种方式：
 ![image](https://user-images.githubusercontent.com/61804715/232276346-ff1ab7e8-27c1-4cd7-80cc-55f350bd3367.png)
 
 ### 解压
+- PC
 1. 打开Vita3K，选择游戏右键打开菜单，选择打开应用程序文件夹；
-2. 将你获取的repatch补丁解压至当前游戏的文件夹内，并检查文件名称一致覆盖文件；
+2. 将repatch补丁解压至当前游戏的文件夹内，并检查文件名称一致覆盖文件；
+3. 运行游戏检查，直至生效即可。
+
+- Android
+1. 打开谷歌原生文件管理器，将repatch补丁解压，进入repatch文件夹内选中标题ID文件夹复制，
+2. 打开侧边栏，选择Vita3K，将已复制的文件夹放置在存放路径的`ux0\app`中，并检查文件名称一致覆盖文件；
 3. 运行游戏检查，直至生效即可。
 
 ## Mods DLC Patch(readdcont)
@@ -43,6 +49,12 @@ repatch/readdcont安装的两种方式：
 ![image](https://user-images.githubusercontent.com/61804715/232277620-f5524452-368d-4d4e-8ef1-b367d9fc453b.png)
 
 ### 解压
+- PC
 1. 打开Vita3K，选择游戏右键打开菜单，选择打开DLC文件夹；
-2. 将你获取的readdcont补丁解压至当前游戏的DLC文件夹内，如果有重复的DLC可覆盖；
+2. 将readdcont补丁解压至当前游戏的DLC文件夹内，如果有重复的DLC可覆盖；
+3. 运行游戏检查，直至生效即可。
+
+- Android
+1. 打开谷歌原生文件管理器，将readdcont补丁解压，进入readdcont文件夹内选中标题ID文件夹复制，
+2. 打开侧边栏，选择Vita3K，将已复制的文件夹放置在存放路径的`ux0\addcont`中，如果有重复的DLC可覆盖；
 3. 运行游戏检查，直至生效即可。
