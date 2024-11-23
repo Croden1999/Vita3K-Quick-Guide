@@ -33,7 +33,8 @@ PC以及Android步骤通用：
 通常Homebrew自制程序vpk都可以安装，但不保证所有都能运行，因为某些自制程序（如调用了PSV系统的库的自制程序或者使用Lua语言的程序）可能导致无法运行或者闪退。
 - 不要企图安装Vitamin，Vita3K不支持Vitamin提取的游戏安装以及运行，请更换其他非Vitamin的资源。
 
-PC/Android分为两种方式安装：
+PC/Android分为安装/解压两种方式安装。
+
 ### PC
 安装：
 1. 打开Vita3K，在顶部菜单栏点击`文件`->`安装zip、vpk`；
