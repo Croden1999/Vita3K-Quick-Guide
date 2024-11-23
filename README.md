@@ -3,7 +3,7 @@
 此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，此快速指南会帮助刚接触Vita3K的新人们了解使用，使用PS Vita搭配Vita3K模拟器来提取并安装，游玩应用及游戏。
 
 ### 免责声明
-Vita3K不容忍盗版，此快速指南不提供任何游戏资源，您需要使用[NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm)或[FAGDec](https://github.com/CelesteBlue-dev/PSVita-RE-tools/tree/master/FAGDec/build)在您的PS Vita提取应用程序/游戏/更新补丁/追加内容DLC。当然，您可以在[VitaDB](https://vitadb.rinnegatamante.it)中获取自制程序。
+Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PSVita相关软件的内容，您需要使用[NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm)或[FAGDec](https://github.com/CelesteBlue-dev/PSVita-RE-tools/tree/master/FAGDec/build)在您的PS Vita提取应用程序/游戏/更新补丁/追加内容DLC。当然，您可以在[VitaDB](https://vitadb.rinnegatamante.it)中获取自制程序。
 
 ## 支持的操作系统
 - Windows x64（需要安装[Microsoft Visual C++ 2015-2022 Redistributable x64运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)）
