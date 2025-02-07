@@ -1,9 +1,9 @@
 # 驱动安装
-[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，低于Qualcomm Adreno 6xx的GPU没有可用驱动，仅适用Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
+安装Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
 
-建议是安装/更新至更高的Android版本（至少为Android 11），配合Turnip驱动，以获取更好的游玩体验。
+建议是安装/更新至更高的Android版本（至少为Android 11），搭配Turnip驱动以获取更好的游玩体验。
 
 ### 注意
 - 低于Qualcomm Adreno 6xx GPU无可用的GPU驱动。
