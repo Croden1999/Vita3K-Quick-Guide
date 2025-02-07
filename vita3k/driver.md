@@ -1,11 +1,15 @@
 # 驱动安装
-[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，低于Qualcomm Adreno 6xx的GPU没有可用驱动，仅适用Qualcomm Adreno 6xx/7xx/8xx GPU的安装步骤，当前安装驱动有两种方式：
+[Adreno驱动下载](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，低于Qualcomm Adreno 6xx的GPU没有可用驱动，仅适用Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
 
 建议是安装/更新至更高的Android版本（至少为Android 11），配合Turnip驱动，以获取更好的游玩体验。
 
-注意：对于Qualcomm Adreno 6xx GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动（该驱动存在易卡死以及闪退问题，无法长时间游玩），此外该GPU不支持Mesa Turnip GPU驱动25.x.x后的版本，最高仅能使用24.x.x包括之前版本的GPU驱动。
+### 注意
+- 低于Qualcomm Adreno 6xx GPU无可用的GPU驱动。
+- 对于Qualcomm Adreno 6xx GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动（该驱动存在易卡死以及闪退问题，无法长时间游玩），此外该GPU不支持Mesa Turnip GPU驱动25.x.x后的版本，最高仅能使用24.x.x包括之前版本的GPU驱动。
+- 对于Qualcomm Adreno 8xx GPU暂时无可用的GPU驱动，需耐心等待后续适配。
+- 该内容仅适用于Qualcomm Adreno GPU，不支持其他GPU的安装。
 
 ## 安装
 这是通常的安装步骤，基于K11MCH1的[Vita3K驱动安装](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/vita3k.md)步骤。
@@ -26,3 +30,6 @@
 4. 将所有文件属性更改为600权限、u0_aXXX（Vita3K）所有者和用户组（例如我设备中显示Vita3K的应用ID是10295，即u0_a295，其他设备的应用ID均有不同），若不更改则导致无法进入Vita3K；![](https://github.com/Croden1999/Vita3K-quick-guide/assets/61804715/9b339ef5-1946-40ee-a842-a5a719537d68)![](https://github.com/Croden1999/Vita3K-quick-guide/assets/61804715/b25e84f1-c239-4810-aeee-d3fc909d3388)
 5. 设置完成后运行Vita3K；
 6. 在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡，在GPU中将`Default`更换为新驱动。![](https://github.com/Croden1999/Vita3K-quick-guide/assets/61804715/b98ff44b-9554-4282-be41-8b0f9ba6432a)
+
+## 特殊（PC）
+仅针对PC版本，如果出现无法游玩以及闪退的情况，建议在显卡官方网站获取，下载并安装最新版本的显卡驱动，再尝试在Vita3K运行游玩。如果更新显卡驱动至最新版本，但仍低于OpenGL 4.4或Vulkan 1.0则依旧无法游玩，对于该问题请更换显卡或电脑。
