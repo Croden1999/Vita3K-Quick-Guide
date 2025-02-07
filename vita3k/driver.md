@@ -1,13 +1,13 @@
 # 驱动安装
-安装Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
+安装Mesa Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
 
-建议是安装/更新至更高的Android版本（至少为Android 11），搭配Turnip驱动以获取更好的游玩体验。
+Android建议是安装/更新至更高的版本（至少为Android 11），搭配Mesa Turnip GPU驱动以获取更好的游玩体验。
 
 ### 注意
 - 低于Qualcomm Adreno 6xx GPU无可用的GPU驱动。
-- 对于Qualcomm Adreno 6xx GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动（该驱动存在易卡死以及闪退问题，无法长时间游玩），此外该GPU不支持Mesa Turnip GPU驱动25.x.x后的版本，最高仅能使用24.x.x包括之前版本的GPU驱动。
+- 对于Qualcomm Adreno 6xx GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动（该驱动存在易卡死以及闪退问题，无法长时间游玩，建议更新系统版本）。此外该GPU不支持Mesa Turnip GPU驱动25.x.x后的版本，使用后会导致崩溃闪退，最高仅能使用24.x.x包括之前版本的GPU驱动。
 - 对于Qualcomm Adreno 8xx GPU暂时无可用的GPU驱动，需耐心等待后续适配。
 - 该内容仅适用于Qualcomm Adreno GPU，不支持其他GPU的安装。
 
