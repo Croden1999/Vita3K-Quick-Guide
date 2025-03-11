@@ -81,7 +81,7 @@ PC
 
 Android
 1. 需要在PSVita的游戏中新建存档，使用VitaShell准备将Vita3K的存档导入至PSVita；
-2. 使用原生文件管理器，点击左上的图标开启菜单，选择Vita3K，打开`ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹，将您要提取的存档文件（除了SlotParam_X.bin，其他文件可以导入）先提取至Download文件夹下，再使用FTP或USB连接传输到PSVITA的`ux0:data`文件夹内（没有文件夹就建一个）；
+2. 使用原生文件管理器，点击左上的图标开启菜单，选择Vita3K，打开`ux0/user/[user_num]/savedata/[TITLE_ID]`文件夹，将您要提取的存档文件（除了SlotParam_X.bin，其他文件可以导入）先提取至设备目录的Download文件夹下，再使用FTP或USB连接传输到PSVita的`ux0:data`文件夹内（没有文件夹就建一个）；
 3. 在PSVita打开VitaShell，将对应的存档文件按方形键选中，按下△键弹出右侧菜单，选择复制；
 4. 打开到`ux0:user/00/savedata`路径，选标到指定的`[Titie_ID]`文件夹，按下△弹出右侧菜单，选择`以解密方式打开`；
 5. 将存档文件粘贴到该位置即可，删除所有SlotParam文件，关闭VitaShell，运行游戏读取存档。
