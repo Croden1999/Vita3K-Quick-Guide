@@ -11,6 +11,6 @@
 ## 进阶
 - [驱动安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/driver)
 - [语言/Mod补丁包安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/repatch)
-- [存档导入/导出](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/savedata)
+- [存档导入](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/savedata)
 - [纹理替换](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/texture-replacement)
 - [奖杯修改](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/trophy)
