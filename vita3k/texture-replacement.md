@@ -17,8 +17,6 @@
 3. 在顶部菜单栏选择`文件`->`打开纹理路径`，将高清纹理包解压至`import/[标题ID]`文件夹中；
 4. 运行游戏浏览效果。
 
-- 如果出现卡死问题请禁用导出纹理，并报告至[Vita3K](https://github.com/Vita3K/Vita3K/issues/new)。
-
 ### Android
 导出：
 1. 打开Vita3K，在顶部菜单栏选择`配置`->`设置`；
@@ -26,10 +24,10 @@
 3. 运行游戏，过程中会将导出的纹理至纹理路径中；
 4. 使用原生文件管理器，可在`Android/data/org.vita3k.emulator/files/textures/export/[标题ID]`文件夹中找到提取的纹理文件。
 
+- 如果在开启导出纹理运行游戏时出现卡死问题，请建议使用Vita3K PC版本导出纹理。
+
 导入：
 1. 打开Vita3K，在顶部菜单栏选择`配置`->`设置`；
 2. 选择`GPU`、启用`导入纹理`；
 3. 使用原生文件管理器，将高清纹理包解压至`Android/data/org.vita3k.emulator/files/textures/import/[标题ID]`文件夹中；
 4. 运行游戏浏览效果。
-
-- 如果出现卡死问题请禁用导入纹理，并报告至[Vita3K-Android](https://github.com/Vita3K/Vita3K-Android/issues/new)。
