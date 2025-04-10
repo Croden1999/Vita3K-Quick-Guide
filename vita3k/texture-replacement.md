@@ -29,5 +29,5 @@
 导入：
 1. 打开Vita3K，在顶部菜单栏选择`配置`->`设置`；
 2. 选择`GPU`、启用`导入纹理`；
-3. 使用原生文件管理器，将高清纹理包解压至`Android/data/org.vita3k.emulator/files/textures/import/[标题ID]`文件夹中；
+3. 使用原生文件管理器，将高清纹理包解压至`Android/data/org.vita3k.emulator/files/textures/import/[标题ID]`文件夹中。如果第一次导入纹理时没有该`textures/import`文件夹，新建文件夹后再解压高清纹理到该路径即可；
 4. 运行游戏浏览效果。
