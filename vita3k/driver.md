@@ -44,7 +44,8 @@ Android建议是安装/更新至更高的版本（至少为Android 11），搭�
 1. 使用原生文件管理器或[MT管理器](https://mt2.cn/download);
 2. 在/Android/data/org.vita3k.emulator/files找到config.yml使用文本文档将其打开；
 3. 将`custom-driver-name: [driver_name]`更改为`custom-driver-name: ""`，将`gpu-idx: 1`更改为`gpu-idx: 0`，编辑完后保存，令其使用默认的GPU驱动；
-4. 打开Vita3K即可。
+4. 打开Vita3K，在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡；
+5. 切换不支持的驱动，点击`Remove custom driver（移除自定义驱动）`即可。
 
 ## 特殊（PC）
 仅针对PC版本，如果出现无法游玩以及闪退的情况，建议在显卡官方网站获取，下载并安装最新版本的显卡驱动，再尝试在Vita3K运行游玩。如果更新显卡驱动至最新版本，但仍低于OpenGL 4.4或Vulkan 1.0则依旧无法游玩，对于该问题请更换显卡或设备。
