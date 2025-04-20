@@ -1,5 +1,5 @@
-# 驱动安装
-安装Mesa Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
+# 驱动安装及卸载
+针对Android且Qualcomm Adreno GPU的设备，安装Mesa Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
 
@@ -31,5 +31,20 @@ Android建议是安装/更新至更高的版本（至少为Android 11），搭�
 5. 设置完成后运行Vita3K；
 6. 在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡，在GPU中将`Default`更换为新驱动。![](https://github.com/Croden1999/Vita3K-quick-guide/assets/61804715/b98ff44b-9554-4282-be41-8b0f9ba6432a)
 
+## 卸载
+### 通常
+通常卸载自定义驱动步骤：
+
+1. 打开Vita3K，在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡；
+2. 点击`Remove custom driver（移除自定义驱动）`。
+
+### 修改
+如果使用错误的GPU驱动无法打开Vita3K，解决步骤如下：
+
+1. 使用原生文件管理器或[MT管理器](https://mt2.cn/download);
+2. 在/Android/data/org.vita3k.emulator/files找到config.yml使用文本文档将其打开；
+3. 将`custom-driver-name: [driver_name]`更改为`custom-driver-name: ""`，将`gpu-idx: 1`更改为`gpu-idx: 0`，编辑完后保存，令其使用默认的GPU驱动；
+4. 打开Vita3K即可。
+
 ## 特殊（PC）
-仅针对PC版本，如果出现无法游玩以及闪退的情况，建议在显卡官方网站获取，下载并安装最新版本的显卡驱动，再尝试在Vita3K运行游玩。如果更新显卡驱动至最新版本，但仍低于OpenGL 4.4或Vulkan 1.0则依旧无法游玩，对于该问题请更换显卡或电脑。
+仅针对PC版本，如果出现无法游玩以及闪退的情况，建议在显卡官方网站获取，下载并安装最新版本的显卡驱动，再尝试在Vita3K运行游玩。如果更新显卡驱动至最新版本，但仍低于OpenGL 4.4或Vulkan 1.0则依旧无法游玩，对于该问题请更换显卡或设备。
