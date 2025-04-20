@@ -36,7 +36,7 @@ Android建议是安装/更新至更高的版本（至少为Android 11），搭�
 通常卸载自定义驱动步骤：
 
 1. 打开Vita3K，在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡；
-2. 点击`Remove custom driver（移除自定义驱动）`。
+2. 点击`Remove custom driver（移除自定义驱动）`即可。
 
 ### 修改
 如果使用错误的GPU驱动无法打开Vita3K，解决步骤如下：
