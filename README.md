@@ -40,7 +40,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 [Android](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### Vita3K历史版本
-[Vita3K构建存储库](https://github.com/Vita3K/Vita3K-builds/releases)
+[Vita3K构建存储库](https://github.com/Vita3K/Vita3K-builds/releases) | 
 [Vita3K-Android构建存储库](https://github.com/Vita3K/Vita3K-Android/releases)
 
 ## 配置要求
