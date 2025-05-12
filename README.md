@@ -14,6 +14,10 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 - Android
 
 ## 下载Vita3K
+当前版本
+- master ![GitHub](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)
+- Android ![GitHub](https://img.shields.io/github/v/release/Vita3K/Vita3K-Android?include_prereleases)
+
 ### Vita3K官方
 [Windows x64](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | 
 [Linux (AppImage)](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | 
