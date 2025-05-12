@@ -15,8 +15,8 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 
 ## 下载Vita3K
 当前版本
-- master ![GitHub](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)
-- Android ![GitHub](https://img.shields.io/github/v/release/Vita3K/Vita3K-Android?include_prereleases)
+- master [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master)
+- Android [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-Android?include_prereleases)](https://github.com/Vita3K/Vita3K-Android/commits/android/)
 
 ### Vita3K官方
 [Windows x64](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | 
@@ -40,9 +40,8 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 [Android](https://kkgithub.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk)
 
 ### Vita3K历史版本
-[构建存储库](https://github.com/Vita3K/Vita3K-builds/releases) | 
-[master版本更新记录](https://github.com/Vita3K/Vita3K/commits/master) | 
-[android版本更新记录](https://github.com/Vita3K/Vita3K-Android/commits/android/)
+[Vita3K构建存储库](https://github.com/Vita3K/Vita3K-builds/releases)
+[Vita3K-Android构建存储库](https://github.com/Vita3K/Vita3K-Android/releases)
 
 ## 配置要求
 ### PC
