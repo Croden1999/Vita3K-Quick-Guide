@@ -1,5 +1,5 @@
 # Vita3K快速指南
-简体中文 / [繁體中文](http://croden1999.github.io/Vita3K-Quick-Guide/README-CH)
+简体中文 / [繁體中文](http://croden1999.github.io/Vita3K-Quick-Guide/README-zh-t)
 
 ### 前言
 此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，此快速指南会帮助刚接触Vita3K的新人们了解使用，使用PS Vita搭配Vita3K模拟器来提取并安装，游玩应用及游戏。
