@@ -2,7 +2,7 @@
 简体中文 / [繁體中文](http://croden1999.github.io/Vita3K-Quick-Guide/README-zh-t)
 
 ### 前言
-此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，面向于对Vita3K刚接触和长时间使用模拟器的玩家用户，该指南会帮助对一些需要了解安装和导入内容等操作，并使用PS Vita搭配Vita3K模拟器来提取安装，游玩应用及游戏。
+此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，面向于对Vita3K刚接触和长时间使用模拟器的玩家用户，该指南会帮助对玩家用户需要了解安装和导入内容等操作，并使用PS Vita搭配Vita3K模拟器来提取安装，游玩应用及游戏。
 
 ### 免责声明
 Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita相关软件的内容，您需要使用[NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm)或[FAGDec](https://github.com/CelesteBlue-dev/PSVita-RE-tools/tree/master/FAGDec/build)在您的PS Vita提取应用程序/游戏/更新补丁/追加内容DLC。当然，您可以在[VitaDB](https://vitadb.rinnegatamante.it)中获取自制程序。
