@@ -15,15 +15,29 @@
 9. 将已压缩的zip传至PC/Android安装。
 
 ### 使用maidumptool提取
+- 如果只存在本体或本体与更新补丁的情况下：
 1. 确保在PSVita已安装了VitaShell、maidumptool以及nonpdrm插件；
 2. 在PS Store下载您已购买拥有的app/游戏；
 3. 安装完成后在PSVita运行app/游戏（如果有更新，请更新后再运行）；
 4. 运行maidumptool；
-5. 提取完整游戏本体以及更新补丁；
+5. 提取完整游戏本体/更新补丁；
 6. 完成后运行VitaShell；
 7. 找到mai路径`ux0:mai`；
-8. 打包压缩`ux0:mai`中的`[TITLE_ID]`以及`[TITLE_ID]_patch`文件夹为zip，命名为[TITLE_ID].zip，压缩级别不限；
-9. 将已压缩的zip/vpk传至PC/Android安装。
+8. 将`[TITLE_ID]_patch`文件夹内的文件覆盖至`ux0:mai/[TITLE_ID]`;
+9. 打包压缩`ux0:mai/[TITLE_ID]文件夹内的为zip，也可以更改后缀名为vpk；
+10. 将已压缩的zip/vpk传至PC/Android安装。
+
+- 如果同时存在可提取DLC的情况下，则从第5和第8步有所变更：
+1. 确保在PSVita已安装了VitaShell、maidumptool以及nonpdrm插件；
+2. 在PS Store下载您已购买拥有的app/游戏；
+3. 安装完成后在PSVita运行app/游戏（如果有更新，请更新后再运行;如果有）；
+4. 运行maidumptool；
+5. 提取完整游戏本体、更新补丁以及DLC；
+6. 完成后运行VitaShell；
+7. 找到mai路径`ux0:mai`；
+8. 将`ux0:mai/[TITLE_ID]_patch`文件夹内的文件覆盖至`ux0:mai/[TITLE_ID]`，将`ux0:mai/[TITLE_ID]_addc`文件夹移动至`ux0:mai[TITLE_ID]`内，并将`[TITLE_ID]_addc`文件夹名称为dlc;
+9. 打包压缩`ux0:mai/[TITLE_ID]文件夹内的为zip，也可以更改后缀名为vpk；
+10. 将已压缩的zip/vpk传至PC/Android安装。
 
 ### 使用FAGDec提取
 1. 确保在PSVita已安装了VitaShell、FAGDec以及nonpdrm插件；
@@ -40,10 +54,13 @@
 12. 您将在此处看到两个选项，选择`[START] START DECRYPT(SELF)`；
 13. 现在只需等到它完成对游戏模块的解密；
 14. 您可以在以下位置找到输出文件`ux0:FAGDec/app/[TITLE_ID]`；
-15. 将`ux0:FAGDec/app/[TITLE_ID]`里的所有文件移动覆盖至`ux0:data/[TITLE_ID]`，压缩`ux0:data/[TITLE_ID]`的文件为zip，命名为[TITLE_ID].zip/vpk，压缩级别不限；
+15. 将`ux0:FAGDec/app/[TITLE_ID]`里的所有文件移动覆盖至`ux0:data/[TITLE_ID]`，压缩`ux0:data/[TITLE_ID]`的文件为zip，也可以更改后缀名为vpk；
 16. 将已压缩的zip/vpk传至PC/Android安装。
 
 ## 追加内容DLC
+### 使用nonpdrm提取
+目前不支持安装从PSVita提取后的DLC，需要使用maidumptool转储提取，或是使用pkg安装。
+
 ### 使用maidumptool提取
 1. 确保在PSVita已安装了VitaShell以及maidumptool；
 2. 在PS Store下载您已购买拥有的追加内容DLC；
