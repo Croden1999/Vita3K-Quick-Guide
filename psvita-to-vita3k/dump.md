@@ -54,6 +54,9 @@
 7. 打包压缩`ux0:mai`中的`[TITLE_ID]_addc`文件夹为zip，命名为`[TITLE_ID]_DLC.zip`，压缩级别不限；
 8. 将已压缩的zip传至PC/Android安装。
 
+## 获取已购买内容的PKG以及rif授权文件
+- 待补充
+
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
