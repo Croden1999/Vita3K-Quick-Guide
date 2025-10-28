@@ -23,7 +23,7 @@
 6. 完成后运行VitaShell；
 7. 找到mai路径`ux0:mai`；
 8. 打包压缩`ux0:mai`中的`[TITLE_ID]`以及`[TITLE_ID]_patch`文件夹为zip，命名为[TITLE_ID].zip，压缩级别不限；
-9. 将已压缩的zip传至PC/Android安装。
+9. 将已压缩的zip/vpk传至PC/Android安装。
 
 ### 使用FAGDec提取
 1. 确保在PSVita已安装了VitaShell、FAGDec以及nonpdrm插件；
@@ -55,7 +55,8 @@
 8. 将已压缩的zip传至PC/Android安装。
 
 ## 获取已购买内容的PKG以及rif授权文件
-- 待补充
+1. 安装步骤待补充；
+2. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app/pkg)安装内容。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
