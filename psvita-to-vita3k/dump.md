@@ -63,6 +63,25 @@
 10. 将已压缩的zip/vpk传至PC/Android安装。
 
 ### 使用FAGDec提取
+只存在本体的情况下：
+1. 确保在PSVita已安装了VitaShell、FAGDec以及nonpdrm插件；
+2. 在PS Store下载您已购买拥有的app/游戏；
+3. 安装完成后在PSVita运行app/游戏；
+4. 运行VitaShell；
+5. 找到app路径`ux0:app`；
+6. 选中要提取[TITLE_ID]的游戏，按下△键显示右侧菜单，选择`以解密方式打开`；
+7. 文件全选，将全部文件复制到ux0:data/[TITLE_ID]（需要新建文件夹）；
+8. 运行FAGDec；
+9. 并向下滚动，直到找到想要提取的游戏；
+10. 将光标悬停在游戏上并按下按钮，等待FAGDec找到所有模块，然后选择`DECRYPT ALL（解密全部）`
+11. 您将看到模块已列在屏幕右侧。现在返回主菜单并按Start键；
+12. 您将在此处看到两个选项，选择`[START] START DECRYPT(SELF)`；
+13. 现在只需等到它完成对游戏模块的解密；
+14. 您可以在以下位置找到输出文件`ux0:FAGDec/app/[TITLE_ID]`；
+15. 将`ux0:FAGDec/app/[TITLE_ID]`里的所有文件移动覆盖至`ux0:data/[TITLE_ID]`，压缩`ux0:data/[TITLE_ID]`的文件为zip，也可以更改后缀名为vpk；
+16. 将已压缩的zip/vpk传至PC/Android安装。
+
+存在本体与更新补丁的情况下：
 1. 确保在PSVita已安装了VitaShell、FAGDec以及nonpdrm插件；
 2. 在PS Store下载您已购买拥有的app/游戏；
 3. 安装完成后在PSVita运行app/游戏（如果有更新，请更新后再运行）；
@@ -82,7 +101,7 @@
 
 ## 追加内容DLC
 ### 使用nonpdrm提取
-目前不支持安装从PSVita提取后的DLC，需要使用maidumptool转储提取，或是使用pkg安装。
+- 目前不支持安装从PSVita提取后的DLC，需要使用maidumptool转储提取，或是使用pkg安装。
 
 ### 使用maidumptool提取
 1. 确保在PSVita已安装了VitaShell以及maidumptool；
@@ -95,8 +114,9 @@
 8. 将已压缩的zip传至PC/Android安装。
 
 ## 获取已购买内容的PKG以及rif授权文件
-1. 安装步骤待补充；
-2. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)安装内容。
+1. 确保在PSVita已安装了VitaShell、[Unknown]以及nonpdrm插件；
+2. 安装步骤待补充；
+3. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)安装内容。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
