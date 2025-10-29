@@ -73,7 +73,7 @@
 
 ## 获取已购买内容的PKG以及rif授权文件
 1. 安装步骤待补充；
-2. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app/pkg)安装内容。
+2. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)安装内容。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
