@@ -15,7 +15,7 @@
 9. 将已压缩的zip传至PC/Android安装。
 
 ### 使用maidumptool提取
-- 如果只存在本体或本体与更新补丁的情况下：
+如果只存在本体或本体与更新补丁的情况下：
 1. 确保在PSVita已安装了VitaShell、maidumptool以及nonpdrm插件；
 2. 在PS Store下载您已购买拥有的app/游戏；
 3. 安装完成后在PSVita运行app/游戏（如果有更新，请更新后再运行）；
@@ -27,7 +27,7 @@
 9. 打包压缩`ux0:mai/[TITLE_ID]文件夹内的为zip，也可以更改后缀名为vpk；
 10. 将已压缩的zip/vpk传至PC/Android安装。
 
-- 如果同时存在可提取DLC的情况下，则从第5和第8步有所变更：
+如果同时存在可提取DLC的情况下，则从第5和第8步有所变更：
 1. 确保在PSVita已安装了VitaShell、maidumptool以及nonpdrm插件；
 2. 在PS Store下载您已购买拥有的app/游戏；
 3. 安装完成后在PSVita运行app/游戏（如果有更新，请更新后再运行;如果有）；
