@@ -12,8 +12,8 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 - Android
 
 ## 获取Vita3K模拟器
-- 主版本 | [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [更早历史版本（非全收录）](https://www.123684.com/s/izofjv-loog3)
-- Android | [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-Android?include_prereleases)](https://github.com/Vita3K/Vita3K-Android/commits/android) | [历史版本](https://github.com/Vita3K/Vita3K-Android/releases)
+- 主版本[![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [更早历史版本（非全收录）](https://www.123684.com/s/izofjv-loog3)
+- Android[![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-Android?include_prereleases)](https://github.com/Vita3K/Vita3K-Android/commits/android) | [历史版本](https://github.com/Vita3K/Vita3K-Android/releases)
 
 \ | Windows | Linux (AppImage) | Linux (zip) | macOS | Android
 --- | --- | --- | --- | --- | --- 
