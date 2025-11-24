@@ -7,7 +7,7 @@
 可以在Vita3K主页面的[NPXS10026]内容管理，找到对应游戏已安装的DLC信息。
 
 ## pkg
-1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装pkg`；
+1. 打开Vita3K，在顶部菜单栏选择`文件`，选择`安装pkg`；
 2. 选择`*.pkg`文件，选择`输入zrif密钥`或`导入work.bin/rif`文件，等待安装完成后即可；
 3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
 
@@ -17,12 +17,12 @@
 - NPS
   
 ### PC
-1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装zip、vpk`；
+1. 打开Vita3K，在顶部菜单栏选择`文件`，选择`安装zip、vpk`；
 2. `选择文件`或`选择目录`，选择`*.zip文件`或`目录`，等待安装完成即可;
 3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
 
 ### Android
-1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装zip、vpk`;
+1. 打开Vita3K，在顶部菜单栏选择`文件`，选择`安装zip、vpk`;
 2. `选择文件`，选择`*.zip`文件，等待安装完成即可;
 3. 可在Vita3K内容管理查看已安装的DLC，或在游戏中浏览已安装的DLC内容。
 
@@ -32,7 +32,7 @@
 ### PC
 第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用。
 
-1. 打开Vita3K，在顶部菜单栏选择`文件`->`打开存放路径`；
+1. 打开Vita3K，在顶部菜单栏选择`文件`，选择`打开存放路径`；
 2. 将下载的dlc压缩包解压覆盖至`ux0/addcont/[TITLE_ID]`文件夹内；
 3. 可在Vita3K内容管理检查DLC是否放置正确，或在游戏中浏览已安装的DLC内容。
 
@@ -49,4 +49,4 @@
 
 ## 相关的安装教程
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
-- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)

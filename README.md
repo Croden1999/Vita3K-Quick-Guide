@@ -1,8 +1,6 @@
 # Vita3K快速指南
-简体中文 / [繁體中文](http://croden1999.github.io/Vita3K-Quick-Guide/README-zh-t)
-
 ### 前言
-此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程，面向于对Vita3K刚接触和长时间使用模拟器的玩家用户，该指南会帮助对玩家用户需要了解安装和导入内容等操作，并使用PS Vita搭配Vita3K模拟器来提取安装，游玩应用及游戏。
+此快速指南基于[Vita3K快速入门](https://vita3k.org/quickstart)的教程编写，面向于对Vita3K刚接触和长时间使用模拟器的玩家用户，该指南会帮助对玩家用户需要了解安装和导入内容等操作，并使用PS Vita搭配Vita3K模拟器来提取安装，游玩应用及游戏。
 
 ### 免责声明
 Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita相关软件的内容，您需要使用[NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm)或[FAGDec](https://github.com/CelesteBlue-dev/PSVita-RE-tools/tree/master/FAGDec/build)在您的PS Vita提取应用程序/游戏/更新补丁/追加内容DLC。当然，您可以在[VitaDB](https://vitadb.rinnegatamante.it)中获取自制程序。
@@ -43,7 +41,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
 
 - 如果您的配置低于最低要求，请更换新设备。
 
-## Default Perf Path
+## Perf路径
 各平台默认存放路径如下：
 - Windows: `C:/Users/[username]/Appdata/Roaming/Vita3K/Vita3K`
 - Linux: `~/.local/share/Vita3K/Vita3K`
@@ -51,8 +49,7 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
 - Android: `/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita`
 
 ## 教程
-- [PSVita to Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k)
-- [单独使用Vita3K](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k)
+- [起点](http://croden1999.github.io/Vita3K-Quick-Guide/Start)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
@@ -60,16 +57,16 @@ GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
 - [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性数据库](https://github.com/Vita3K/compatibility/issues)
 - [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性数据库](https://github.com/Vita3K/homebrew-compatibility/issues)
 
-## Communication
+## 交流
 - [Vita3K Discord服务器（推荐）](https://discord.gg/MaWhJVH)
 - [Vita3K Reddit社区](https://www.reddit.com/r/vita3k)
 - [中文社区百度贴吧Vita3K吧](https://tieba.baidu.com/f?kw=vita3k&fr=index)
 - [Vita3K爱好者QQ群 - 736751007](https://jq.qq.com/?_wv=1027&k=cg1vogjK)
 
-## Donation
-可以使用[Ko-fi](https://ko-fi.com/vita3k)为Vita3K项目组捐赠。
+## 捐赠
+使用[Ko-fi](https://ko-fi.com/vita3k)为Vita3K项目组捐赠。
 
-## Special Thanks
+## 致谢
 特别感谢开发团队和所有做出贡献的人员。
 - 感谢提供建议或以其他方式使Vita3K项目成为可能的人，例如**Davee、korruptor、Rinnegatamante、ScHlAuChi、Simon Kilroy、TheFlow、xerpi、xyz、Yifan Lu**等。
 - [Developers of Vita3K team / Vita3K小组开发人员](https://github.com/Vita3K)，开发人员包括**petmac、frangarcj、VelocityRa、1whatleytay、EXtremeExploit、HolyMcDiver、HorrorTroll、IllusionMan1212、KorewaWatchful、scribam、sunho、wfscans、Macdu、bookmist、pent0和Zangetsu38**。

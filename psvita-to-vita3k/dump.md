@@ -113,10 +113,12 @@
 7. 打包压缩`ux0:mai`中的`[TITLE_ID]_addc`文件夹为zip，命名为`[TITLE_ID]_DLC.zip`；
 8. 将已压缩的zip传至PC/Android安装。
 
-## 获取已购买内容的PKG以及rif授权文件
-1. 确保在PSVita已安装了VitaShell、[Unknown]以及nonpdrm插件；
-2. 安装步骤待补充；
-3. 将含有已购买游戏PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)安装内容。
+## 获取已购内容的PKG以及rif授权文件
+1. 确保在PSVita已安装了VitaShell、[RIF Ripper](https://bin.shotatoshounenwachigau.moe/vita/rif-ripper/rif-ripper.vpk)以及nonpdrm插件；
+2. 运行RIF Ripper，等待下载完成，如果已购内容数比较庞大，下载的时间可能花费的时间更长；
+3. 完成后运行VitaShell；
+4. 找到路径`ux0:rif-ripper`；
+5. 将含有已购内容PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)进行安装。
 
 ## 相关的安装教程
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
