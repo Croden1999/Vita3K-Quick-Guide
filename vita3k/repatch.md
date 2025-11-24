@@ -1,12 +1,12 @@
-# 语言/Mod补丁包与安装
+# RePatch（语言/Mod等）补丁安装
 ## 前言
-关于语言、Mod补丁您需要从各大网站、论坛社区获取由作者、汉化组团队等其他人员分享的内容，另外需要检查repatch补丁或是readdcont追加内容DLC，以便于使用下面的步骤进行安装。
+关于语言、Mod补丁您需要从各大网站、论坛社区获取由作者、汉化组团队等其他人员分享提供的内容，另外需要检查repatch补丁或是readdcont追加内容DLC，以便于使用下面的步骤进行安装。
 
 repatch/readdcont安装的两种方式：
 - 打包安装（需要准备原始游戏的sce_sys/param.sfo文件，打包安装步骤需此文件才能在Vita3K中识别并安装）
 - 解压（推荐，通常使用频率多）
 
-## Language/Mods Patch(repatch)
+## 语言/Mod补丁(repatch)
 ### 打包安装
 如果是以repatch补丁的形式，如图所示
 
@@ -33,7 +33,7 @@ Android
 2. 打开侧边栏，选择Vita3K，将已复制的文件夹放置在存放路径的`ux0\app`中，并检查文件名称一致覆盖文件；
 3. 运行游戏检查，直至生效即可。
 
-## Mods DLC Patch(readdcont)
+## DLC Mod补丁(readdcont)
 ### 打包安装
 如果是以readdcont补丁的形式，如图所示
 
