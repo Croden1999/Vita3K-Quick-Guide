@@ -25,10 +25,9 @@ kkgithub代理 | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/c
 
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-CPU | 支持AVX指令集 | 支持AVX指令集 
-GPU | 支持OpenGL 4.4 | 支持OpenGL 4.4或更高版本 / Vulkan
-显卡着色器互锁 | × | ✓ 
-运行内存 | 4GB | 8GB或者更高 
+CPU | 任何x86_64中央处理器 | 具有AVX指令集的x86_64中央处理器 
+GPU | 支持OpenGL 4.4的GPU | 支持Vulkan以及着色器互锁的GPU 
+运行内存 | 4GB | 8GB及以上更高内存 
 
 - 如果您的配置低于最低要求，请更换PC硬件配置或者新设备。
 
