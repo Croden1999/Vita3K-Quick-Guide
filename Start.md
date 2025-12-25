@@ -14,7 +14,7 @@
 --- | --- | --- 
 驱动安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/driver) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/driver) 
 RePatch（语言/Mod等）补丁安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/repatch) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/repatch) 
-存档导入 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/savedata) | [O（需要依赖他人分享已解密的存档）](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/savedata) 
+存档导入 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/savedata) | [○（需要依赖他人分享已解密的存档）](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/savedata) 
 存档导出 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/savedata) | × 
 纹理替换 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/texture-replacement) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/texture-replacement) 
 奖杯修改 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/trophy) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/trophy) 
