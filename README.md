@@ -42,7 +42,7 @@ GPU | 支持OpenGL ES 3.2 | 支持Vulkan
 运行内存 | 4GB | 8GB及更高内存 
 
 - 如果您的配置低于最低要求，请更换新设备
-- 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader，且使用第三方sideload），否则仍建议更换新设备。
+- 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader，且使用第三方sideload），否则仍建议更换新设备
 
 ## Perf路径
 各平台默认存放路径如下：
@@ -52,7 +52,7 @@ GPU | 支持OpenGL ES 3.2 | 支持Vulkan
 - Android: `/storage/emulated/0/Android/data/org.vita3k.emulator/files/vita`
 
 ## 教程
-- [起点](http://croden1999.github.io/Vita3K-Quick-Guide/Start)
+- [指南起点](http://croden1999.github.io/Vita3K-Quick-Guide/Start)
 
 ## Vita3K官方网站以及项目
 - [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
