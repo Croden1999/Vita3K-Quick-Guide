@@ -55,10 +55,10 @@ GPU | 支持OpenGL ES 3.2 | 支持Vulkan
 - [指南起点](http://croden1999.github.io/Vita3K-Quick-Guide/Start)
 
 ## Vita3K官方网站以及项目
-- [Vita3K官网](https://vita3k.org) & [Vita3K快速入门](https://vita3k.org/quickstart)
-- [Vita3K项目](https://github.com/Vita3K) & [Vita3K repo](https://github.com/Vita3K/Vita3K) & [Vita3K-Android repo](https://github.com/Vita3K/Vita3K-Android)
-- [Vita3K商业游戏兼容性列表](https://vita3k.org/compatibility) & [Vita3K商业游戏兼容性数据库](https://github.com/Vita3K/compatibility/issues)
-- [Vita3K自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [Vita3K自制程序兼容性数据库](https://github.com/Vita3K/homebrew-compatibility/issues)
+- [官网](https://vita3k.org)
+- [Vita3K项目库列表](https://github.com/Vita3K) & [Vita3K主项目库](https://github.com/Vita3K/Vita3K) 
+- [商业游戏兼容性列表](https://vita3k.org/compatibility) & [商业游戏兼容性数据库](https://github.com/Vita3K/compatibility/issues)
+- [自制程序兼容性列表](https://vita3k.org/compatibility-homebrew) & [自制程序兼容性数据库](https://github.com/Vita3K/homebrew-compatibility/issues)
 
 ## 交流
 - [Vita3K Discord服务器（推荐）](https://discord.gg/MaWhJVH)
