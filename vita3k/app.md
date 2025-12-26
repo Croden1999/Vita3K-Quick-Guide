@@ -3,7 +3,7 @@
 1. [pkg](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)：加密，需要work.bin/rif文件或者输入zrif密钥。
 2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#zip)：如PSN游戏/NoNpDrm，这是目前比较推荐的方式。
 3. [vpk](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，自制程序vpk也支持（并非所有）；不支持Vitamin，不要企图安装或运行。
-4. 文件夹安装（仅PC）：将游戏文件夹拖动到Vita3K图形用户界面窗口进行安装，对于安装格式极其严格（仅NoNpDrm/maidump），且没有安装对话框显示，需要通过log判断，未了解游戏压缩格式的情况下一般建议使用zip方式安装。
+4. 文件夹安装（仅PC）：将游戏文件夹拖动到Vita3K图形用户界面窗口进行安装，对于安装格式极其严格（仅NoNpDrm/Mai），且没有安装对话框显示，需要通过log判断，未了解游戏压缩格式的情况下一般建议使用zip方式安装。
 
 ## pkg
 PC以及Android步骤通用：
