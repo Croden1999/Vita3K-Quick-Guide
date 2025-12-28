@@ -29,13 +29,13 @@
 ### Lite固件包安装步骤（适用于无法正常安装固件的情况）
 PC
 1. 点顶部主菜单栏的`文件`；
-2. 选择`打开首选路径`；
-3. 将[固件包]()解压当前路径；
+2. 选择`打开存放路径`；
+3. 将[固件包](https://github.com/Croden1999/Vita3K-Quick-Guide/releases/download/Files/Firmware_Lite.7z)解压当前路径；
 4. 重启Vita3K即可。
 
 Android
 1. 使用原生管理器并打开侧边栏,选择Vita3K；
-2. 将[固件包]()解压当前路径；
+2. 将[固件包](https://github.com/Croden1999/Vita3K-Quick-Guide/releases/download/Files/Firmware_Lite.7z)解压当前路径；
 3. 重启Vita3K即可。
 
 ⚠️注意：Android版本安装完字体固件后只需重启Vita3K，但千万不要勾选亚洲区域字体支持，否则不显示文字。
