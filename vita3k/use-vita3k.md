@@ -34,7 +34,7 @@ PC
 4. 重启Vita3K即可。
 
 Android
-1. 使用原生管理器并打开侧边栏,选择Vita3K；
+1. 使用原生管理器并打开侧边栏，选择Vita3K；
 2. 将[固件包](https://github.com/Croden1999/Vita3K-Quick-Guide/releases/download/Files/Firmware_Lite.7z)解压当前路径；
 3. 重启Vita3K即可。
 
