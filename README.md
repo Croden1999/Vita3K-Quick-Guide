@@ -44,8 +44,8 @@ GPU | 支持OpenGL ES 3.2 | 支持Vulkan
 - 如果您的配置低于最低要求，请更换新设备
 - 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader，且使用第三方sideload），否则仍建议更换新设备
 
-## 首选路径
-各平台默认首选路径如下：
+## Pref路径
+各平台默认存放路径如下：
 - Windows: `C:/Users/[username]/Appdata/Roaming/Vita3K/Vita3K`
 - Linux: `~/.local/share/Vita3K/Vita3K`
 - macOS: `~/Library/Application Support/Vita3K`
