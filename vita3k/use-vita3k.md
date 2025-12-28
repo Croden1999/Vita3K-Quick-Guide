@@ -5,7 +5,7 @@
 3. 在该页面下载[预装固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2022_0209/pre_efd1ef6c1cc2fe92e72e9e783e421237/PSP2UPDAT.PUP)、[固件](http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP)以及[字体固件](http://dus01.psp2.update.playstation.net/update/psp2/image/2022_0209/sd_59dcf059d3328fb67be7e51f8aa33418/PSP2UPDAT.PUP)选项，并选择下面的安装固件文件逐个安装，固件若都已安装则显示V（代表√，已安装），可以点击右下角继续；不安装固件也不影响使用，部分应用程序需要固件模块才能正常运行，但强烈建议还是安装固件；
 4. 设置Vita3K基本设置，例如显示样式、信息栏设置，设置完可以点击右下角继续；
 5. 初始设置已完成，点击OK继续；
-6. 创建用户并设置名称，创建完用户后点击刚才已创建的用户图标继续；
+6. 创建用户并设置图像和名称（Android仅能设置名称），创建完用户后点击刚才已创建的用户图标继续；
 7. 在Vita3K主页面选择顶部选项栏的`配置`->`设置`选项，点击`GUI`勾选`亚洲区域`选项，点击保存并重启Vita3K模拟器以显示正常文字。
 
 ## 固件安装
