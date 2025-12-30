@@ -36,7 +36,7 @@ GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁
 
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-OS | Android 10 | Android 11及以上
+OS | Android 9 | Android 11
 CPU | arm64-v8 | arm64-v8及以上 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
 运行内存 | 4/6GB | 8GB及更高内存 
