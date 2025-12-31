@@ -27,7 +27,7 @@ kkgithub代理 | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/c
 --- | --- | --- 
 CPU | 任何x86_64 CPU | 具有AVX指令集的x86_64 CPU 
 GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁 
-运行内存 | 4GB | 8GB及更高内存 
+运行内存 | 4GB | 8GB+ 
 
 - 如果您的配置低于最低要求，请更换PC硬件配置或者新设备
 
@@ -36,10 +36,10 @@ GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁
 
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-OS | Android 9 | Android 11
-CPU | arm64-v8a | arm64-v8a及以上 
+OS | Android 9 | Android 10+
+CPU | arm64-v8a | arm64-v8a 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
-运行内存 | 4/6GB | 8GB及更高内存 
+运行内存 | 4/6GB | 8GB+ 
 
 - 如果您的配置低于最低要求，请更换新设备
 - 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader，且使用第三方sideload），否则仍建议更换新设备
