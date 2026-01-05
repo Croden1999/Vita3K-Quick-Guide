@@ -7,7 +7,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 
 ## 支持的操作系统
 - Windows x64（需要安装[Microsoft Visual C++ 2015-2022 Redistributable x64运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)）
-- Linux（如Ubuntu、Steam OS等）
+- Linux（如Arch Linux、Ubuntu、Steam OS等）
 - macOS
 - Android
 
