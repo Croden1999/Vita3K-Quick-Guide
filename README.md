@@ -12,7 +12,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 - Android
 
 ## 获取Vita3K
-- 当前版本 [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [Android历史版本](https://github.com/Vita3K/Vita3K-Android/releases) | [更早版本（非全收录）](https://www.123684.com/s/izofjv-loog3) 
+- 当前最新版本 [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [Android历史版本](https://github.com/Vita3K/Vita3K-Android/releases) | [更早版本（非全收录）](https://www.123684.com/s/izofjv-loog3) 
 
 平台 | Vita3K官方 | gh-proxy代理 | kgithub代理 
 --- | --- | --- | --- 
