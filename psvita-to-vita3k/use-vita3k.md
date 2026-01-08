@@ -27,7 +27,7 @@
 ### Lite固件包安装步骤（适用于无法正常安装固件的情况）
 PC
 1. 点顶部主菜单栏的`文件`；
-2. 选择`打开首选路径`；
+2. 选择`打开存放路径`；
 3. 将[固件包](https://github.com/Croden1999/Vita3K-Quick-Guide/releases/download/Files/Firmware_Lite.7z)解压当前路径；
 4. 重启Vita3K即可。
 
