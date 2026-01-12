@@ -30,7 +30,7 @@ Windows-x64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/contin
 
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-CPU | 任何x86_64 CPU | 具有AVX指令集的x86_64/arm64 CPU 
+CPU | 任何x86_64/arm64 | 具有AVX指令集的x86_64/任何arm64
 GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁 
 运行内存 | 4GB | 8GB+ 
 
