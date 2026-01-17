@@ -7,7 +7,7 @@
 1. 打开Vita3K，在顶部菜单栏选择`文件`->`安装pkg`；
 2. 选择`*.pkg`文件，选择`输入zrif密钥`或`导入work.bin/rif`文件，等待更新补丁安装完成。
 
-### zip
+## zip
 因为文件是加密的原因（包含sce_pfs、package），Vita3K存在两种检测work.bin授权文件的方式。
 1. 存放路径ux0/license内存在授权文件:
 压缩更新补丁为zip，再到Vita3K上安装zip，等待更新补丁安装完成即可。
