@@ -4,8 +4,9 @@
 Vita3K补丁系统专为“60FPS”补丁设计，类似于它灵感来源的工具[VitaGrafix](https://github.com/Vita3K/Vita3K/wiki/Patches)。
 
 # 使用补丁
-> [!WARNING]
-> 警告：该系统与VitaGrafix补丁不完全兼容......至少现在还没有。你需要使用Vita3K专用的补丁。
+> ⚠ 警告
+> 
+> 该系统与VitaGrafix补丁不完全兼容......至少现在还没有。你需要使用Vita3K专用的补丁。
 
 在Vita3K文件夹中，有两个地方可以添加补丁代码：`patch`
 
@@ -47,7 +48,7 @@ Vita3K补丁系统专为“60FPS”补丁设计，类似于它灵感来源的工
 # 格式
 补丁的头部格式如下：
 ```
-[TITLE_ID, BINARY]
+[TITLE_ID, 二进制文件]
 ```
 
 补丁的分段格式如下：
