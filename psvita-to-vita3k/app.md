@@ -59,6 +59,6 @@ PC/Android分为安装/解压两种方式安装。
 3. 在Vita3K中点击`刷新`选项显示应用程序，运行应用程序即可。
 
 ## 相关的安装教程
-- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch)
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont)
-- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/license)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/license)

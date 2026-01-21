@@ -48,5 +48,6 @@
 第二种，readdcont/其他的解密DLC(s)也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装，安装方式与zip一致。
 
 ## 相关的安装教程
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/app)
 - [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/license)

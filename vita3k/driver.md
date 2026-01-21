@@ -1,5 +1,5 @@
 # 驱动安装及卸载
-针对Android且Qualcomm Adreno GPU的设备，安装Mesa Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx GPU的安装步骤，当前安装驱动有两种方式：
+针对Android且Qualcomm Adreno GPU的设备，安装Mesa Turnip GPU驱动可以改善某些游戏的图形问题（并非所有），在此处下载[Adreno Mesa Turnip GPU驱动](https://github.com/K11MCH1/AdrenoToolsDrivers/releases)，仅适用于Qualcomm Adreno 6xx/7xx/8xx GPU的安装步骤，当前安装驱动有两种方式：
 - 安装
 - 解压
 

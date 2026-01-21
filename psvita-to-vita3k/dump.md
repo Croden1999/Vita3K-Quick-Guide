@@ -121,6 +121,7 @@
 5. 将含有已购内容PKG的txt和rif传至PC/Android，按照[安装步骤](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#pkg)进行安装。
 
 ## 相关的安装教程
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/app)
 - [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/license)

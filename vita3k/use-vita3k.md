@@ -46,7 +46,8 @@ Android
 
 ## 设置完成Vita3K相关教程
 此流程安装完就可以进行安装应用程序/游戏、补丁更新、追加内容DLC和主题，以及对PSVita游戏的转储提取。
-- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
-- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch)
+- [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch)
+- [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/license)
 - [主题安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/theme)

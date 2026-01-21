@@ -24,5 +24,6 @@
 解密的文件安装较为方便，需要先在PSVita使用maidumptool提取解密补丁，提取位置在ux0:mai文件夹内，提取补丁名为[标题ID_patch]，将其压缩为zip，将此压缩包传到您的设备上，再到Vita3K上安装zip，等待更新补丁安装完成即可。
 
 ## 相关的安装教程
+- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/app)
 - [追加内容DLC安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont)
-- [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/license)

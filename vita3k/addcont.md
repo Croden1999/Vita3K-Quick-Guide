@@ -50,3 +50,4 @@
 ## 相关的安装教程
 - [应用程序/游戏安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app)
 - [更新补丁安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch)
+- [授权安装](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/license)
