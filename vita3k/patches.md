@@ -1,5 +1,5 @@
 # 60FPS补丁
-基于[Vita3K Patches Wiki](https://github.com/Vita3K/Vita3K/wiki/Patches)翻译，由SpikeHD编写。
+基于[Vita3K Patches Wiki](https://github.com/Vita3K/Vita3K/wiki/Patches)翻译，由SpikeHD编写。该补丁的txt文件需要放置于`shared_path`模拟器路径的`patch`文件夹内。
 
 Vita3K补丁系统专为“60FPS”补丁设计，类似于它灵感来源的工具[VitaGrafix](https://github.com/Vita3K/Vita3K/wiki/Patches)。
 
