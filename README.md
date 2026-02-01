@@ -24,7 +24,7 @@ Linux-arm64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/
 Linux-x86_64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
 Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip)
 Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
-Windows-x64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
+Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
 
 ## 配置要求
 ### PC
