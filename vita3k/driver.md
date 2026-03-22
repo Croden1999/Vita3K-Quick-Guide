@@ -19,13 +19,11 @@
 ## 卸载
 ### 常规
 常规卸载自定义驱动步骤：
-
 1. 打开Vita3K，在顶部选项栏点击`配置`->`设置`，点击`GPU`选项卡；
 2. 点击`移除自定义驱动`。
 
 ### 修改
 如果使用错误的GPU驱动无法打开Vita3K，解决步骤如下：
-
 1. 使用原生文件管理器或[MT管理器](https://mt2.cn/download);
 2. 在/Android/data/org.vita3k.emulator/files找到config.yml使用文本文档将其打开；
 3. 将`custom-driver-name: [driver_name]`更改为`custom-driver-name: ""`，将`gpu-idx: 1`更改为`gpu-idx: 0`，编辑完后保存，令其使用默认的GPU驱动；
