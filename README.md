@@ -14,17 +14,17 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 ## 获取Vita3K
 - 当前最新版本 [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [Android历史版本](https://github.com/Vita3K/Vita3K-Android/releases) | [更早版本（非全收录）](https://www.123684.com/s/izofjv-loog3) 
 
-平台 | Vita3K官方 | gh-proxy代理 | kgithub代理 
---- | --- | --- | --- 
-Android | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk)
-macOS-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-arm64-latest.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-arm64-latest.dmg) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-arm64-latest.dmg)
-macOS-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg)
-Linux-arm64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage)
-Linux-arm64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip)
-Linux-x86_64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
-Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip)
-Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
-Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://kkgithub.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
+平台 | 官方 | 代理加速 
+--- | --- | --- 
+Android | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk)
+macOS-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-arm64-latest.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-arm64-latest.dmg)
+macOS-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/macos-latest.dmg)
+Linux-arm64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage)
+Linux-arm64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip)
+Linux-x86_64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
+Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/ubuntu-latest.zip)
+Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
+Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
 
 ## 配置要求
 ### PC
@@ -34,9 +34,7 @@ Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/con
 CPU | 任何x86_64/arm64 | 具有AVX指令集的x86_64/任何arm64
 GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁 
 运行内存 | 4GB | 8GB+ 
-
 - 如果您的配置低于最低要求，请更换PC硬件配置或者新设备
-
 
 ### Android
 
@@ -46,7 +44,6 @@ OS | Android 9 | Android 10+
 CPU | arm64-v8a | arm64-v8a 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
 运行内存 | 4/6GB | 8GB+ 
-
 - 如果您的配置低于最低要求，请更换新设备
 - 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader，且使用第三方sideload），否则仍建议更换新设备
 
