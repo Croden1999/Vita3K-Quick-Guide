@@ -30,7 +30,7 @@ Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/con
 ### PC
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-CPU | 任何x86_64/arm64 | 具有AVX指令集的x86_64/任何arm64
+CPU | 任何x86_64/arm64 | 具有AVX指令集的x86_64/任何arm64 
 GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁 
 运行内存 | 4GB | 8GB+ 
 - 如果您的配置低于最低要求，请更换PC硬件配置或者新设备
@@ -38,7 +38,7 @@ GPU | 支持OpenGL 4.4 | 支持Vulkan以及着色器互锁
 ### Android
 \ | 最低要求 | 推荐要求 
 --- | --- | --- 
-OS | Android 9 | Android 10+
+OS | Android 9 | Android 10+ 
 CPU | arm64-v8a | arm64-v8a 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
 运行内存 | 4/6GB | 8GB+ 
