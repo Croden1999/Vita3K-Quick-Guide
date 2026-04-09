@@ -27,6 +27,7 @@ Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/cont
 Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
 
 ## 配置要求
+
 PC | 最低要求 | 推荐要求 
 --- | --- | --- 
 CPU | 任何x86_64/arm64 | 具有AVX指令集的x86_64/arm64 
