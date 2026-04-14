@@ -38,7 +38,7 @@ RAM | 4GB | 8GB+
 
 Android | 最低要求 | 推荐要求 
 --- | --- | --- 
-OS | Android 9 | Android 10+ 
+OS | Android 9（SDK28） | Android 10-16（SDK29-35） 
 CPU | arm64-v8a | arm64-v8a+ 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
 RAM | 4GB/6GB | 8GB+
