@@ -29,7 +29,7 @@ Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download
 Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
 Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
 
-- 从3998版本开始，ImGUI被Qt/Compose UI取代。对！使用新版界面而舍弃旧版界面的ImGUI已经似了，现已是Qt王朝。另外之前所有的语言翻译全部移除，默认只有英文，只保留存档对话框的翻译，如果不适应新版本的UI可以使用3996以及之前的旧版本Vita3K，目前新版本的Vita3K UI存在一些设置问题的bug。
+- 从3998版本开始，ImGUI已被Qt/Compose UI取代。对！使用新版界面而舍弃旧版界面的ImGUI已经似了，现已是Qt王朝。另外之前所有的语言翻译全部移除，默认只有英文，只保留存档对话框的翻译，如果不适应新版本的UI可以使用3996以及之前的旧版本Vita3K，目前新版本的Vita3K UI存在一些设置问题的bug。
 
 ### 3996版本（ImGUI UI）
 
@@ -47,7 +47,7 @@ Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K-builds/releases/downl
 
 ### PSVita OS分支版本 by Zangetsu38（ImGUI UI）
 
-系统平台 | 官方 | 加速 
+系统平台 | GitHub | 加速 
 --- | --- | --- 
 Android | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/android-latest.apk) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/android-latest.apk) 
 macOS-arm64 | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-arm64-latest.dmg) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-arm64-latest.dmg)
