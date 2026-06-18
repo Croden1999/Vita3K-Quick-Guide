@@ -15,7 +15,7 @@ Vita3K不容忍盗版，此快速指南不提供任何游戏以及其他PS Vita�
 
 当前最新版本 v0.2.1 [![Version](https://img.shields.io/github/v/release/Vita3K/Vita3K-builds?include_prereleases)](https://github.com/Vita3K/Vita3K/commits/master) | [历史版本](https://github.com/Vita3K/Vita3K-builds/releases) | [Android历史版本](https://github.com/Vita3K/Vita3K-Android/releases) | [更早版本（非全收录）](https://www.123684.com/s/izofjv-loog3)
 
-### 最新版本（PC Qt/Android Jetpack Compose UI）
+### 最新版本（Qt/Jetpack Compose UI）
 
 系统平台 | 官方 | 加速 
 --- | --- | --- 
