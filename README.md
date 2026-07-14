@@ -71,11 +71,12 @@ RAM | 4GB | 8GB+
 
 Android | 最低要求 | 推荐要求 
 --- | --- | --- 
-OS | Android 9 (SDK28) | Android 11-15 (SDK35), 不推荐Android 9/10且不保证Android 16+更高版本运行，可能存在兼容性问题
+OS | Android 9 (SDK28) | Android 11-15 (SDK35) 
 CPU | arm64-v8a | arm64-v8a+ 
 GPU | 支持OpenGL ES 3.2 | 支持Vulkan 
 RAM | 4GB/6GB | 8GB+
 
+- 不推荐Android 9/10且不保证Android 16+更高版本运行，可能存在兼容性问题
 - 如果您的配置低于最低要求，建议更换新设备
 - 如果您的设备只是硬件符合，系统软件版本过低可尝试更新（可能需要解锁设备bootloader且使用第三方sideload），否则仍建议更换新设备
 
