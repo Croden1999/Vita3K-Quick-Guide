@@ -2,10 +2,10 @@
 分为三种类型：
 1. [pkg](http:///croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#pkg)（加密）
 2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#zip)（如nonpdrm）
-3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#decrypt)（解密，例如readdcont的DLC、mai游戏附带的DLC文件夹等解密的追加内容dlc文件）
+3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#decrypt)（解密，例如readdcont的DLC、mai游戏附带的DLC文件夹等解密的追加内容DLC文件）
 
 ## pkg
-1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装软件包pkg`；Android在主页中点击右下角`+`->`软件包（pkg）`；
+1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装软件包pkg`；Android在主页中点击右下角`+`->`软件包（PKG）`；
 2. 选择`pkg`文件，选择`输入zrif密钥`或`导入work.bin/rif`文件，等待安装完成后启动游戏；
 3. 在游戏中浏览已安装的DLC内容。
 
@@ -14,7 +14,7 @@ PC与Android安装方式通用，追加内容DLC提取分两种情况：
 - PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用Fagdec或maidumptool提取解密的DLC，请浏览[转储提取](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump)将DLC转储为解密内容）
 - NPS
 
-1. 打开Vita3K，PC在顶部菜单栏选择`文件`，选择`安装压缩包（zip/vpk/vci）`；Android在主页中点击右下角`+`->`压缩包（zip/vpk）`；
+1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装压缩包（zip/vpk/vci）`；Android在主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
 2. `选择文件`或`选择目录`，等待安装完成后启动游戏;
 3. 在游戏中浏览已安装的DLC内容。
 
@@ -22,7 +22,7 @@ PC与Android安装方式通用，追加内容DLC提取分两种情况：
 ### PC
 第一种，例如他人提供的readdcont/其他的解密DLC就可使用。
 
-1. 打开Vita3K，在顶部菜单栏选择`文件`->选择`打开模拟器存储路径`；
+1. 打开Vita3K，在顶部菜单栏点击`打开`->选择`打开模拟器存储路径`；
 2. 将下载的DLC压缩包解压覆盖到`ux0/addcont/[TITLE_ID]`中；
 3. 在游戏中浏览已安装的DLC内容。
 
