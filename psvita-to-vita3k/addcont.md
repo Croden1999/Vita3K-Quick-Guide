@@ -2,9 +2,7 @@
 分为三种类型：
 1. [pkg](http:///croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#pkg)（加密）
 2. [zip](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#zip)（如nonpdrm）
-3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#decrypt)（解密，例如readdcont的DLC(s)、mai游戏附带的DLC(s)文件夹等解密的追加内容dlc文件）
-
-可以在Vita3K主页面的[NPXS10026]内容管理，找到对应游戏已安装的DLC信息。
+3. [decrypt](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont#decrypt)（解密，例如readdcont的DLC、mai游戏附带的DLC文件夹等解密的追加内容dlc文件）
 
 ## pkg
 1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装软件包pkg`；Android在主页中点击右下角`+`->`软件包（pkg）`；
