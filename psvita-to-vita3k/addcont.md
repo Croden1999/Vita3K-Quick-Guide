@@ -7,7 +7,7 @@
 可以在Vita3K主页面的[NPXS10026]内容管理，找到对应游戏已安装的DLC信息。
 
 ## pkg
-1. 打开Vita3K，在顶部菜单栏选择`文件`->选择`安装软件包（pkg）`；
+1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装软件包pkg`；Android在主页中点击右下角`+`->`软件包（pkg）`；
 2. 选择`pkg`文件，选择`输入zrif密钥`或`导入work.bin/rif`文件，等待安装完成后启动游戏；
 3. 在游戏中浏览已安装的DLC内容。
 
@@ -16,7 +16,7 @@ PC与Android安装方式通用，追加内容DLC提取分两种情况：
 - PSVita（已安装的DLC无法直接在Vita3K使用，需要在PSVita使用Fagdec或maidumptool提取解密的DLC，请浏览[转储提取](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump)将DLC转储为解密内容）
 - NPS
 
-1. 打开Vita3K，在顶部菜单栏选择`文件`，选择`安装压缩包（zip/vpk/vci）`；
+1. 打开Vita3K，PC在顶部菜单栏选择`文件`，选择`安装压缩包（zip/vpk/vci）`；Android在主页中点击右下角`+`->`压缩包（zip/vpk/vci）`；
 2. `选择文件`或`选择目录`，等待安装完成后启动游戏;
 3. 在游戏中浏览已安装的DLC内容。
 
