@@ -8,7 +8,7 @@
 - 若想要选择文件夹安装所有的应用程序/游戏，在`安装压缩包（zip/vpk/vci）`时`选择目录`即可。
 
 ## pkg
-PS官方PSN（游戏/app/DLC/主题）内容的pkg源文件，需要work.bin/rif授权文件或zrif密钥进行安装，PC与Android均通用步骤。
+PS官方PSN（游戏/app/DLC/主题）内容的pkg文件，需要work.bin/rif授权文件或zrif密钥进行安装，PC与Android均通用步骤。
 
 1. 打开Vita3K模拟器，PC在顶部菜单栏点击`文件`->`安装软件包（pkg）`；Android在主页中点击右下角`+`->`软件包（PKG）`;
 2. 选择`pkg`文件，`选择bin/rif文件`或`手动输入zrif密钥`。
