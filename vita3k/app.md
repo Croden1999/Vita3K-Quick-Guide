@@ -59,7 +59,7 @@ PC/Android分为安装/解压两种方式安装。
 ## vci
 vci是1:1转储提取的PSVita游戏卡带镜像，PC与Android安装方式通用，直接在Vita3K中安装游戏的vci文件即可。
 
-1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装zip/vpk/vci`；Android在Vita3K的主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
+1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装压缩包（zip/vpk/vci）`；Android在Vita3K的主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
 2. 点击`选择文件`，选择`vci`文件；
 3. 等待安装完成后点确定，运行应用程序即可。
 
