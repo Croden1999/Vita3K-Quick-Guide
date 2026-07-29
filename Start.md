@@ -3,8 +3,8 @@
 
 主要 | 拥有PSVita | 仅使用Vita3K 
 --- | --- | --- 
-转储提取 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump) | ×（需要依赖PSVita提取） 
 使用Vita3K | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/use-vita3k) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/use-vita3k) 
+转储提取 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/dump) | ×（需要依赖PSVita提取） 
 应用程序/游戏安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/app) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app) 
 更新补丁安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch) 
 追加内容DLC安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont) 
