@@ -8,7 +8,7 @@
 更新补丁安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/patch) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/patch) 
 追加内容DLC安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/addcont) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/addcont) 
 授权安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/psvita-to-vita3k/license) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/license) 
-主题安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/psvita-to-vita3k/theme) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/theme) 
+主题安装 | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/theme) | [✓](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/theme) 
 
 进阶 | 拥有PSVita | 仅使用Vita3K 
 --- | --- | --- 
