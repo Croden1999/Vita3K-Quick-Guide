@@ -5,7 +5,7 @@
 3. [vpk](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，自制程序/移植游戏的vpk也支持（并非所有可运行）；不支持Vitamin，不要企图安装或运行。
 4. [vci](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vci)：PSVita游戏卡带镜像。
 
-- 若想要选择文件夹安装所有的游戏，在`安装压缩包（zip/vpk/vci）`时`选择目录`即可。
+- 若想要选择文件夹安装所有的应用程序/游戏，在`安装压缩包（zip/vpk/vci）`时`选择目录`即可。
 
 ## pkg
 PS官方PSN（游戏/app/DLC/主题）内容的pkg文件，需要work.bin/rif授权文件或zrif密钥进行安装，PC与Android均通用步骤。
@@ -47,7 +47,7 @@ PC/Android分为安装/解压两种方式安装。
 
 ### Android
 安装（通常）：
-1. 打开Vita3K，在主页中点击右下角`+`->`压缩包（zip/vpk）`；
+1. 打开Vita3K，在主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
 2. 点击`选择压缩包文件`，选择`vpk`文件；
 3. 等待安装完成后点确定，运行应用程序即可。
 
@@ -59,7 +59,7 @@ PC/Android分为安装/解压两种方式安装。
 ## vci
 vci是1:1转储提取的PSVita游戏卡带镜像，PC与Android安装方式通用，直接在Vita3K中安装游戏的vci文件即可。
 
-1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装zip、vpk`；Android在Vita3K的主页中点击右下角`+`->`压缩包（zip/vpk）`；
+1. 打开Vita3K，PC在顶部菜单栏点击`文件`->`安装压缩包（zip/vpk/vci）`；Android在Vita3K的主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
 2. 点击`选择文件`，选择`vci`文件；
 3. 等待安装完成后点确定，运行应用程序即可。
 
