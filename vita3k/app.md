@@ -10,8 +10,8 @@
 ## pkg
 PS官方PSN（游戏/app/DLC/主题）内容的pkg源文件，需要work.bin/rif授权文件或zrif密钥进行安装，PC与Android均通用步骤。
 
-1. 打开Vita3K模拟器，PC在顶部菜单栏点击`文件`->`安装软件包（pkg）`；Android在主页中点击右下角`+`->`软件包（pkg）`;
-2. 选择`pkg`文件，选择`导入work.bin/rif`或`输入zrif密钥`；
+1. 打开Vita3K模拟器，PC在顶部菜单栏点击`文件`->`安装软件包（pkg）`；Android在主页中点击右下角`+`->`软件包（PKG）`;
+2. 选择`pkg`文件，`选择bin/rif文件`或`手动输入zrif密钥`。
 3. 若选择`导入work.bin/rif`你需要选择对应正确的标题ID的授权文件才能安装成功；
 4. 若选择`输入zrif密钥`你需要输入正确的zrif密钥才能安装成功；
 5. 等待安装完成后点确定，运行应用程序即可。
@@ -21,7 +21,7 @@ PS官方PSN（游戏/app/DLC/主题）内容的pkg源文件，需要work.bin/rif
 - 注意：若NoNpDrm zip直接解压到`ux0/app`内，在Vita3K中则无法运行该游戏（PSN/NoNpDrm游戏是加密未解密的文件），但Vita3K只读取解密的文件，因此必须要在Vita3K中安装或在应用程序菜单解密SELF。
 
 安装（通常）：
-1. 打开Vita3K模拟器，PC在顶部菜单栏点击`文件`->`安装压缩包（zip/vpk/vci）`；Android在主页中点击右下角`+`->`压缩包（zip/vpk）`；
+1. 打开Vita3K模拟器，PC在顶部菜单栏点击`文件`->`安装压缩包（zip/vpk/vci）`；Android在主页中点击右下角`+`->`压缩包（ZIP/VPK）`；
 2. 点击`选择压缩包文件`，选择`zip`文件；
 3. 等待安装完成后点确定，运行应用程序即可。
 
