@@ -99,7 +99,22 @@
 15. 将`ux0:FAGDec/app/[TITLE_ID]`里的所有文件移动覆盖至`ux0:data/[TITLE_ID]`，压缩`ux0:data/[TITLE_ID]`的文件为zip，也可以更改后缀名为vpk；
 16. 将已压缩的zip/vpk传至PC/Android安装。
 
-## 追加内容DLC
+## 提取游戏卡带的游戏
+### 使用nonpdrm提取
+1. 确保在PSVita已安装了VitaShell以及nonpdrm插件；
+2. 插入游戏卡带，等待安装应用气泡；
+3. 安装完成后在PSVita运行app/游戏；
+4. 然后退出游戏，运行VitaShell；
+5. 找到app路径`gro0:app`；
+6. 选中要提取[TITLE_ID]的游戏，并复制到`ux0:data`文件夹内；
+7. 找到nonpdrm授权路径`ux0:nonpdrm/license/app/[TITLE_ID]`，将rif文件重命名为work.bin，移动覆盖至`ux0:data/[TITLE_ID]/sce_sys/package`文件夹内，代表使用nonpdrm生成的授权替换掉PSN官方授权；
+8. 打包压缩`ux0:data/[TITLE_ID]`文件夹为zip，命名为[TITLE_ID].zip；
+9. 将已压缩的zip传至PC/Android安装。
+
+### 使用GCToolKit提取
+可以参考该项目说明[GcToolKit](https://git.silica.codes/OEstriot/GcToolKit)拷贝提取卡带镜像，可在电脑（Windows/Linux）、otg、PSVita进行拷贝vci卡带镜像文件。
+
+## 提取追加内容DLC
 ### 使用nonpdrm提取
 - 目前不支持安装从PSVita提取后的DLC，需要使用maidumptool转储提取，或是使用pkg安装。
 
