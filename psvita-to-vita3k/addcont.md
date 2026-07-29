@@ -29,9 +29,9 @@ PC与Android安装方式通用，追加内容DLC提取分两种情况：
 第二种，readdcont/其他的解密DLC也可以打包为zip安装，前提是必须有param.sfo文件，否则可能无法正常安装，安装方式与zip一致。
 
 ### Android
-第一种，例如他人提供的readdcont/其他的解密DLC(s)就可使用。
+第一种，例如他人提供的readdcont/其他的解密DLC就可使用。
 
-1. 使用原生文件管理器，解压readdcont/其他的解密DLC(s)补丁压缩包，复制里面的DLC；
+1. 使用原生文件管理器，解压readdcont/其他的解密DLC补丁压缩包，复制里面的DLC；
 2. 点击左上的图标开启文件管理器菜单，选择Vita3K，复制内容到`ux0/addcont/[TITLE_ID]`中；
 3. 在游戏中浏览已安装的DLC内容。
 
