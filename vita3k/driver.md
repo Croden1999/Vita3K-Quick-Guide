@@ -7,7 +7,7 @@
 仅适用于Qualcomm Adreno GPU，不支持其他GPU的安装。
 - 低于Qualcomm Adreno 6xx GPU无可用的GPU驱动。
 - 对于Qualcomm Adreno 6xx GPU且Android 10，需要使用[turnip-v12-adpkg](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/Turnip_v12/turnip-v12-adpkg.zip)的GPU驱动（该驱动存在易卡死以及闪退问题，无法长时间游玩，建议更新系统版本）。
-- 对于Qualcomm Adreno 8xx GPU使用[turnip_a8xx](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/v26.0.0-rc08/turnip_a8xx.zip)驱动，处于实验性阶段，谨慎使用。
+- 对于Qualcomm Adreno 8xx GPU使用[turnip_a8xx](https://github.com/K11MCH1/AdrenoToolsDrivers/releases/download/v26.0.0-rc08/turnip_a8xx.zip)驱动，处于实验性阶段，不推荐使用该驱动。
 
 ## 安装
 1. 打开Vita3K，在设置的`图形`选项卡中找到`自定义GPU驱动`，选择`下载驱动`，下载对应您设备的GPU型号的驱动；
