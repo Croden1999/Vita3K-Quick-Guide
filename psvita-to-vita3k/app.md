@@ -5,7 +5,7 @@
 3. [vpk](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vpk)：解密，本质也是zip格式，游戏的vpk只支持Mai，自制程序/移植游戏的vpk也支持（并非所有可运行）；不支持Vitamin，不要企图安装或运行。
 4. [vci](http://croden1999.github.io/Vita3K-Quick-Guide/vita3k/app#vci)：PSVita游戏卡带镜像。
 
-- 若想要选择文件夹安装所有的游戏，在安装压缩包（zip/vpk/vci）时选择安装目录即可。
+- 若想要选择文件夹安装所有的游戏，在`安装压缩包（zip/vpk/vci）`时`选择目录`即可。
 
 ## pkg
 PS官方PSN（游戏/app/DLC/主题）内容的pkg源文件，需要work.bin/rif授权文件或zrif密钥进行安装，PC与Android均通用步骤。
