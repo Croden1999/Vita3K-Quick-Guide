@@ -29,7 +29,7 @@ Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K/releases/download
 Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
 Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip)
 
-- 从3998版本开始，ImGUI已被Qt/Compose UI取代。对！使用新版界面而舍弃旧版界面的ImGUI已经似了，现已是Qt王朝。如果想要使用旧版本UI可以使用3996以及之前的版本。
+- 从3998版本开始，界面从ImGUI变更为Qt/Compose UI，偏向于现代化模拟器风格。
 
 ### 3996版本（ImGUI UI）
 
