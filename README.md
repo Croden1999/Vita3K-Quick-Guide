@@ -31,34 +31,6 @@ Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K/releases/download/con
 
 - 从3998版本开始，界面从ImGUI变更为Qt/Compose UI，偏向于现代化模拟器风格。
 
-### 3996版本（ImGUI UI）
-
-系统平台 | 官方 | 加速 
---- | --- | --- 
-Android | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-android.apk) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-android.apk) 
-macOS-arm64 | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-macos-arm64.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-macos-arm64.dmg)
-macOS-x86_64 | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-macos-intel.dmg) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-macos-intel.dmg)
-Linux-arm64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/Vita3K-aarch64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/Vita3K-aarch64.AppImage)
-Linux-arm64 (zip) | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-ubuntu-aarch64.7z) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-ubuntu-aarch64.7z)
-Linux-x86_64 (AppImage) | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/Vita3K-x86_64.AppImage) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/Vita3K-x86_64.AppImage)
-Linux-x86_64 (zip) | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-ubuntu-x86_64.7z) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-ubuntu-x86_64.7z)
-Windows-arm64 | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-windows-arm64.7z) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-windows-arm64.7z)
-Windows-x86_64 | [下载](https://github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-windows-x86_64.7z) | [下载](https://gh-proxy.com/github.com/Vita3K/Vita3K-builds/releases/download/3996/vita3k-3996-cb1f592c-windows-x86_64.7z)
-
-### PSVita OS分支版本 by Zangetsu38（ImGUI UI）
-
-系统平台 | GitHub | 加速 
---- | --- | --- 
-Android | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/android-latest.apk) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/android-latest.apk) 
-macOS-arm64 | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-arm64-latest.dmg) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-arm64-latest.dmg)
-macOS-x86_64 | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-latest.dmg) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/macos-latest.dmg)
-Linux-arm64 (AppImage) | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/Vita3K-aarch64.AppImage)
-Linux-arm64 (zip) | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/ubuntu-aarch64-latest.zip)
-Linux-x86_64 (AppImage) | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/Vita3K-x86_64.AppImage)
-Linux-x86_64 (zip) | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/ubuntu-latest.zip) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/ubuntu-latest.zip)
-Windows-arm64 | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/windows-arm64-latest.zip) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/windows-arm64-latest.zip)
-Windows-x86_64 | [下载](https://github.com/Zangetsu38/Vita3K/releases/download/continuous/windows-latest.zip) | [下载](https://gh-proxy.com/github.com/Zangetsu38/Vita3K/releases/download/continuous/windows-latest.zip)
-
 ## 配置要求
 
 PC | 最低要求 | 推荐要求 
